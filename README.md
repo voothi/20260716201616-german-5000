@@ -20,6 +20,7 @@ The official lists are based on the [Goethe-Institut Wordlists](https://www.goet
 - [Usage](#usage)
   - [Running the Alphabetical Conversion](#running-the-alphabetical-conversion)
   - [Running the Frequency Conversion](#running-the-frequency-conversion)
+  - [Running the Unit Tests](#running-the-unit-tests)
 - [License](#license)
 
 ---
@@ -105,6 +106,12 @@ python U:\voothi\20260716201616-german-5000\scripts\1_convert_german_csv_to_tsv.
 Execute the script from the terminal to recreate the unsorted frequency-ordered TSV file:
 ```powershell
 python U:\voothi\20260716201616-german-5000\scripts\2_convert_german_by_frequency.py
+```
+
+### Running the Unit Tests
+Execute the unit test suite from the terminal to verify clean lemma extraction and sorting rules:
+```powershell
+python U:\voothi\20260716201616-german-5000\tests\test_scripts.py
 ```
 
 [Return to Top](#german-5000-wordlist-curation--caching-pipeline)
