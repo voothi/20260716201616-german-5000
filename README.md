@@ -2,6 +2,8 @@
 
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/voothi/20260716201616-german-5000)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![AnkiWeb Deck](https://img.shields.io/badge/AnkiWeb_Deck-38922074-blue.svg?logo=anki)](https://ankiweb.net/shared/info/38922074)
+[![AnkiWeb Add-on](https://img.shields.io/badge/AnkiWeb_Add--on-1967530655-blue.svg?logo=anki)](https://ankiweb.net/shared/info/1967530655)
 
 A specialized data curation project designed to produce highly accurate, clean, and verified TSV lists for the Goethe Institute German 5000 vocabulary database. This repository packages the sanitized datasets along with a suite of Python scripts to manage and verify the data pipeline.
 
@@ -24,6 +26,8 @@ The official lists are based on the [Goethe-Institut Wordlists](https://www.goet
 
 ## Project Goal
 The primary objective of this project is to compile, sanitize, and verify the Goethe German 5000 vocabulary lists to a high standard of accuracy in both alphabetical and frequency orders. This includes extracting clean, article-free base lemmas (e.g. `Mensch` from `der Mensch, -en`), isolating inflectional parentheticals (e.g. `andere (r, s)` $\rightarrow$ `andere`), keeping verb conjugations comma-separated (e.g. `sein, ist, war, ist gewesen`), and combining multiple parts of speech into unified columns. The processing scripts are packaged with the data to support future adjustments and reproducibility.
+
+The original vocabulary data was exported from the [German 5000 Frequency Words Audio + Conjugations + Goethe V2](https://ankiweb.net/shared/info/38922074) Anki deck using the [Copy notes to clipboard](https://ankiweb.net/shared/info/1967530655) AnkiWeb add-on.
 
 [Return to Top](#german-5000-wordlist-curation--caching-pipeline)
 
