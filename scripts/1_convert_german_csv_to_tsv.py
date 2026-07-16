@@ -84,8 +84,14 @@ def main():
                 "level": level
             })
             
-    # Sort alphabetically by Word
-    records.sort(key=lambda r: r["word"].lower())
+    # Sort alphabetically by Word using German dictionary rules (umlauts treated as base characters)
+    def german_sort_key(r):
+        w = r["word"].lower()
+        w = w.replace("ä", "a").replace("ö", "o").replace("ü", "u").replace("ß", "ss")
+        w = re.sub(r"[^a-z0-9\s,]", "", w)
+        return (w, r["word"])
+
+    records.sort(key=german_sort_key)
     
     # Ensure output directory exists
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
