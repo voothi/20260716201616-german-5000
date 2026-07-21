@@ -43,18 +43,26 @@ The curation and verification process evolved through the following stages:
 ## Project Structure
 ```text
 U:\voothi\20260716201616-german-5000\
-├── scripts/                                             # Core pipeline scripts
-│   ├── 1_convert_german_csv_to_tsv.py                  # Converts alphabetical CSV to TSV (German sorted)
-│   └── 2_convert_german_by_frequency.py                 # Converts frequency CSV to TSV (order preserved)
-├── .gitattributes                                       # Git attributes configuration
-├── .gitignore                                           # Git ignore configuration
-├── 20260716200932-english-deutsch.de.csv                # Raw alphabetical source CSV
-├── 20260716200932-english-deutsch.de.tsv                # Clean alphabetical target TSV
-├── 20260716202200-english-deutsch-by-frequency.de.csv   # Raw frequency source CSV
-├── 20260716202200-english-deutsch-by-frequency.de.tsv   # Clean frequency target TSV
-├── German 5000 Frequency Words Audio + Conjugations... # Shortcut link to AnkiWeb source
-├── LICENSE                                              # MIT license
-└── README.md                                            # Project documentation
+├── scripts/
+├── tests/
+├── .gitattributes
+├── .gitignore
+├── 20260716200932-goethe-german-5000-ru.de.pdf
+├── 20260716200932-goethe-german-5000-ru.de.tsv
+├── 20260716200932-goethe-german-5000.de.csv
+├── 20260716200932-goethe-german-5000.de.pdf
+├── 20260716200932-goethe-german-5000.de.tsv
+├── 20260716201616-german-5000.code-workspace
+├── 20260716202200-goethe-german-5000-freq-ru.de.pdf
+├── 20260716202200-goethe-german-5000-freq-ru.de.tsv
+├── 20260716202200-goethe-german-5000-freq.de.csv
+├── 20260716202200-goethe-german-5000-freq.de.pdf
+├── 20260716202200-goethe-german-5000-freq.de.tsv
+├── German 5000 Frequency Words Audio + Conjugations + Goethe V2 - AnkiWeb.url
+├── LICENSE
+├── README.md
+├── update_names.py
+└── update_trees.py
 ```
 
 [Return to Top](#german-5000-wordlist-curation--caching-pipeline)
@@ -86,11 +94,11 @@ To ensure no grammatical information is lost for human readers:
 ## Pipelines & Scripts Details
 
 1.  **`1_convert_german_csv_to_tsv.py`:**
-    *   *Input:* `20260716200932-english-deutsch.de.csv`
-    *   *Operation:* Normalizes nouns/inflections, merges Parts of Speech, sorts alphabetically using German dictionary rules (DIN 5007 Variant 1) treating umlauts as base vowels, and writes to `20260716200932-english-deutsch.de.tsv` and `kardenwort` data folder.
+    *   *Input:* `20260716200932-goethe-german-5000.de.csv`
+    *   *Operation:* Normalizes nouns/inflections, merges Parts of Speech, sorts alphabetically using German dictionary rules (DIN 5007 Variant 1) treating umlauts as base vowels, and writes to `20260716200932-goethe-german-5000.de.tsv` and `kardenwort` data folder.
 2.  **`2_convert_german_by_frequency.py`:**
-    *   *Input:* `20260716202200-english-deutsch-by-frequency.de.csv`
-    *   *Operation:* Normalizes nouns/inflections, merges Parts of Speech, preserves the original frequency order as is (unsorted), and writes to `20260716202200-english-deutsch-by-frequency.de.tsv` and `kardenwort` data folder.
+    *   *Input:* `20260716202200-goethe-german-5000-freq.de.csv`
+    *   *Operation:* Normalizes nouns/inflections, merges Parts of Speech, preserves the original frequency order as is (unsorted), and writes to `20260716202200-goethe-german-5000-freq.de.tsv` and `kardenwort` data folder.
 
 [Return to Top](#german-5000-wordlist-curation--caching-pipeline)
 

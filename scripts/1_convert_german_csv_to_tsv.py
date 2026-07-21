@@ -11,8 +11,8 @@ import csv
 import os
 import re
 
-input_path = r"U:\voothi\20260716201616-german-5000\20260716200932-english-deutsch.de.csv"
-output_path = r"U:\voothi\20241223170748-kardenwort\data\de\20260716200932-english-deutsch.de.tsv"
+input_path = r"U:\voothi\20260716201616-german-5000\20260716200932-goethe-german-5000.de.csv"
+output_path = r"U:\voothi\20241223170748-kardenwort\data\de\20260716200932-goethe-german-5000.de.tsv"
 
 def clean_german_lemma(raw_word):
     # Strip parentheticals first to avoid splitting on commas inside them

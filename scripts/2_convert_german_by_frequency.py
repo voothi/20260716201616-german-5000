@@ -10,10 +10,10 @@ import csv
 import os
 import re
 
-input_path = r"U:\voothi\20260716201616-german-5000\20260716202200-english-deutsch-by-frequency.de.csv"
+input_path = r"U:\voothi\20260716201616-german-5000\20260716202200-goethe-german-5000-freq.de.csv"
 output_paths = [
-    r"U:\voothi\20260716201616-german-5000\20260716202200-english-deutsch-by-frequency.de.tsv",
-    r"U:\voothi\20241223170748-kardenwort\data\de\20260716202200-english-deutsch-by-frequency.de.tsv"
+    r"U:\voothi\20260716201616-german-5000\20260716202200-goethe-german-5000-freq.de.tsv",
+    r"U:\voothi\20241223170748-kardenwort\data\de\20260716202200-goethe-german-5000-freq.de.tsv"
 ]
 
 def clean_german_lemma(raw_word):
