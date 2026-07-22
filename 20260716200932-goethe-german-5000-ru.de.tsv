@@ -1,7 +1,5 @@
 Word	Annotation	Sense	Part of Speech	Level	Russian
 ab	ab		prep	A1	выкл.
-ab	ab		prep	A1	выкл.
-ab	ab		adv	A1	выкл.
 ab	ab		adv	A1	выкл.
 Abbau	der Abbau, -e		der	B2+	демонтаж
 abbauen, baut ab, baute ab, hat abgebaut	abbauen, baut ab, baute ab, hat abgebaut		verb	B1	демонтировать
@@ -3059,7 +3057,7 @@ notwendig	notwendig		adj	A2	необходимо
 Notwendigkeit	die Notwendigkeit, -en		die	B2+	необходимость
 November	der November, -		der	B1	ноябрь
 nüchtern	nüchtern		adj	B2+	трезвый
-			num	A1	ноль
+null			num	A1	ноль
 Nummer	die Nummer, -n		die	A1	номер
 nun, nu	nun, nu		adv	A1	ну
 nunmehr	nunmehr		adv	B2+	сейчас
@@ -3642,8 +3640,6 @@ Schwein	das Schwein, -e		das	A2	свинья
 Schweiß	der Schweiß, -e		der	B2+	пот
 Schweiz	die Schweiz, -en		die	A2	Швейцария
 Schweizer	Schweizer		adj	B1	швейцарский
-Schweizer	Schweizer		adj	B1	швейцарский
-Schweizer	Schweizer		der	B2+	швейцарский
 Schweizer	Schweizer		der	B2+	швейцарский
 schwer	schwer		adj	A1	сложно
 Schwerpunkt	der Schwerpunkt, -e		der	B1	фокус
@@ -4185,8 +4181,6 @@ typisch	typisch		adj	A2	типичный
 überlassen, überlässt, überließ, hat überlassen	überlassen, überlässt, überließ, hat überlassen		verb	B1	ушел
 überleben, überlebt, überlebte, hat überlebt	überleben, überlebt, überlebte, hat überlebt		verb	B1	выжить
 überlegen	überlegen		verb	B1	рассмотреть
-überlegen	überlegen		verb	B1	рассмотреть
-überlegen	überlegen		adj	B1	рассмотреть
 überlegen	überlegen		adj	B1	рассмотреть
 Überlegung	die Überlegung, -en		die	B1	рассмотрение
 übernachten, übernachtet, übernachtete, hat übernachtet	übernachten, übernachtet, übernachtete, hat übernachtet		verb	A1	переночевать
