@@ -136,3 +136,25 @@ You can provide the AI with the TSV file and use the following prompt to trigger
 > **Prompt:** "Please read the attached TSV file containing the dictionary list. Using your Python execution environment, generate an HTML file and convert it to a 3-column A4 PDF using `pandas` and `weasyprint`. Format the 'Word' (or 'Annotation') in bold black, the 'Part of Speech' and 'Level' in grey italics, and append the 'Russian' translation from the last column in blue. Include page numbers and copyright text at the bottom. Do not let individual entries break across pages or columns."
 
 There is also a Python script `scripts/tsv_to_pdf.py` available if you want to run this locally in your own environment.
+
+[Return to Top](#german-5000-wordlist-curation--caching-pipeline)
+
+## Generating HTML from TSV
+
+The `scripts/generate_html.py` script was generated using Gemini 3.1 Pro Extended with the following prompts:
+
+```text
+20260722113359 Generate exact HTML from the TSV file similar to the attached PDF. Output ready full HTML file.
+
+// scripts/generate_html.py
+...
+```
+
+```text
+20260722114600 Now do this one, name it 20260716200932-goethe-german-5000-ru.de.html
+```
+
+```text
+20260722115656 Update the script if necessary. And take me out.
+// scripts/generate_html.py
+```
