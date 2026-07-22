@@ -141,7 +141,7 @@ There is also a Python script `scripts/tsv_to_pdf.py` available if you want to r
 
 ## Generating HTML from TSV
 
-The `scripts/generate_html.py` script was generated using Gemini 3.1 Pro Extended with the following prompts:
+The `scripts/generate_html.py` script was generated using Gemini 3.1 Pro Extended with the following prompts. Along with the prompts, the corresponding pairs of reference files (e.g., `20260716200932-goethe-german-5000-ru.de.pdf` and `20260716200932-goethe-german-5000-ru.de.tsv`) were attached as context:
 
 ```text
 20260722113359 Generate exact HTML from the TSV file similar to the attached PDF. Output ready full HTML file.
