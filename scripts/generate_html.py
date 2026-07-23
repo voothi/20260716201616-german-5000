@@ -12,7 +12,8 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         print(f"Error reading file: {e}")
         sys.exit(1)
 
-    # Auto-detect if the Russian translation column exists
+    # Auto-detect if the English and Russian translation columns exist
+    has_english = 'English' in df.columns
     has_russian = 'Russian' in df.columns
 
     html_content = f"""<!DOCTYPE html>
@@ -124,11 +125,16 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         
         entry_html = f'<span class="word">{word_safe}</span> <span class="pos">{pos_safe}</span> <span class="level">{lvl_safe}</span>'
         
-        # Append translation only if applicable
+        # Append translations: English then Russian
+        if has_english:
+            trans_en = str(row['English']) if pd.notna(row['English']) else ""
+            if trans_en:
+                entry_html += f' <span class="trans">{html.escape(trans_en)}</span>'
+
         if has_russian:
-            trans = str(row['Russian']) if pd.notna(row['Russian']) else ""
-            if trans:
-                entry_html += f' <span class="trans">{html.escape(trans)}</span>'
+            trans_ru = str(row['Russian']) if pd.notna(row['Russian']) else ""
+            if trans_ru:
+                entry_html += f' <span class="trans">{html.escape(trans_ru)}</span>'
         
         html_content += f'        <div class="entry">{entry_html}</div>\n'
         count += 1
