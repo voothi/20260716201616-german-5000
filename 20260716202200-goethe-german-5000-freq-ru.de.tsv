@@ -1,12 +1,12 @@
 Word	Annotation	Sense	Part of Speech	Level	English	Russian
-der	der		art, pron, pron	A1	the; that, those; who, that	определенный артикль. ; тот. ; который
+der	der		art, pron, pron	A1	the; that, those; who, that	определенный артикль; тот; который
 und	und		conj	A1	and	и
 in	in		prep	A1	in	в
-sein, ist, war, ist gewesen	sein, ist, war, ist gewesen		verb, aux	A1	to be; (past tense)	быть. ; быть
-ein	ein		art, pron	A1	a, an; one (of)	неопределенный артикль. ; один
+sein, ist, war, ist gewesen	sein, ist, war, ist gewesen		verb, aux	A1	to be; (past tense)	быть
+ein	ein		art, pron	A1	a, an; one (of)	неопределенный артикль; один
 haben, hat, hatte, hat gehabt	haben, hat, hatte, hat gehabt		verb, aux	A1	to have; (past tense)	иметь
-sie	sie		pron, pron, pron	A1	she, her; they, them; you	она. ; они. ; вы
-werden, wird, wurde, ist geworden	werden, wird, wurde, ist geworden		verb, aux, aux	A1	to become, get; (future tense); (passive voice)	становиться. ; будущее время. ; быть
+sie	sie		pron, pron, pron	A1	she, her; they, them; you	она; они; вы
+werden, wird, wurde, ist geworden	werden, wird, wurde, ist geworden		verb, aux, aux	A1	to become, get; (future tense); (passive voice)	становиться; будущее время; быть
 von	von		prep	A1	from, of	от
 ich	ich		pron	A1	I	я
 nicht	nicht		part	A1	not	не
@@ -19,34 +19,34 @@ für	für		prep	A1	for	для
 auch	auch		adv	A1	also, too	также
 an	an		prep	A1	at, on	на
 dass	dass		conj	A1	that	что
-zu	zu		part, prep, part	A1	to; to; too	инфинитивная частица. ; к. ; слишком
-als	als		conj, part	A1	as, when; than	когда. ; чем. ; как
+zu	zu		part, prep, part	A1	to; to; too	инфинитивная частица; к; слишком
+als	als		conj, part	A1	as, when; than	когда; чем; как
 können, kann, konnte, hat können	können, kann, konnte, hat können		verb	A1	to be able to, can	мочь
 dies	dies		pron	A1	this, that	этот
-wie	wie		pron, part	A1	how; as	как. ; как
+wie	wie		pron, part	A1	how; as	как
 wir	wir		pron	A1	we	мы
-ihr	ihr		pron, pron, pron	A1	you, her; her, their, hers, theirs; your	её. ; их. ; ваш
-so	so		adv, part	A1	so, thus, the way, such; so	так. ; так
+ihr	ihr		pron, pron, pron	A1	you, her; her, their, hers, theirs; your	её; их; ваш
+so	so		adv, part	A1	so, thus, the way, such; so	так
 bei	bei		prep	A1	by, with, at	у
 sein	sein		pron	A1	his, its	свой
-aber	aber		conj, part	A1	but	но. ; же
+aber	aber		conj, part	A1	but	но; же
 man	man		pron	A1	one, you, they	можно
 noch	noch		adv	A1	still, yet	ещё
 nach	nach		prep	A1	after, toward	после
 oder	oder		conj	A1	or	или
 all	all		pron	A1	all	весь
 aus	aus		prep	A1	out, out of, from	из
-was	was		pron	A1	what	что. ; что. ; что
+was	was		pron	A1	what	что
 nur	nur		adv	A1	only	только
 sagen, sagt, sagte, hat gesagt	sagen, sagt, sagte, hat gesagt		verb	A1	to say, tell	говорить
 dann	dann		adv	A1	then	затем
 wenn	wenn		conj	A1	if, when	когда
 müssen, muss, musste, hat gemusst	müssen, muss, musste, hat gemusst		verb	A1	to have to, must	долженствовать
-um	um		prep, conj	A1	around, at; in order to	вокруг. ; чтобы
+um	um		prep, conj	A1	around, at; in order to	вокруг; чтобы
 ja	ja		part	A1	yes, of course	да
 kein	kein		pron	A1	no	никакой
 über	über		prep	A1	above, over, about	над
-da	da		adv, conj	A1	there; because	там. ; поскольку
+da	da		adv, conj	A1	there; because	там; поскольку
 geben, gibt, gab, hat gegeben	geben, gibt, gab, hat gegeben		verb	A1	to give	давать
 vor	vor		prep	A1	in front of, before, ago	перед
 mein	mein		pron	A1	my, mine	мой
@@ -59,28 +59,28 @@ wollen, will, wollte, hat gewollt	wollen, will, wollte, hat gewollt		verb	A1	to 
 machen, macht, machte, hat gemacht	machen, macht, machte, hat gemacht		verb	A1	to do, make	делать
 andere	andere (r, s)		pron	A1	other	другой
 sollen, soll, sollte, hat gesollt	sollen, soll, sollte, hat gesollt		verb	A1	should, ought to	долженствовать
-schon	schon		adv, part	A1	already	уже. ; всё же. ; уже
+schon	schon		adv, part	A1	already	уже; всё же
 kommen, kommt, kam, ist gekommen	kommen, kommt, kam, ist gekommen		verb	A1	to come	приходить
 mir	mir		pron	A1	me	я
 immer	immer		adv	A1	always	всегда
-mich	mich		pron, (Reflexive pronoun in the acc.)	A1	me	я. ; себя
-gehen, geht, ging, ist gegangen	gehen, geht, ging, ist gegangen		verb	A1	to go	идти. ; идти. ; идти
+mich	mich		pron, (Reflexive pronoun in the acc.)	A1	me	я; себя
+gehen, geht, ging, ist gegangen	gehen, geht, ging, ist gegangen		verb	A1	to go	идти
 groß	groß		adj	A1	big, large, great	большой
 hier	hier		adv	A1	here	здесь
-ganz	ganz		adj, part	A2	whole, all the; quite	весь. ; вполне
+ganz	ganz		adj, part	A2	whole, all the; quite	весь; вполне
 zwei	zwei		num	A1	two	два
 also	also		adv	A1	so	значит
 jetzt	jetzt		adv	A1	now	сейчас
-doch	doch		adv, part	A1	however, but	но. ; же
+doch	doch		adv, part	A1	however, but	но; же
 wieder	wieder		adv	A2	again	снова
 uns	uns		pron	A1	us, we	мы
 gut	gut		adj	A1	good	хороший
-bis	bis		prep, conj	A1	until, till; until	до. ; пока
-wissen, weiß, wusste, hat gewusst	wissen, weiß, wusste, hat gewusst		verb	A1	to know	знать. ; знать. ; знать
+bis	bis		prep, conj	A1	until, till; until	до; пока
+wissen, weiß, wusste, hat gewusst	wissen, weiß, wusste, hat gewusst		verb	A1	to know	знать
 sehen, sieht, sah, hat gesehen	sehen, sieht, sah, hat gesehen		verb	A1	to see	видеть
 einer	einer		pron	A1	(some)one	один
 sehr	sehr		adv	A1	very	очень
-Mal	Mal		das, conj, part	A1	time, mark; times	пятно. ; раз. ; как-то
+Mal	Mal		das, conj, part	A1	time, mark; times	пятно; раз; как-то
 lassen, lässt, ließ, hat gelassen	lassen, lässt, ließ, hat gelassen		verb	A2	to let, allow, have done	позволять
 neu	neu		adj	A1	new	новый
 stehen, steht, stand, hat gestanden	stehen, steht, stand, hat gestanden		verb	A1	to stand	стоять
@@ -91,16 +91,16 @@ unter	unter		prep	A1	under	под
 Mensch	der Mensch, -en		der	A1	human being	человек
 ihm	ihm		pron	A1	him	он
 ihn	ihn		pron	A1	him	он
-denn	denn		conj, part	A1	because; anyway	потому что. ; же
+denn	denn		conj, part	A1	because; anyway	потому что; же
 Beispiel	das Beispiel, -e		das	A1	example	пример
 erste	erste (r, s)		adj	A1	first	первый
 Zeit	die Zeit, -en		die	A1	time	время
-lang	lang		adj, adv	A1	long; for a long time	длинный. ; долго
+lang	lang		adj, adv	A1	long; for a long time	длинный; долго
 leben, lebt, lebte, hat gelebt	leben, lebt, lebte, hat gelebt		verb	A1	to live	жить
 Frau	die Frau, -en		die	A1	woman, wife, Mrs.	женщина
 etwas	etwas		pron	A2	something, some, a little	кое-что
-selbst, selber	selbst, selber		pron, part	A2	-self; even	сам. ; даже. ; сам
-wenig	wenig		adj, pron	A1	few; little, few	немногий. ; мало
+selbst, selber	selbst, selber		pron, part	A2	-self; even	сам; даже
+wenig	wenig		adj, pron	A1	few; little, few	немногий; мало
 finden, findet, fand, hat gefunden	finden, findet, fand, hat gefunden		verb	A1	to find	находить
 gegen	gegen		prep	A1	against	против
 zwischen	zwischen		prep	A1	between	между
@@ -110,7 +110,7 @@ wo	wo		pron	A1	where	где
 nichts, nix	nichts, nix		pron	A1	nothing	ничто
 klein	klein		adj	A1	small, little	маленький
 Tag	der Tag, -e		der	A1	day	день
-deutsch	deutsch		adj, das	A1	German; German	немецкий. ; немецкий
+deutsch	deutsch		adj, das	A1	German; German	немецкий
 bleiben, bleibt, blieb, ist geblieben	bleiben, bleibt, blieb, ist geblieben		verb	A1	to stay, remain	оставаться
 nun, nu	nun, nu		adv	A1	now	теперь
 sondern	sondern		conj	B1	but (on the contrary)	а
@@ -118,24 +118,24 @@ heute	heute		adv	A1	today	сегодня
 beide	beide		pron	A1	both	оба
 hoch	hoch		adj	A1	high, tall	высокий
 damit	damit		pron	B1	so that	этим
-ohne	ohne		prep, conj	A1	without; without	без. ; не
+ohne	ohne		prep, conj	A1	without; without	без; не
 Mann	der Mann, -̈er		der	A1	man	мужчина
 welch	welch, -e, -er, -es		pron	A1	which	какой
 tun, tut, tat, hat getan	tun, tut, tat, hat getan		verb	A1	to do	делать
 einmal	einmal		adv	A1	once	однажды
-ihnen	ihnen		pron, pron	A1	them; you	они. ; вы
+ihnen	ihnen		pron, pron	A1	them; you	они; вы
 heißen, heißt, hieß, hat geheißen	heißen, heißt, hieß, hat geheißen		verb	A1	to be called	называться
 ob	ob		conj	B1	whether, if	ли
 denken, denkt, dachte, hat gedacht	denken, denkt, dachte, hat gedacht		verb	A2	to think	думать
 dabei	dabei		pron	A2	with it, there	присутствовать
 seit	seit		prep	A1	since, for	с
-einfach	einfach		adj, part	A1	simple, easy; simply	простой. ; просто
-erst	erst		adv, part	A1	first, only, not until	сначала. ; только. ; только
+einfach	einfach		adj, part	A1	simple, easy; simply	простой; просто
+erst	erst		adv, part	A1	first, only, not until	сначала; только
 Kind	das Kind, -er		das	A1	child	ребенок
 Land	das Land, -̈er		das	A1	land, country, state	страна
 stellen, stellt, stellte, hat gestellt	stellen, stellt, stellte, hat gestellt		verb	A1	to place, set, put	ставить
 zeigen, zeigt, zeigte, hat gezeigt	zeigen, zeigt, zeigte, hat gezeigt		verb	A2	to show	показывать
-natürlich	natürlich		adj, adv	A2	natural; naturally, of course	естественный. ; конечно
+natürlich	natürlich		adj, adv	A2	natural; naturally, of course	естественный; конечно
 alt	alt		adj	A1	old	старый
 dort	dort		adv	A1	there	там
 Deutschland	Deutschland		das	A1	Germany	Германия
@@ -143,13 +143,13 @@ gleich	gleich		adj	A1	same, right away, just	одинаковый
 nehmen, nimmt, nahm, hat genommen	nehmen, nimmt, nahm, hat genommen		verb	A1	to take	брать
 dürfen, darf, durfte, hat gedurft	dürfen, darf, durfte, hat gedurft		verb	A1	to be allowed to may	мочь
 wichtig	wichtig		adj	A1	important	важный
-vielleicht	vielleicht		adv, part	A1	perhaps, maybe	возможно. ; же
+vielleicht	vielleicht		adv, part	A1	perhaps, maybe	возможно; же
 hören, hört, hörte, hat gehört	hören, hört, hörte, hat gehört		verb	A1	to hear	слышать
 Haus	das Haus, -̈er		das	A1	house	дом
 nein, nee, nö	nein, nee, nö		part	A1	no	нет
 wer	wer		pron	A1	who, whoever	кто
 dazu	dazu		pron	A1	in addition, furthermore, to that, for that	к тому
-eigentlich	eigentlich		adj, adv, part	A2	actual, real; actually	настоящий. ; на самом деле. ; же
+eigentlich	eigentlich		adj, adv, part	A2	actual, real; actually	настоящий; на самом деле; же
 letzte	letzte (r, s)		adj	A1	last	последний
 fragen, fragt, fragte, hat gefragt	fragen, fragt, fragte, hat gefragt		verb	A1	to ask	спрашивать
 Herr	der Herr, -en		der	A1	Mr.	господин
@@ -157,7 +157,7 @@ halten, hält, hielt, hat gehalten	halten, hält, hielt, hat gehalten		verb	A1	t
 glauben, glaubt, glaubte, hat geglaubt	glauben, glaubt, glaubte, hat geglaubt		verb	A1	to believe	верить
 Frage	die Frage, -n		die	A1	question	вопрос
 gelten, gilt, galt, hat gegolten	gelten, gilt, galt, hat gegolten		verb	B1	to be valid	действовать
-gerade	gerade		adj, adv	A1	straight; just, just now, right now	прямой. ; как раз
+gerade	gerade		adj, adv	A1	straight; just, just now, right now	прямой; как раз
 folgen, folgt, folgte, ist gefolgt	folgen, folgt, folgte, ist gefolgt		verb	B1	to follow	следовать
 sprechen, spricht, sprach, hat gesprochen	sprechen, spricht, sprach, hat gesprochen		verb	A1	to speak	говорить
 führen, führt, führte, hat geführt	führen, führt, führte, hat geführt		verb	B1	to lead	вести
@@ -167,11 +167,11 @@ gar	gar		adv	A1	at all	вовсе
 eigen	eigen		adj	A2	own	собственный
 genau	genau		adj	A2	exact	точный
 mögen, mag, mochte, hat gemocht	mögen, mag, mochte, hat gemocht		verb	A1	to like	любить
-spät	spät		adj, adj	A1	late; later	поздний. ; позже
+spät	spät		adj, adj	A1	late; later	поздний; позже
 bereits	bereits		adv	B1	already	уже
-möglich	möglich		adj, adv	A1	possible; as . . . as possible, if possible	возможный. ; по возможности
+möglich	möglich		adj, adv	A1	possible; as . . . as possible, if possible	возможный; по возможности
 Prozent	das Prozent, -e		das	A1	percent	процент
-während	während		prep, conj	B1	during, while; while, whereas	во время. ; в то время как
+während	während		prep, conj	B1	during, while; while, whereas	во время; в то время как
 einige	einige		pron	A1	a few, some	несколько
 dafür	dafür		pron	A2	for it, for that	за это
 kurz	kurz		adj	A1	short	короткий
@@ -179,7 +179,7 @@ richtig	richtig		adj	A1	correct, right	правильный
 stark	stark		adj	A2	strong	сильный
 brauchen, braucht, brauchte, hat gebraucht	brauchen, braucht, brauchte, hat gebraucht		verb	A1	to need	нуждаться
 Hand	die Hand, -̈e		die	A1	hand	рука
-etwa	etwa		adv, part	B1	about, approximately; after all	примерно. ; неужели
+etwa	etwa		adv, part	B1	about, approximately; after all	примерно; неужели
 weitere	weitere (r, s)		adj	A1	additional, further	дальнейший
 Ende	das Ende, -n		das	A1	end	конец
 schreiben, schreibt, schrieb, hat geschrieben	schreiben, schreibt, schrieb, hat geschrieben		verb	A1	to write	писать
@@ -187,15 +187,15 @@ solch	solch		pron	B1	such	такой
 nie	nie		adv	A1	never	никогда
 Fall	der Fall, -̈e		der	B1	fall, case	дело
 schön	schön		adj	A1	beautiful, pleasant, good	красивый
-wirklich	wirklich		adj, adv	A2	real, actual; really, actually	настоящий. ; действительно
+wirklich	wirklich		adj, adv	A2	real, actual; really, actually	настоящий; действительно
 denen	denen		pron	A1	whom, that	который
 nennen, nennt, nannte, hat genannt	nennen, nennt, nannte, hat genannt		verb	A2	to name, call	называть
 warum	warum		adv	A1	why	почему
 ziehen, zieht, zog, hat gezogen	ziehen, zieht, zog, hat gezogen		verb	B1	to pull, move	тянуть
 Wort	das Wort, -̈er		das	A1	word	слово
 darauf, drauf	darauf, drauf		pron	A1	on it, to it	на нём
-eben, ebend	eben, ebend		adv, part	B1	just, now	только что. ; всё-таки. ; равный
-Seite	die Seite, -n		die	A2	side, page	страница. ; сторона. ; сторона
+eben, ebend	eben, ebend		adv, part	B1	just, now	только что; всё-таки; равный
+Seite	die Seite, -n		die	A2	side, page	страница; сторона
 Teil	das Teil, -e		der, das	A1	part	часть
 jung	jung		adj	A1	young	молодой
 vier	vier		num	A1	four	четыре
@@ -203,7 +203,7 @@ besser	besser		adj	A1	better	лучше
 fast	fast		adv	A2	almost	почти
 schnell	schnell		adj	A1	fast	быстрый
 Stadt	die Stadt, -̈e		die	A1	city, town	город
-spielen, spielt, spielte, hat gespielt	spielen, spielt, spielte, hat gespielt		verb	A1	to play	играть. ; играть. ; играть
+spielen, spielt, spielte, hat gespielt	spielen, spielt, spielte, hat gespielt		verb	A1	to play	играть
 zwar	zwar		adv	B1	admittedly, to be precise	а именно
 Euro	der Euro, -s		der	A1	euro (unit of currency)	евро
 Arbeit	die Arbeit, -en		die	A1	work	работа
@@ -218,7 +218,7 @@ kennen, kennt, kannte, hat gekannt	kennen, kennt, kannte, hat gekannt		verb	A1	t
 dich	dich		pron	A1	you, yourself	ты
 Mutter	die Mutter, -̈		die	A1	mother	мать
 Woche	die Woche, -n		die	A1	week	неделя
-Weg	der Weg, -e		der	A1	path, way	путь. ; определенный артикль. ; определенный артикль
+Weg	der Weg, -e		der	A1	path, way	путь; определенный артикль
 weiter	weiter		adv	A1	further	дальнейший
 Auge	das Auge, -n		das	A1	eye	глаз
 oft	oft		adv	A1	often	часто
@@ -226,7 +226,7 @@ Leute	Leute		die (pl)	A1	people	люди
 allerdings	allerdings		adv	B1	though, indeed, certainly	конечно
 sogar	sogar		adv	A2	even, in fact	даже
 jedoch	jedoch		adv	B1	however	однако
-setzen, setzt, setzte, hat gesetzt	setzen, setzt, setzte, hat gesetzt		verb, verb	A2	to set, place, put; to sit down	ставить. ; садиться
+setzen, setzt, setzte, hat gesetzt	setzen, setzt, setzte, hat gesetzt		verb, verb	A2	to set, place, put; to sit down	ставить; садиться
 deshalb	deshalb		adv	A2	therefore	поэтому
 weit	weit		adj	A1	widely, far	далеко
 sitzen, sitzt, saß, hat gesessen	sitzen, sitzt, saß, hat gesessen		verb	A1	to sit	сидеть
@@ -239,8 +239,8 @@ nächste	nächste (r, s)		adj	A2	next	следующий
 erklären, erklärt, erklärte, hat erklärt	erklären, erklärt, erklärte, hat erklärt		verb	A1	to explain	объяснять
 klar	klar		adj	A1	clear	прозрачный
 Doktor	der Doktor, -en (Dr.)		der	A1	doctor	врач
-Paar	das Paar, -e		das, pron	A2	pair, couple; a few	пара. ; несколько
-Recht	das Recht, -e		das, adj, part	B1	right, law; all right; rather, quite	право. ; подходящий. ; довольно
+Paar	das Paar, -e		das, pron	A2	pair, couple; a few	пара; несколько
+Recht	das Recht, -e		das, adj, part	B1	right, law; all right; rather, quite	право; подходящий; довольно
 wegen	wegen		prep	A2	because of	из-за
 dir	dir		pron	A1	you	ты
 Wasser	das Wasser, -		das	A1	water	вода
@@ -259,9 +259,9 @@ schwer	schwer		adj	A1	difficult, heavy	тяжелый
 entsprechen, entspricht, entsprach, hat entsprochen	entsprechen, entspricht, entsprach, hat entsprochen		verb	A1	to correspond	соответствовать
 treffen, trifft, traf, hat getroffen	treffen, trifft, traf, hat getroffen		verb	A2	to meet	встречаться
 Art	die Art, -en		die	A1	type, kind	вид
-wohl	wohl		adv, part	B1	well; probably	хорошо. ; вероятно
-Geschichte	die Geschichte, -n		die	A2	history, story	история. ; история. ; история
-erzählen, erzählt, erzählte, hat erzählt	erzählen, erzählt, erzählte, hat erzählt		verb	A1	to tell	рассказывать. ; рассказывать. ; рассказывать
+wohl	wohl		adv, part	B1	well; probably	хорошо; вероятно
+Geschichte	die Geschichte, -n		die	A2	history, story	история
+erzählen, erzählt, erzählte, hat erzählt	erzählen, erzählt, erzählte, hat erzählt		verb	A1	to tell	рассказывать
 entstehen, entsteht, entstand, ist entstanden	entstehen, entsteht, entstand, ist entstanden		verb	B1	to originate, develop	возникать
 sicher	sicher		adj	A2	safe, secure, certain	безопасный
 neben	neben		prep	A2	next to, beside	рядом
@@ -273,7 +273,7 @@ tragen, trägt, trug, hat getragen	tragen, trägt, trug, hat getragen		verb	A2	t
 kaum	kaum		adv	B1	hardly	едва
 Freund	der Freund, -e		der	A1	friend	друг
 fünf	fünf		num	A1	five	пять
-scheinen, scheint, schien, hat geschienen	scheinen, scheint, schien, hat geschienen		verb	A1	to shine, seem, appear	светить. ; казаться. ; выглядеть
+scheinen, scheint, schien, hat geschienen	scheinen, scheint, schien, hat geschienen		verb	A1	to shine, seem, appear	светить; казаться; выглядеть
 Stunde	die Stunde, -n		die	A1	hour	час
 aussehen, sieht aus, sah aus, hat ausgesehen	aussehen, sieht aus, sah aus, hat ausgesehen		verb	A1	to appear, look	выглядеть
 gern, gerne	gern, gerne		adv	A1	(with a verb) love to	охотно
@@ -283,34 +283,34 @@ sowie	sowie		conj	A1	as well as, as soon as, plus	а также
 Professor	der Professor, -en		der	B1	professor	профессор
 darüber, drüber	darüber, drüber		pron	A1	above it, about it	об этом
 deren	deren		pron	A1	whose	чей
-schaffen, schafft, schuf, hat geschaffen	schaffen, schafft, schuf, hat geschaffen		verb	A2	to manage, create	справляться. ; создавать. ; творить
+schaffen, schafft, schuf, hat geschaffen	schaffen, schafft, schuf, hat geschaffen		verb	A2	to manage, create	справляться; создавать; творить
 damals	damals		pron	A2	then	тогда
-erhalten, erhält, erhielt, hat erhalten	erhalten, erhält, erhielt, hat erhalten		verb	B1	to receive	получать. ; сохранять. ; поддерживать
+erhalten, erhält, erhielt, hat erhalten	erhalten, erhält, erhielt, hat erhalten		verb	B1	to receive	получать; сохранять; поддерживать
 lernen, lernt, lernte, hat gelernt	lernen, lernt, lernte, hat gelernt		verb	A1	to learn	учить
 frei	frei		adj	A1	free	свободный
-Wert	der Wert, -e		der, adj	B1	value; worth	стоимость. ; ценный
+Wert	der Wert, -e		der, adj	B1	value; worth	стоимость; ценный
 beziehungsweise, bzw.	beziehungsweise, bzw.		conj	A1	or, respectively	или
 daran, dran	daran, dran		pron	A1	on it	об этом
 suchen, sucht, suchte, hat gesucht	suchen, sucht, suchte, hat gesucht		verb	A1	to search, look for	искать
 Europa	Europa		das	A1	Europe	Европа
 gemeinsam	gemeinsam		adj	B1	common, mutual	общий
-rund	rund		adj, adv	A2	round; approximately	круглый. ; примерно
+rund	rund		adj, adv	A2	round; approximately	круглый; примерно
 Zahl	die Zahl, -en		die	A2	number	число
 Thema	das Thema, -en		das	A1	subject, topic, theme	тема
-handeln, handelt, handelte, hat gehandelt	handeln, handelt, handelte, hat gehandelt		verb	A1	to deal, trade	рассказывать. ; действовать. ; торговать
+handeln, handelt, handelte, hat gehandelt	handeln, handelt, handelte, hat gehandelt		verb	A1	to deal, trade	рассказывать; действовать; торговать
 Buch	das Buch, -̈er		das	A1	book	книга
 bisschen, bissel	bisschen, bissel		pron	A1	a little	немного
 deutlich	deutlich		adj	A2	clear	четкий
 anders	anders		adv	A2	different, differently	иначе
 politisch	politisch		adj	B1	political	политический
 lesen, liest, las, hat gelesen	lesen, liest, las, hat gelesen		verb	A1	to read	читать
-Blick	der Blick, -e		der	A1	look, view, glance	вид. ; взгляд. ; взор
+Blick	der Blick, -e		der	A1	look, view, glance	вид; взгляд; взор
 Form	die Form, -en		die	B1	form, shape	форма
 einzeln	einzeln		adj	B1	individual, single, separately	отдельный
 erreichen, erreicht, erreichte, hat erreicht	erreichen, erreicht, erreichte, hat erreicht		verb	A2	to achieve, reach	достигать
 vergehen, vergeht, verging, hat vergangen	vergehen, vergeht, verging, hat vergangen		verb	A1	to pass (time)	проходить
 leicht	leicht		adj	A1	light, easy	легкий
-je	je		adv, conj	B1	ever, each; the more	каждый. ; чем
+je	je		adv, conj	B1	ever, each; the more	каждый; чем
 verlieren, verliert, verlor, hat verloren	verlieren, verliert, verlor, hat verloren		verb	A2	to lose	проигрывать
 beste	beste (r, s)		adj	A1	best	лучший
 bilden, bildet, bildete, hat gebildet	bilden, bildet, bildete, hat gebildet		verb	A1	to form, educate	образовывать
@@ -323,7 +323,7 @@ steigen, steigt, stieg, ist gestiegen	steigen, steigt, stieg, ist gestiegen		ver
 eher	eher		adv	B1	sooner, earlier, more likely, rather	скорее
 essen, isst, aß, hat gegessen	essen, isst, aß, hat gegessen		verb	A1	to eat	есть
 Minute	die Minute, -n		die	A1	minute	минута
-Nacht	die Nacht, -̈e		die, adv	A1	night; at night, nights	ночь. ; ночью
+Nacht	die Nacht, -̈e		die, adv	A1	night; at night, nights	ночь; ночью
 Platz	der Platz, -̈e		der	A1	place, room, square	место
 schlecht	schlecht		adj	A1	bad	плохой
 Spiel	das Spiel, -e		das	A2	game, match	игра
@@ -332,7 +332,7 @@ jemand	jemand		pron	A2	someone, somebody	кто-то
 dessen	dessen		pron	A1	whose	чей
 fallen, fällt, fiel, ist gefallen	fallen, fällt, fiel, ist gefallen		verb	A2	to fall	падать
 zehn	zehn		num	A1	ten	десять
-Preis	der Preis, -e		der	A1	price, prize	цена. ; награда. ; приз
+Preis	der Preis, -e		der	A1	price, prize	цена; награда; приз
 europäisch	europäisch		adj	A1	European	европейский
 sonst	sonst		adv	A2	otherwise	иначе
 Staat	der Staat, -en		der	A1	state	государство
@@ -340,7 +340,7 @@ helfen, hilft, half, hat geholfen	helfen, hilft, half, hat geholfen		verb	A1	to 
 Bereich	der Bereich, -e		der	B1	area, region	область
 tatsächlich	tatsächlich		adj	B1	real, actual	действительный
 Ort	der Ort, -e		der	A1	place, town, location	место
-Abend	der Abend, -e		der, adv	A1	evening; in the evening	вечер. ; вечером
+Abend	der Abend, -e		der, adv	A1	evening; in the evening	вечер; вечером
 einzig	einzig		adj	B1	only, single	единственный
 Stelle	die Stelle, -n		die	A1	place	место
 unterschiedlich	unterschiedlich		adj	B1	different	различный
@@ -348,7 +348,7 @@ Gesicht	das Gesicht, -er		das	A2	face	лицо
 Entwicklung	die Entwicklung, -en		die	B1	development	развитие
 Uhr	die Uhr, -en		die	A1	clock, watch, o’clock	часы
 mehrere	mehrere		pron	B1	several, multiple, various	несколько
-schließen, schließt, schloss, hat geschlossen	schließen, schließt, schloss, hat geschlossen		verb	A1	to close	закрываться. ; закрывать. ; запирать
+schließen, schließt, schloss, hat geschlossen	schließen, schließt, schloss, hat geschlossen		verb	A1	to close	закрываться; закрывать; запирать
 schließlich	schließlich		adv	A1	finally, eventually	наконец
 legen, legt, legte, hat gelegt	legen, legt, legte, hat gelegt		verb	A1	to lay, put	класть
 direkt	direkt		adj	A2	direct, straight	прямой
@@ -358,12 +358,12 @@ erkennen, erkennt, erkannte, hat erkannt	erkennen, erkennt, erkannte, hat erkann
 Person	die Person, -en		die	A2	person	человек
 Moment	der Moment, -e		der	A1	moment	момент
 Schule	die Schule, -n		die	A1	school	школа
-darin, drin, drinnen	darin, drin, drinnen		pron	A1	in it, in there, inside	внутри. ; внутри. ; внутри
+darin, drin, drinnen	darin, drin, drinnen		pron	A1	in it, in there, inside	внутри
 Auto	das Auto, -s		das	A1	automobile, car	автомобиль
 niemand	niemand		pron	A2	no one, nobody	никто
-Gesellschaft	die Gesellschaft, -en		die	B1	society, company	общество. ; компания. ; общество
+Gesellschaft	die Gesellschaft, -en		die	B1	society, company	общество; компания
 warten, wartet, wartete, hat gewartet	warten, wartet, wartete, hat gewartet		verb	A1	to wait	ждать
-vorstellen, stellt vor, stellte vor, hat vorgestellt	vorstellen, stellt vor, stellte vor, hat vorgestellt		verb	A2	to introduce, imagine	представлять. ; представлять. ; представлять
+vorstellen, stellt vor, stellte vor, hat vorgestellt	vorstellen, stellt vor, stellte vor, hat vorgestellt		verb	A2	to introduce, imagine	представлять
 früh	früh		adj	A2	early	ранний
 treten, tritt, trat, hat getreten	treten, tritt, trat, hat getreten		verb	B1	to step	шагать
 reden, redet, redete, hat geredet	reden, redet, redete, hat geredet		verb	A2	to talk	говорить
@@ -393,7 +393,7 @@ Straße	die Straße, -n		die	A1	street	улица
 Angst	die Angst, -Äe		die	A2	fear, anxiety	страх
 allgemein	allgemein		adj	B1	general	общий
 fühlen, fühlt, fühlte, hat gefühlt	fühlen, fühlt, fühlte, hat gefühlt		verb	A2	to feel	чувствовать
-jene	jene (r, s)		pron	A1	that, those	тот. ; тот. ; тот
+jene	jene (r, s)		pron	A1	that, those	тот
 erinnern, erinnert, erinnerte, hat erinnert	erinnern, erinnert, erinnerte, hat erinnert		verb	A2	to remind	напоминать
 oh	oh		part	A1	oh, aw	о
 bedeuten, bedeutet, bedeutete, hat bedeutet	bedeuten, bedeutet, bedeutete, hat bedeutet		verb	A1	to mean	означать
@@ -410,7 +410,7 @@ erscheinen, erscheint, erschien, ist erschienen	erscheinen, erscheint, erschien,
 USA	USA (Vereinigte Staaten von Amerika)		die	A2	USA, United States of America	США
 Flüchtling	der Flüchtling, -e		der	A2	refugee	беженец
 früher	früher		adv	A1	in former times	раньше
-pro	pro		prep, das	A2	per; pro	за. ; плюс
+pro	pro		prep, das	A2	per; pro	за; плюс
 ergeben, ergibt, ergab, hat ergeben	ergeben, ergibt, ergab, hat ergeben		verb	A2	to result in, produce	показывать
 entscheiden, entscheidet, entschied, hat entschieden	entscheiden, entscheidet, entschied, hat entschieden		verb	B1	to decide	решать
 Universität	die Universität, -en (Uni)		die	A2	university	университет
@@ -429,8 +429,8 @@ Anfang	der Anfang, -̈e		der	A1	beginning	начало
 sechs	sechs		num	A1	six	шесть
 nutzen, nutzt, nutzte, hat genutzt	nutzen, nutzt, nutzte, hat genutzt		verb	B1	to use	использовать
 sozial	sozial		adj	B1	social	социальный
-Folge	die Folge, -n		die	B1	result, consequences	последствие. ; результат. ; серия
-Satz	der Satz, -̈e		der	A1	sentence	предложение. ; набор. ; прыжок
+Folge	die Folge, -n		die	B1	result, consequences	последствие; результат; серия
+Satz	der Satz, -̈e		der	A1	sentence	предложение; набор; прыжок
 manche	manche (r, s)		pron	A1	some, many a	некоторый
 Verbindung	die Verbindung, -en		die	B1	connection, link	связь
 beschreiben, beschreibt, beschrieb, hat beschrieben	beschreiben, beschreibt, beschrieb, hat beschrieben		verb	A2	to describe	описывать
@@ -478,8 +478,8 @@ Markt	der Markt, -̈e		der	A2	market	рынок
 rot	rot		adj	A2	red	красный
 halt	halt		part	A2	just, simply	просто
 Meter, m	Meter, m		der	A2	meter	метр
-nahe, nah	nahe, nah		adj, prep	A2	near(by), close; near, close to	близкий. ; вблизи
-Hilfe	die Hilfe, -n		die	A1	help	помощь. ; помощь. ; помощь
+nahe, nah	nahe, nah		adj, prep	A2	near(by), close; near, close to	близкий; вблизи
+Hilfe	die Hilfe, -n		die	A1	help	помощь
 Kapitel	das Kapitel, -		das	B1	chapter	глава
 ausgehen, geht aus, ging aus, ist ausgegangen	ausgehen, geht aus, ging aus, ist ausgegangen		verb	A2	to go out, assume	исходить
 Bedeutung	die Bedeutung, -en		die	B1	meaning, significance	значение
@@ -488,10 +488,10 @@ Chemie	die Chemie, -n		die	A2	chemistry	химия
 Luft	die Luft, -̈e		die	B1	air	воздух
 Körper	der Körper, -		der	A2	body	тело
 Struktur	die Struktur, -en		die	A2	structure	структура
-stimmen, stimmt, stimmte, hat gestimmt	stimmen, stimmt, stimmte, hat gestimmt		verb	B1	to be correct, vote, tune	голосовать. ; верный. ; настраивать
+stimmen, stimmt, stimmte, hat gestimmt	stimmen, stimmt, stimmte, hat gestimmt		verb	B1	to be correct, vote, tune	голосовать; верный; настраивать
 bitten, bittet, bat, hat gebeten	bitten, bittet, bat, hat gebeten		verb	A1	to request, ask	просить
 Jahrhundert	das Jahrhundert, -e		das	A2	century	век
-wahrscheinlich	wahrscheinlich		adj, adv	A2	likely, probable; probably, likely	вероятный. ; вероятно
+wahrscheinlich	wahrscheinlich		adj, adv	A2	likely, probable; probably, likely	вероятный; вероятно
 öffentlich	öffentlich		adj	B1	public	публичный
 euch	euch		pron	A1	you, yourselves	вы
 insgesamt	insgesamt		adv	B1	in all, altogether, in total	всего
@@ -509,7 +509,7 @@ ansehen, sieht an, sah an, hat angesehen	ansehen, sieht an, sah an, hat angesehe
 öffnen, öffnet, öffnete, hat geöffnet	öffnen, öffnet, öffnete, hat geöffnet		verb	A1	to open	открывать
 Musik	die Musik, -en		die	A2	music	музыка
 schauen, schaut, schaute, hat geschaut	schauen, schaut, schaute, hat geschaut		verb	B1	to look	смотреть
-Stück	das Stück, -e		das	A2	piece	кусок. ; кусок. ; кусок
+Stück	das Stück, -e		das	A2	piece	кусок
 besondere	besondere (r, s)		adj	A2	special	особенный
 tot	tot		adj	A1	dead	мёртвый
 Gott	der Gott, -̈er		der	B1	God	бог
@@ -518,10 +518,10 @@ positiv	positiv		adj	B1	positive	позитивный
 Gespräch	das Gespräch, -e		das	A1	conversation	разговор
 darum	darum		pron	A2	around it, therefore	поэтому
 Kunde	der Kunde, -n		der	A1	customer, client	клиент
-Menge	die Menge, -n		die	A2	quantity, amount	количество. ; толпа. ; множество
+Menge	die Menge, -n		die	A2	quantity, amount	количество; толпа; множество
 Regierung	die Regierung, -en		die	A2	rule, government	правительство
 Antwort	die Antwort, -en		die	A1	answer, reply	ответ
-annehmen, nimmt an, nahm an, hat angenommen	annehmen, nimmt an, nahm an, hat angenommen		verb	B1	to accept, assume	предполагать. ; принимать. ; допускать
+annehmen, nimmt an, nahm an, hat angenommen	annehmen, nimmt an, nahm an, hat angenommen		verb	B1	to accept, assume	предполагать; принимать; допускать
 falsch	falsch		adj	A1	false, wrong	неверный
 Zusammenhang	der Zusammenhang, -̈e		der	B1	connection, context	связь
 langsam	langsam		adj	A1	slow	медленный
@@ -541,7 +541,7 @@ Politik	die Politik, -en		die	B1	politics	политика
 Tod	der Tod, -e		der	B1	death	смерть
 Erfolg	der Erfolg, -e		der	B1	success	успех
 zudem	zudem		adv	A2	moreover, furthermore, besides	кроме того
-Bank	die Bank, -̈e		die	A1	bank, bench	банк. ; скамья. ; скамья
+Bank	die Bank, -̈e		die	A1	bank, bench	банк; скамья
 ab	ab		prep	A1	off, away	с
 persönlich	persönlich		adj	B1	personal	личный
 Präsident	der Präsident, -en		der	A2	president	президент
@@ -553,7 +553,7 @@ Chance	die Chance, -n		die	B1	chance	шанс
 gewiss	gewiss		adj	A2	certain	определенный
 innerhalb	innerhalb		prep	B1	within	внутри
 Kunst	die Kunst, -̈e		die	A2	art	искусство
-Lage	die Lage, -n		die	B1	situation, location	ситуация. ; положение. ; местоположение
+Lage	die Lage, -n		die	B1	situation, location	ситуация; положение; местоположение
 Schüler	der Schüler, -		der	A1	pupil, student (USA)	ученик
 gesamt	gesamt		adj	B1	whole, entire	весь
 Druck	der Druck, -̈e		der	B1	pressure, printing	давление
@@ -564,14 +564,14 @@ enthalten, enthält, enthielt, hat enthalten	enthalten, enthält, enthielt, hat 
 aufnehmen, nimmt auf, nahm auf, hat aufgenommen	aufnehmen, nimmt auf, nahm auf, hat aufgenommen		verb	B1	to take in, record, include	принимать
 Kosten	Kosten		die (pl)	A1	costs, expenses	расходы
 Wintersemester	das Wintersemester, -		das	A2	winter semester	зимний семестр
-merken, merkt, merkte, hat gemerkt	merken, merkt, merkte, hat gemerkt		verb	A2	to notice, remember	замечать. ; запоминать. ; запоминать
+merken, merkt, merkte, hat gemerkt	merken, merkt, merkte, hat gemerkt		verb	A2	to notice, remember	замечать; запоминать
 fest	fest		adj	A2	firm, solid	твердый
 aktuell	aktuell		adj	A2	current	актуальный
 Begriff	der Begriff, -e		der	A2	concept, idea, term	понятие
 erleben, erlebt, erlebte, hat erlebt	erleben, erlebt, erlebte, hat erlebt		verb	B1	to experience	переживать
 relativ	relativ		adj	B1	relative	относительный
 laut	laut		prep	A1	loud	согласно
-Fuß	der Fuß, -̈e		der	A1	foot	стопа. ; нога. ; нога
+Fuß	der Fuß, -̈e		der	A1	foot	стопа; нога
 Daten	Daten		die (pl)	B1	data	данные
 Krieg	der Krieg, -e		der	B1	war	война
 Gast	der Gast, -̈e		der	A1	guest	гость
@@ -579,7 +579,7 @@ Aussage	die Aussage, -n		die	A1	statement	высказывание
 Gesetz	das Gesetz, -e		das	B1	law	закон
 planen, plant, plante, hat geplant	planen, plant, plante, hat geplant		verb	A2	to plan	планировать
 schwierig	schwierig		adj	A2	difficult, hard, tough	трудный
-Gut	das Gut, -̈er		das	A1	estate, good(s)	товар. ; имущество. ; поместье
+Gut	das Gut, -̈er		das	A1	estate, good(s)	товар; имущество; поместье
 Kilometer	der Kilometer, -		der	A2	kilometer	километр
 zusätzlich	zusätzlich		adj	B1	additional	дополнительный
 vergessen, vergisst, vergaß, hat vergessen	vergessen, vergisst, vergaß, hat vergessen		verb	A2	to forget	забывать
@@ -587,13 +587,13 @@ Gedanke	der Gedanke, -n		der	B1	thought	мысль
 besitzen, besitzt, besaß, hat besessen	besitzen, besitzt, besaß, hat besessen		verb	B1	to own, have	владеть
 ach	ach		part	A2	oh	ах
 Partei	die Partei, -en		die	A2	(political) party	партия
-freuen, freut, freute, hat gefreut	freuen, freut, freute, hat gefreut		verb	A2	to be happy	радовать. ; радоваться. ; радоваться
+freuen, freut, freute, hat gefreut	freuen, freut, freute, hat gefreut		verb	A2	to be happy	радовать; радоваться
 hängen, hängt, hängte, hat gehängt	hängen, hängt, hängte, hat gehängt		verb	A2	to hang	вешать
 berichten, berichtet, berichtete, hat berichtet	berichten, berichtet, berichtete, hat berichtet		verb	A2	to report	сообщать
 Zelle	die Zelle, -n		die	A2	cell	клетка
 eng	eng		adj	A2	narrow, close	узкий
 Kultur	die Kultur, -en		die	A2	culture	культура
-Prozess	der Prozess, -e		der	B1	trial, process	процесс. ; судебный процесс. ; суд
+Prozess	der Prozess, -e		der	B1	trial, process	процесс; судебный процесс; суд
 Sohn	der Sohn, -̈e		der	A1	son	сын
 Dank	der Dank		der	A1	gratefulness	благодарность
 trotz	trotz		prep	B1	in spite of	несмотря на
@@ -601,7 +601,7 @@ fordern, fordert, forderte, hat gefordert	fordern, fordert, forderte, hat geford
 studieren, studiert, studierte, hat studiert	studieren, studiert, studierte, hat studiert		verb	A1	to study	учиться
 gefallen, gefällt, gefiel, hat gefallen	gefallen, gefällt, gefiel, hat gefallen		verb	A1	to please	нравиться
 Mädchen	das Mädchen, -		das	A1	girl	девочка
-verhalten	verhalten		verb, das	B1	to behave, act; behavior	вести себя. ; поведение
+verhalten	verhalten		verb, das	B1	to behave, act; behavior	вести себя; поведение
 mindestens	mindestens		adv	A2	at least	поменьше мере
 ziemlich	ziemlich		adv	B1	quite, fairly, pretty	довольно
 Interesse	das Interesse, -n		das	A2	interest	интерес
@@ -619,15 +619,15 @@ erhöhen, erhöht, erhöhte, hat erhöht	erhöhen, erhöht, erhöhte, hat erhöh
 sorgen, sorgt, sorgte, hat gesorgt	sorgen, sorgt, sorgte, hat gesorgt		verb	B1	to worry, take care	заботиться
 Erfahrung	die Erfahrung, -en		die	A2	experience	опыт
 Patient	der Patient, -en		der	B1	patient	пациент
-Morgen	der Morgen, -		der, adv	A1	morning; in the morning	утро. ; утром
+Morgen	der Morgen, -		der, adv	A1	morning; in the morning	утро; утром
 Arzt	der Arzt, -Äe		der	A1	physician, doctor	врач
-geschehen, geschieht, geschah, ist geschehen	geschehen, geschieht, geschah, ist geschehen		verb	B1	to happen, occur	происходить. ; происходить. ; происходить
+geschehen, geschieht, geschah, ist geschehen	geschehen, geschieht, geschah, ist geschehen		verb	B1	to happen, occur	происходить
 Bayern	Bayern		das	A2	Bavaria	Бавария
 lösen, löst, löste, hat gelöst	lösen, löst, löste, hat gelöst		verb	B1	to solve, loosen	решать
 irgendwie	irgendwie		adv	A2	somehow	как-нибудь
 anbieten, bietet an, bot an, hat angeboten	anbieten, bietet an, bot an, hat angeboten		verb	A1	to offer	предлагать
 vorkommen, kommt vor, kam vor, ist vorgekommen	vorkommen, kommt vor, kam vor, ist vorgekommen		verb	B1	to happen, occur, seem	происходить
-okay	okay		adj, das	A2	okay; okay	нормальный. ; согласие
+okay	okay		adj, das	A2	okay; okay	нормальный; согласие
 wünschen, wünscht, wünschte, hat gewünscht	wünschen, wünscht, wünschte, hat gewünscht		verb	A2	to want, wish	желать
 interessieren, interessiert, interessierte, hat interessiert	interessieren, interessiert, interessierte, hat interessiert		verb	A2	to interest	интересовать
 Unterschied	der Unterschied, -e		der	A2	difference	разница
@@ -639,7 +639,7 @@ gleichzeitig	gleichzeitig		adj	B1	simultaneous, at the same time	одновре�
 knapp	knapp		adj	B1	scarce, slim	скудный
 Mitarbeiter	der Mitarbeiter, -		der	A2	employee, co-worker	сотрудник
 übernehmen, übernimmt, übernahm, hat übernommen	übernehmen, übernimmt, übernahm, hat übernommen		verb	B1	to take over	принимать
-Glück	das Glück		das	A1	luck, fortune	удача. ; счастье. ; счастье
+Glück	das Glück		das	A1	luck, fortune	удача; счастье
 normal	normal		adj	A1	normal	нормальный
 leider	leider		adv	A1	unfortunately	к сожалению
 Grundlage	die Grundlage, -n		die	A2	basis	основа
@@ -647,12 +647,12 @@ acht	acht		num	A1	eight	восемь
 Leistung	die Leistung, -en		die	B1	performance	результат
 vorliegen, liegt vor, lag vor, hat vorgelegen	vorliegen, liegt vor, lag vor, hat vorgelegen		verb	A2	to be available, exist	иметься
 erfolgen, erfolgt, erfolgte, ist erfolgt	erfolgen, erfolgt, erfolgte, ist erfolgt		verb	A2	to take place, occur	происходить
-Beziehung	die Beziehung, -en		die	B1	relation, relationship	отношение. ; отношение. ; отношение
+Beziehung	die Beziehung, -en		die	B1	relation, relationship	отношение
 zunehmen, nimmt zu, nahm zu, hat zugenommen	zunehmen, nimmt zu, nahm zu, hat zugenommen		verb	B1	to increase	увеличиваться
 Molekül	das Molekül, -e		das	A2	molecule	молекула
 stattfinden, findet statt, fand statt, hat stattgefunden	stattfinden, findet statt, fand statt, hat stattgefunden		verb	A2	to take place, occur	происходить
 ankommen, kommt an, kam an, ist angekommen	ankommen, kommt an, kam an, ist angekommen		verb	A1	to arrive	прибывать
-auftreten, tritt auf, trat auf, ist aufgetreten	auftreten, tritt auf, trat auf, ist aufgetreten		verb, das	B1	to appear, occur; behavior, conduct, occurrence, appearance	возникать. ; поведение
+auftreten, tritt auf, trat auf, ist aufgetreten	auftreten, tritt auf, trat auf, ist aufgetreten		verb, das	B1	to appear, occur; behavior, conduct, occurrence, appearance	возникать; поведение
 insbesondere	insbesondere		adv	A2	especially	особенно
 technisch	technisch		adj	B1	technical	технический
 wann	wann		pron	A1	when	когда
@@ -660,10 +660,10 @@ los	los		adv	B1	rid of, going on	избавленный
 Bett	das Bett, -en		das	A1	bed	кровать
 Höhe	die Höhe, -n		die	B1	height, altitude	высота
 wesentlich	wesentlich		adj	A2	essential, fundamental	существенный
-englisch	englisch		adj, das	A2	English; English	английский. ; английский
+englisch	englisch		adj, das	A2	English; English	английский
 zuletzt	zuletzt		adv	A2	last, finally, most recently	наконец
 rein	rein		adj	A2	pure, clear, clean	чистый
-Zimmer	das Zimmer, -		das	A1	room	комната. ; комната. ; комната
+Zimmer	das Zimmer, -		das	A1	room	комната
 indem	indem		conj	B1	while, by	тем
 bauen, baut, baute, hat gebaut	bauen, baut, baute, hat gebaut		verb	A2	to build	строить
 Verhältnis	das Verhältnis, -se		das	B1	relationship	отношение
@@ -679,7 +679,7 @@ funktionieren, funktioniert, funktionierte, hat funktioniert	funktionieren, funk
 sowohl	sowohl		conj	A2	both . . . and	как
 schlafen, schläft, schlief, hat geschlafen	schlafen, schläft, schlief, hat geschlafen		verb	A1	to sleep	спать
 statt	statt		prep	B1	instead of	вместо
-Werk	das Werk, -e		das	B1	work	произведение. ; произведение. ; произведение
+Werk	das Werk, -e		das	B1	work	произведение
 grün	grün		adj	A2	green	зеленый
 Bürger	der Bürger, -		der	B1	citizen	гражданин
 dienen, dient, diente, hat gedient	dienen, dient, diente, hat gedient		verb	B1	to serve	служить
@@ -690,13 +690,13 @@ stecken, steckt, steckte, hat gesteckt	stecken, steckt, steckte, hat gesteckt		v
 hoffen, hofft, hoffte, hat gehofft	hoffen, hofft, hoffte, hat gehofft		verb	A2	to hope	надеяться
 erfahren, erfährt, erfuhr, hat erfahren	erfahren, erfährt, erfuhr, hat erfahren		verb	B1	to experience, find out	узнавать
 Mittel	das Mittel, -		das	A2	means	средство
-Folie	die Folie, -n		die	A2	slide, foil	слайд. ; пленка. ; фольга
+Folie	die Folie, -n		die	A2	slide, foil	слайд; пленка; фольга
 leisten, leistet, leistete, hat geleistet	leisten, leistet, leistete, hat geleistet		verb	B1	to perform, achieve, do	выполнять
 Tochter	die Tochter, -̈		die	A1	daughter	дочь
 Lehrer	der Lehrer, -		der	A1	teacher	учитель
 passen, passt, passte, hat gepasst	passen, passt, passte, hat gepasst		verb	A2	to fit	подходить
 beobachten, beobachtet, beobachtete, hat beobachtet	beobachten, beobachtet, beobachtete, hat beobachtet		verb	B1	to observe, watch	наблюдать
-Einführung	die Einführung, -en		die	B1	introduction	введение. ; введение. ; введение
+Einführung	die Einführung, -en		die	B1	introduction	введение
 Element	das Element, -e		das	A2	element	элемент
 klingen, klingt, klang, hat geklungen	klingen, klingt, klang, hat geklungen		verb	B1	to sound	звучать
 lieben, liebt, liebte, hat geliebt	lieben, liebt, liebte, hat geliebt		verb	A1	to love	любить
@@ -712,7 +712,7 @@ unten	unten		adv	A1	down	внизу
 Mitte	die Mitte, -n		die	A1	middle	середина
 hin	hin		adv	A2	there	туда
 aufgrund	aufgrund		prep	A2	on the basis of, because of	вследствие
-beschäftigen, beschäftigt, beschäftigte, hat beschäftigt	beschäftigen, beschäftigt, beschäftigte, hat beschäftigt		verb	B1	to employ, be busy, deal with	нанимать. ; заниматься. ; занимать
+beschäftigen, beschäftigt, beschäftigte, hat beschäftigt	beschäftigen, beschäftigt, beschäftigte, hat beschäftigt		verb	B1	to employ, be busy, deal with	нанимать; заниматься; занимать
 zuvor	zuvor		adv	A2	previously, before	раньше
 miteinander	miteinander		adv	B1	with each other	друг с другом
 dennoch	dennoch		adv	A2	nevertheless	всё-таки
@@ -731,7 +731,7 @@ offenbar	offenbar		adj	B1	apparent	очевидный
 Bruder	der Bruder, -̈		der	A1	brother	брат
 beteiligen, beteiligt, beteiligte, hat beteiligt	beteiligen, beteiligt, beteiligte, hat beteiligt		verb	B1	to participate, contribute	участвовать
 Phase	die Phase, -n		die	A2	phase	фаза
-angeben, gibt an, gab an, hat angegeben	angeben, gibt an, gab an, hat angegeben		verb	B1	to claim, declare, show off	заявлять. ; хвастаться. ; указывать
+angeben, gibt an, gab an, hat angegeben	angeben, gibt an, gab an, hat angegeben		verb	B1	to claim, declare, show off	заявлять; хвастаться; указывать
 Reise	die Reise, -n		die	A1	journey, trip	путешествие
 erfolgreich	erfolgreich		adj	B1	successful	успешный
 Zustand	der Zustand, -̈e		der	B1	condition, state	состояние
@@ -739,7 +739,7 @@ wahr	wahr		adj	A2	true	истинный
 Reihe	die Reihe, -n		die	A2	row, line	ряд
 Natur	die Natur, -en		die	A2	nature	природа
 rechnen, rechnet, rechnete, hat gerechnet	rechnen, rechnet, rechnete, hat gerechnet		verb	A2	to calculate, compute	вычислять
-bloß	bloß		adj, adv	B1	bare, mere; only, simply, just	простой. ; только
+bloß	bloß		adj, adv	B1	bare, mere; only, simply, just	простой; только
 notwendig	notwendig		adj	A2	necessary	необходимый
 entdecken, entdeckt, entdeckte, hat entdeckt	entdecken, entdeckt, entdeckte, hat entdeckt		verb	B1	to discover	обнаруживать
 dauern, dauert, dauerte, hat gedauert	dauern, dauert, dauerte, hat gedauert		verb	A1	to last, take (time)	длиться
@@ -753,14 +753,14 @@ unabhängig	unabhängig		adj	A2	independent	независимый
 morgen	morgen		adv	A1	tomorrow	завтра
 Rahmen	der Rahmen, -		der	A2	frame, framework	рамка
 übrigens	übrigens		adv	B1	by the way	кстати
-Einheit	die Einheit, -en		die	A2	unity, unit, entity	единство. ; единица. ; структура
+Einheit	die Einheit, -en		die	A2	unity, unit, entity	единство; единица; структура
 überall	überall		adv	A2	everywhere	везде
 feststellen, stellt fest, stellte fest, hat festgestellt	feststellen, stellt fest, stellte fest, hat festgestellt		verb	B1	to establish, detect, determine	устанавливать
 Stoff	der Stoff, -e		der	B1	material, substance, fabric	материал
 Rede	die Rede, -n		die	B1	speech, talk	речь
 unterstützen, unterstützt, unterstützte, hat unterstützt	unterstützen, unterstützt, unterstützte, hat unterstützt		verb	B1	to support	поддерживать
 chemisch	chemisch		adj	A2	chemical	химический
-schlimm	schlimm		adj, adj	A2	bad, serious; worse	плохой. ; хуже
+schlimm	schlimm		adj, adj	A2	bad, serious; worse	плохой; хуже
 Schweiz	die Schweiz, -en		die	A2	Switzerland	Швейцария
 irgendwann	irgendwann		adv	B1	sometime, some day	когда-нибудь
 Geschäft	das Geschäft, -e		das	A1	business, shop	магазин
@@ -778,7 +778,7 @@ Sicherheit	die Sicherheit, -en		die	B1	security, safety	безопасность
 SPD	SPD (Sozialdemokratische Partei Deutschlands)		die	A2	SPD	СДПГ
 niedrig	niedrig		adj	B1	low, base	низкий
 ständig	ständig		adj	B1	constant	постоянный
-Einsatz	der Einsatz, -̈e		der	A2	insert, use, application, assignment	использование. ; отсутствует. ; отсутствует
+Einsatz	der Einsatz, -̈e		der	A2	insert, use, application, assignment	использование; отсутствует
 liefern, liefert, lieferte, hat geliefert	liefern, liefert, lieferte, hat geliefert		verb	A2	to deliver, supply	доставлять
 betonen, betont, betonte, hat betont	betonen, betont, betonte, hat betont		verb	A2	to stress	подчеркивать
 Erde	die Erde, -n		die	B1	earth, ground, soil	земля
@@ -789,7 +789,7 @@ Meinung	die Meinung, -en		die	A2	opinion	мнение
 drehen, dreht, drehte, hat gedreht	drehen, dreht, drehte, hat gedreht		verb	B1	to turn	поворачивать
 Künstler	der Künstler, -		der	B1	artist	художник
 aktiv	aktiv		adj	A2	active	активный
-Versuch	der Versuch, -e		der	B1	attempt, experiment	попытка. ; эксперимент. ; опыт
+Versuch	der Versuch, -e		der	B1	attempt, experiment	попытка; эксперимент; опыт
 somit	somit		adv	A2	consequently, therefore	следовательно
 bezahlen, bezahlt, bezahlte, hat bezahlt	bezahlen, bezahlt, bezahlte, hat bezahlt		verb	A1	to pay	платить
 Eigenschaft	die Eigenschaft, -en		die	A2	quality	свойство
@@ -797,15 +797,15 @@ längst	längst		adv	B1	long since, a long time ago	давно
 Methode	die Methode, -n		die	B1	method	метод
 Ordnung	die Ordnung, -en		die	A1	order, tidiness	порядок
 Russland	Russland		das	A2	Russia	Россия
-Wahl	die Wahl, -en		die	B1	choice, election	выбор. ; выборы. ; выборы
-daraus	daraus		pron	A2	from it	из этого. ; из этого. ; из этого
+Wahl	die Wahl, -en		die	B1	choice, election	выбор; выборы
+daraus	daraus		pron	A2	from it	из этого
 erfüllen, erfüllt, erfüllte, hat erfüllt	erfüllen, erfüllt, erfüllte, hat erfüllt		verb	B1	to grant, fulfill	выполнять
 Mama	die Mama, -s		die	A2	mommy	мама
 Region	die Region, -en		die	B1	region	регион
 Sonntag	der Sonntag, -e		der	A2	Sunday	воскресенье
 Internet	das Internet		das	A1	internet	интернет
 Nummer	die Nummer, -n		die	A1	number	номер
-lächeln, lächelt, lächelte, hat gelächelt	lächeln, lächelt, lächelte, hat gelächelt		verb, das	B1	to smile; smile	улыбаться. ; улыбка
+lächeln, lächelt, lächelte, hat gelächelt	lächeln, lächelt, lächelte, hat gelächelt		verb, das	B1	to smile; smile	улыбаться; улыбка
 genauso	genauso		adv	B1	just as	столько же
 überzeugen, überzeugt, überzeugte, hat überzeugt	überzeugen, überzeugt, überzeugte, hat überzeugt		verb	A2	to convince	убеждать
 interessant	interessant		adj	A2	interesting	интересный
@@ -814,10 +814,10 @@ Elektron	das Elektron, -en		das	A2	electron	электрон
 Frankreich	Frankreich		das	A2	France	Франция
 Freiheit	die Freiheit, -en		die	B1	freedom	свобода
 speziell	speziell		adj	B1	special, specific	специальный
-französisch	französisch		adj, das	A2	French; French	французский. ; французский
+französisch	französisch		adj, das	A2	French; French	французский
 negativ	negativ		adj	B1	negative	негативный
 zentral	zentral		adj	B1	central	центральный
-Ebene	die Ebene, -n		die	A2	plane, level	уровень. ; плоскость. ; равнина
+Ebene	die Ebene, -n		die	A2	plane, level	уровень; плоскость; равнина
 besuchen, besucht, besuchte, hat besucht	besuchen, besucht, besuchte, hat besucht		verb	A1	to visit	посещать
 gestern	gestern		adv	A1	yesterday	вчера
 Spieler	der Spieler, -		der	B1	player	игрок
@@ -829,11 +829,11 @@ weiterhin	weiterhin		adv	A2	still, furthermore	по-прежнему
 Wand	die Wand, -̈e		die	B1	wall	стена
 rechts	rechts		adv	A1	on/to the right	справа
 konkret	konkret		adj	A2	concrete	конкретный
-russisch	russisch		adj, das	A2	Russian; Russian	русский. ; русский
+russisch	russisch		adj, das	A2	Russian; Russian	русский
 zahlen, zahlt, zahlte, hat gezahlt	zahlen, zahlt, zahlte, hat gezahlt		verb	A1	to pay	платить
 zugleich	zugleich		adv	A2	both, at the same time	одновременно
 Feld	das Feld, -er		das	B1	field	поле
-verdienen, verdient, verdiente, hat verdient	verdienen, verdient, verdiente, hat verdient		verb	A1	to earn, deserve	зарабатывать. ; заслуживать. ; заслуживать
+verdienen, verdient, verdiente, hat verdient	verdienen, verdient, verdiente, hat verdient		verb	A1	to earn, deserve	зарабатывать; заслуживать
 amerikanisch	amerikanisch		adj	A2	American	американский
 Sekunde	die Sekunde, -n		die	A2	second	секунда
 Brief	der Brief, -e		der	A1	letter	письмо
@@ -847,12 +847,12 @@ Beginn	der Beginn, -e		der	B1	beginning	начало
 China	China		das	A2	China	Китай
 breit	breit		adj	A1	wide, broad	широкий
 draußen	draußen		adv	A1	outside	снаружи
-Wirkung	die Wirkung, -en		die	B1	effect	действие. ; определенный артикль. ; определенный артикль
+Wirkung	die Wirkung, -en		die	B1	effect	действие; определенный артикль
 Bildung	die Bildung, -en		die	A2	education	образование
 Blut	das Blut, -e		das	B1	blood	кровь
 Meer	das Meer, -e		das	A1	sea, ocean	море
 Anzahl	die Anzahl, -en		die	B1	number	количество
-Veränderung	die Veränderung, -en		die	A2	change	изменение. ; определенный артикль. ; определенный артикль
+Veränderung	die Veränderung, -en		die	A2	change	изменение; определенный артикль
 durchaus	durchaus		adv	A2	absolutely, quite	вполне
 Mund	der Mund, -̈er		der	A1	mouth	рот
 berechnen, berechnet, berechnete, hat berechnet	berechnen, berechnet, berechnete, hat berechnet		verb	B1	to calculate, charge	вычислять
@@ -865,7 +865,7 @@ aufbauen, baut auf, baute auf, hat aufgebaut	aufbauen, baut auf, baute auf, hat 
 Sonne	die Sonne, -n		die	A1	sun	солнце
 Prinzip	das Prinzip, -ien		das	A2	principle	принцип
 vorher	vorher		adv	A2	earlier, beforehand	заранее
-Kampf	der Kampf, -̈e		der	B1	fight, struggle	борьба. ; борьба. ; борьба
+Kampf	der Kampf, -̈e		der	B1	fight, struggle	борьба
 Verfügung	die Verfügung, -en		die	A2	disposal	распоряжение
 feiern, feiert, feierte, hat gefeiert	feiern, feiert, feierte, hat gefeiert		verb	A1	to celebrate	праздновать
 Programm	das Programm, -e		das	A2	program	программа
@@ -874,10 +874,10 @@ Einfluss	der Einfluss, -̈e		der	B1	influence	влияние
 Temperatur	die Temperatur, -en		die	B1	temperature	температура
 leer	leer		adj	A2	empty	пустой
 mitteilen, teilt mit, teilte mit, hat mitgeteilt	mitteilen, teilt mit, teilte mit, hat mitgeteilt		verb	B1	to inform	сообщать
-Verfahren	das Verfahren, -		das	A2	method, process, technique	метод. ; процесс. ; процедура
-danke	danke		adv	A1	thanks	спасибо. ; не применимо. ; не применимо
+Verfahren	das Verfahren, -		das	A2	method, process, technique	метод; процесс; процедура
+danke	danke		adv	A1	thanks	спасибо; не применимо
 beziehen, bezieht, bezog, hat bezogen	beziehen, bezieht, bezog, hat bezogen		verb	A2	to refer, put, get	ссылаться
-verlangen, verlangt, verlangte, hat verlangt	verlangen, verlangt, verlangte, hat verlangt		verb	B1	to request, demand	требовать. ; требовать. ; требовать
+verlangen, verlangt, verlangte, hat verlangt	verlangen, verlangt, verlangte, hat verlangt		verb	B1	to request, demand	требовать
 zuerst	zuerst		adv	A2	first	сначала
 Analyse	die Analyse, -n		die	A2	analysis	анализ
 klassisch	klassisch		adj	A2	classical	классический
@@ -897,22 +897,22 @@ bislang	bislang		adv	A2	up to now	пока
 messen, misst, maß, hat gemessen	messen, misst, maß, hat gemessen		verb	B1	to measure	измерять
 lieb	lieb		adj	A1	dear, kind	милый
 unbedingt	unbedingt		adv	A2	absolutely	непременно
-Verein	der Verein, -e		der	A1	association, club	объединение. ; клуб. ; общество
+Verein	der Verein, -e		der	A1	association, club	объединение; клуб; общество
 Atom	das Atom, -e		das	A2	atom	атом
 historisch	historisch		adj	B1	historical	исторический
 sinken, sinkt, sank, ist gesunken	sinken, sinkt, sank, ist gesunken		verb	B1	to sink	тонуть
-kosten, kostet, kostete, hat gekostet	kosten, kostet, kostete, hat gekostet		verb	A1	to cost	стоить. ; нет значения. ; нет значения
+kosten, kostet, kostete, hat gekostet	kosten, kostet, kostete, hat gekostet		verb	A1	to cost	стоить; нет значения
 Vorstellung	die Vorstellung, -en		die	B1	idea, introduction, performance	представление
 entscheidend	entscheidend		adj	A2	decisive	решающий
 teilen, teilt, teilte, hat geteilt	teilen, teilt, teilte, hat geteilt		verb	A2	to divide, share	делить
-Typ	der Typ, -en		der	B1	type	тип. ; парень. ; тип
+Typ	der Typ, -en		der	B1	type	тип; парень
 stammen, stammt, stammte, hat gestammt	stammen, stammt, stammte, hat gestammt		verb	B1	to come (from), descend	происходить
 wissenschaftlich	wissenschaftlich		adj	A2	scientific, scholarly	научный
 wieso	wieso		pron	B1	why	почему
 Faktor	der Faktor, -en		der	B1	factor	фактор
 Bindung	die Bindung, -en		die	A2	relationship, attachment	связь
 Literatur	die Literatur, -en		die	B1	literature	литература
-überraschen, überrascht, überraschte, hat überrascht	überraschen, überrascht, überraschte, hat überrascht		verb	B1	to surprise	удивлять. ; удивлять. ; удивлять
+überraschen, überrascht, überraschte, hat überrascht	überraschen, überrascht, überraschte, hat überrascht		verb	B1	to surprise	удивлять
 bestätigen, bestätigt, bestätigte, hat bestätigt	bestätigen, bestätigt, bestätigte, hat bestätigt		verb	A2	to confirm, endorse	подтверждать
 bewusst	bewusst		adj	A2	conscious	осознанный
 Abschnitt	der Abschnitt, -e		der	B1	section, paragraph, chapter, passage	раздел
@@ -965,13 +965,13 @@ erlauben, erlaubt, erlaubte, hat erlaubt	erlauben, erlaubt, erlaubte, hat erlaub
 treiben, treibt, trieb, hat getrieben	treiben, treibt, trieb, hat getrieben		verb	B1	to drive, pursue	гнать
 weg	weg		adv	A1	gone, vanished	пропавший
 aufstehen, steht auf, stand auf, ist aufgestanden	aufstehen, steht auf, stand auf, ist aufgestanden		verb	A1	to stand up, get up	вставать
-Absatz	der Absatz, -̈e (Abs.)		der	A2	section, sales, paragraph, heel	абзац. ; абзац. ; абзац
+Absatz	der Absatz, -̈e (Abs.)		der	A2	section, sales, paragraph, heel	абзац
 unterwegs	unterwegs		adv	B1	on the way	в пути
 Vertrag	der Vertrag, -̈e		der	A2	contract	договор
 Ausdruck	der Ausdruck, -̈e		der	B1	term, expression	выражение
 geraten, gerät, geriet, ist geraten	geraten, gerät, geriet, ist geraten		verb	A2	to get into	попадать
 toll	toll		adj	A2	great, terrific	потрясающий
-schweigen, schweigt, schwieg, hat geschwiegen	schweigen, schweigt, schwieg, hat geschwiegen		verb, das	B1	to remain silent; silence	молчать. ; молчание
+schweigen, schweigt, schwieg, hat geschwiegen	schweigen, schweigt, schwieg, hat geschwiegen		verb, das	B1	to remain silent; silence	молчать; молчание
 Schwester	die Schwester, -n		die	A1	sister	сестра
 Chef	der Chef, -s		der	A1	head, leader, boss	начальник
 greifen, greift, griff, hat gegriffen	greifen, greift, griff, hat gegriffen		verb	B1	to take hold of, reach	хватать
@@ -980,7 +980,7 @@ schwach	schwach		adj	A2	weak	слабый
 Tabelle	die Tabelle, -n		die	B1	table, chart	таблица
 ermöglichen, ermöglicht, ermöglichte, hat ermöglicht	ermöglichen, ermöglicht, ermöglichte, hat ermöglicht		verb	A2	to enable, allow	позволять
 Freitag	der Freitag, -e		der	A2	Friday	пятница
-Hinweis	der Hinweis, -e		der	B1	instruction, hint	подсказка. ; указание. ; намек
+Hinweis	der Hinweis, -e		der	B1	instruction, hint	подсказка; указание; намек
 Vorteil	der Vorteil, -e		der	B1	advantage	преимущество
 Protein	das Protein, -e		das	A2	protein	белок
 Gewinn	der Gewinn, -e		der	B1	profit	прибыль
@@ -989,8 +989,8 @@ März	der März, -e		der	A2	March	март
 wiederholen, wiederholt, wiederholte, hat wiederholt	wiederholen, wiederholt, wiederholte, hat wiederholt		verb	A1	to repeat	повторять
 Ruhe	die Ruhe		die	A2	silence, peace	тишина
 Darstellung	die Darstellung, -en		die	B1	presentation, description, depiction	изложение
-ruhig	ruhig		adj, part	A1	quiet, calm; really	тихий. ; спокойно
-Traum	der Traum, -̈e		der	A2	dream	сон. ; мечта. ; сновидение
+ruhig	ruhig		adj, part	A1	quiet, calm; really	тихий; спокойно
+Traum	der Traum, -̈e		der	A2	dream	сон; мечта; сновидение
 behandeln, behandelt, behandelte, hat behandelt	behandeln, behandelt, behandelte, hat behandelt		verb	B1	to treat	лечить
 stets	stets		adv	A2	always	всегда
 aufhören, hört auf, hörte auf, hat aufgehört	aufhören, hört auf, hörte auf, hat aufgehört		verb	A2	to stop	переставать
@@ -1009,7 +1009,7 @@ Opfer	das Opfer, -		das	B1	sacrifice, victim	жертва
 hinaus	hinaus		adv	B1	out, beyond	наружу
 vorhanden	vorhanden		adj	B1	available, existing	имеющийся
 Westen, West-	Westen, West-		der	B1	west	запад
-Titel	der Titel, -		der	A2	title	заголовок. ; название. ; титул
+Titel	der Titel, -		der	A2	title	заголовок; название; титул
 Eindruck	der Eindruck, -̈e		der	B1	impression	впечатление
 Baum	der Baum, -̈e		der	A1	tree	дерево
 lauten, lautet, lautete, hat gelautet	lauten, lautet, lautete, hat gelautet		verb	B1	to be (answer)	звучать
@@ -1023,7 +1023,7 @@ total	total		adj	A2	total, complete	полный
 Abstand	der Abstand, -̈e		der	B1	distance	расстояние
 Schulter	die Schulter, -n		die	B1	shoulder	плечо
 Maßnahme	die Maßnahme, -n		die	B1	measure	мера
-Band	das Band, -̈er		der, die, das	A2	volume, tome; band (musical); ribbon, tape	том. ; группа. ; лента
+Band	das Band, -̈er		der, die, das	A2	volume, tome; band (musical); ribbon, tape	том; группа; лента
 darunter	darunter		pron	B1	under it, underneath	под ним
 derjenige, diejenige, dasjenige	derjenige, diejenige, dasjenige		pron	B1	the one (who, that)	тот
 Wald	der Wald, -̈er		der	A2	forest, woods	лес
@@ -1060,7 +1060,7 @@ vollständig	vollständig		adj	B1	complete	полный
 heben, hebt, hob, hat gehoben	heben, hebt, hob, hat gehoben		verb	B1	to lift, raise	поднимать
 Rücken	der Rücken, -		der	A2	back	спина
 existieren, existiert, existierte, hat existiert	existieren, existiert, existierte, hat existiert		verb	B1	to exist	существовать
-Masse	die Masse, -n		die	B1	mass, crowd	масса. ; масса. ; масса
+Masse	die Masse, -n		die	B1	mass, crowd	масса
 singen, singt, sang, hat gesungen	singen, singt, sang, hat gesungen		verb	A2	to sing	петь
 Theorie	die Theorie, -n		die	B1	theory	теория
 Inhalt	der Inhalt, -e		der	B1	content, plot	содержание
@@ -1069,7 +1069,7 @@ Ereignis	das Ereignis, -se		das	B1	event	событие
 lediglich	lediglich		adv	B1	merely	всего
 organisch	organisch		adj	B1	organic	органический
 glücklich	glücklich		adj	A1	happy, fortunate	счастливый
-Rest	der Rest, -e		der	A2	rest, remainder, balance	остаток. ; остаток. ; остаток
+Rest	der Rest, -e		der	A2	rest, remainder, balance	остаток
 Wunsch	der Wunsch, -̈e		der	A2	wish	желание
 beschließen, beschließt, beschloss, hat beschlossen	beschließen, beschließt, beschloss, hat beschlossen		verb	B1	to decide	решать
 dick	dick		adj	A2	thick, fat	толстый
@@ -1083,14 +1083,14 @@ per	per		prep	B1	by, per	посредством
 regelmäßig	regelmäßig		adj	B1	regular	регулярный
 her	her		adv	A2	from sth, ago, as far as . . . is concerned	назад
 wechseln, wechselt, wechselte, hat gewechselt	wechseln, wechselt, wechselte, hat gewechselt		verb	A2	to change	менять
-einstellen, stellt ein, stellte ein, hat eingestellt	einstellen, stellt ein, stellte ein, hat eingestellt		verb	B1	to adjust, employ, stop, discontinue	настраивать. ; нанимать. ; прекращать
+einstellen, stellt ein, stellte ein, hat eingestellt	einstellen, stellt ein, stellte ein, hat eingestellt		verb	B1	to adjust, employ, stop, discontinue	настраивать; нанимать; прекращать
 Theater	das Theater, -		das	A2	theater	театр
 König	der König, -e		der	B1	king	король
 Ohr	das Ohr, -en		das	A2	ear	ухо
-fördern, fördert, förderte, hat gefördert	fördern, fördert, förderte, hat gefördert		verb	B1	to promote, support	поддерживать. ; поддерживать. ; поддерживать
+fördern, fördert, förderte, hat gefördert	fördern, fördert, förderte, hat gefördert		verb	B1	to promote, support	поддерживать
 elektrisch	elektrisch		adj	B1	electric	электрический
 Aufbau	der Aufbau, -ten		der	B1	construction, structure	структура
-Beitrag	der Beitrag, -̈e		der	B1	contribution	вклад. ; взнос. ; публикация
+Beitrag	der Beitrag, -̈e		der	B1	contribution	вклад; взнос; публикация
 Februar	der Februar, -e		der	B1	February	февраль
 durchführen, führt durch, führte durch, hat durchgeführt	durchführen, führt durch, führte durch, hat durchgeführt		verb	B1	to carry out, hold, conduct, run	проводить
 einfallen, fällt ein, fiel ein, ist eingefallen	einfallen, fällt ein, fiel ein, ist eingefallen		verb	B1	to occur, remind, remember, collapse	вспоминаться
@@ -1106,7 +1106,7 @@ schreien, schreit, schrie, hat geschrien	schreien, schreit, schrie, hat geschrie
 andererseits	andererseits		adv	B1	on the other hand	с другой стороны
 Besuch	der Besuch, -e		der	A2	visit	визит
 hundert	hundert		num	A1	hundred	сто
-Quelle	die Quelle, -n		die	B1	source, spring	источник. ; источник. ; источник
+Quelle	die Quelle, -n		die	B1	source, spring	источник
 typisch	typisch		adj	A2	typical	типичный
 Gebiet	das Gebiet, -e		das	B1	region, area, territory	территория
 Behörde	die Behörde, -n		die	B1	department, authorities	учреждение
@@ -1120,7 +1120,7 @@ irgendein	irgendein		pron	B1	some, any	какой-нибудь
 benutzen, benutzt, benutzte, hat benutzt	benutzen, benutzt, benutzte, hat benutzt		verb	A1	to use	использовать
 irgendetwas, irgendwas	irgendetwas, irgendwas		pron	B1	something, anything	что-нибудь
 teilweise	teilweise		adv	B1	partly	частично
-vertrauen, vertraut, vertraute, hat vertraut	vertrauen, vertraut, vertraute, hat vertraut		verb, das	B1	to trust; trust, faith	доверять. ; доверие
+vertrauen, vertraut, vertraute, hat vertraut	vertrauen, vertraut, vertraute, hat vertraut		verb, das	B1	to trust; trust, faith	доверять; доверие
 Jahrzehnt	das Jahrzehnt, -e		das	B1	decade	десятилетие
 Wind	der Wind, -e		der	A1	wind	ветер
 unmittelbar	unmittelbar		adj	B1	immediate, direct	непосредственный
@@ -1135,7 +1135,7 @@ Voraussetzung	die Voraussetzung, -en		die	B1	condition, requirement	услови
 töten, tötet, tötete, hat getötet	töten, tötet, tötete, hat getötet		verb	B1	to kill	убивать
 formulieren, formuliert, formulierte, hat formuliert	formulieren, formuliert, formulierte, hat formuliert		verb	B1	to formulate	формулировать
 Substanz	die Substanz, -en		die	B1	substance	вещество
-Zeitpunkt	der Zeitpunkt, -e		der	B1	moment, (point in) time	момент. ; момент. ; момент
+Zeitpunkt	der Zeitpunkt, -e		der	B1	moment, (point in) time	момент
 wenigstens	wenigstens		adv	A2	at least	по крайней мере
 Gang	der Gang, -̈e		der	B1	corridor, aisle, course	коридор
 Politiker	der Politiker, -		der	B1	politician	политик
@@ -1152,10 +1152,10 @@ verfolgen, verfolgt, verfolgte, hat verfolgt	verfolgen, verfolgt, verfolgte, hat
 gesellschaftlich	gesellschaftlich		adj	B1	social	общественный
 Schutz	der Schutz, -e		der	B1	protection	защита
 Generation	die Generation, -en		die	B1	generation	поколение
-chinesisch	chinesisch		adj, das	B1	Chinese; Chinese	китайский. ; китайский
+chinesisch	chinesisch		adj, das	B1	Chinese; Chinese	китайский
 Zeichen	das Zeichen, -		das	B1	sign	знак
 Wahrheit	die Wahrheit, -en		die	B1	truth	правда
-Haushalt	der Haushalt, -e		der	A2	household, budget	семья. ; бюджет. ; хозяйство
+Haushalt	der Haushalt, -e		der	A2	household, budget	семья; бюджет; хозяйство
 Garten	der Garten, -̈		der	A1	garden	сад
 hinten	hinten		adv	A1	at/in the back	сзади
 auffallen, fällt auf, fiel auf, ist aufgefallen	auffallen, fällt auf, fiel auf, ist aufgefallen		verb	B1	to stand out, notice	замечать
@@ -1187,7 +1187,7 @@ Erklärung	die Erklärung, -en		die	B1	explanation	объяснение
 Konzept	das Konzept, -e		das	B1	concept, idea, plan	концепция
 Mittwoch	der Mittwoch, -e		der	B1	Wednesday	среда
 stören, stört, störte, hat gestört	stören, stört, störte, hat gestört		verb	A2	to disturb, bother	мешать
-Spur	die Spur, -en		die	B1	track, lane	след. ; след. ; след
+Spur	die Spur, -en		die	B1	track, lane	след
 berliner	berliner		adj	B1	(of) Berlin	берлинский
 Herausforderung	die Herausforderung, -en		die	B1	challenge	вызов
 starten, startet, startete, hat gestartet	starten, startet, startete, hat gestartet		verb	B1	to start	начинаться
@@ -1197,7 +1197,7 @@ heiß	heiß		adj	A2	hot	горячий
 Vergangenheit	die Vergangenheit, -en		die	B1	past	прошлое
 Gleichgewicht	das Gleichgewicht, -e		das	B1	balance	равновесие
 Griechenland	Griechenland		das	B1	Greece	Греция
-Maß	das Maß, -e		das	B1	measure	размер. ; мера. ; измерение
+Maß	das Maß, -e		das	B1	measure	размер; мера; измерение
 abgeben, gibt ab, gab ab, hat abgegeben	abgeben, gibt ab, gab ab, hat abgegeben		verb	A1	to give, hand in, submit	сдавать
 Bericht	der Bericht, -e		der	B1	report	отчет
 Qualität	die Qualität, -en		die	A2	quality	качество
@@ -1224,7 +1224,7 @@ konstant	konstant		adj	B1	constant	постоянный
 Oktober	der Oktober, -		der	B1	October	октябрь
 umgehen, umgeht, umging, hat umgangen	umgehen, umgeht, umging, hat umgangen		verb	B1	to treat, handle	обращаться
 angehen, geht an, ging an, ist angegangen	angehen, geht an, ging an, ist angegangen		verb	B1	to concern, go on	касаться
-verlaufen, verläuft, verlief, ist verlaufen	verlaufen, verläuft, verlief, ist verlaufen		verb	B1	to proceed, get lost	проходить. ; заблудиться. ; проходить
+verlaufen, verläuft, verlief, ist verlaufen	verlaufen, verläuft, verlief, ist verlaufen		verb	B1	to proceed, get lost	проходить; заблудиться
 demnach	demnach		adv	B1	therefore	следовательно
 auftauchen, taucht auf, tauchte auf, ist aufgetaucht	auftauchen, taucht auf, tauchte auf, ist aufgetaucht		verb	B1	to surface, appear	появляться
 böse	böse		adj	A1	bad, mad	злой
@@ -1268,7 +1268,7 @@ dicht	dicht		adj	B1	thick, dense	густой
 Soldat	der Soldat, -en		der	B1	soldier	солдат
 bereit	bereit		adj	B1	ready	готовый
 Technik	die Technik, -en		die	B1	technology, technique	техника
-Blatt	das Blatt, -̈er		das	A2	sheet, leaf	лист. ; лист. ; лист
+Blatt	das Blatt, -̈er		das	A2	sheet, leaf	лист
 prägen, prägt, prägte, hat geprägt	prägen, prägt, prägte, hat geprägt		verb	B1	to shape, mint	формировать
 sozusagen	sozusagen		adv	B1	so to speak	так сказать
 November	der November, -		der	B1	November	ноябрь
@@ -1277,7 +1277,7 @@ gesund	gesund		adj	A2	healthy	здоровый
 danken, dankt, dankte, hat gedankt	danken, dankt, dankte, hat gedankt		verb	A1	to thank	благодарить
 Fußball	der Fußball, -̈e		der	A1	soccer, soccer ball	футбол
 Umstand	der Umstand, -̈e		der	B1	circumstance	обстоятельство
-einladen, lädt ein, lud ein, hat eingeladen	einladen, lädt ein, lud ein, hat eingeladen		verb	A1	to invite, load	приглашать. ; загружать. ; загружать
+einladen, lädt ein, lud ein, hat eingeladen	einladen, lädt ein, lud ein, hat eingeladen		verb	A1	to invite, load	приглашать; загружать
 Kilogramm, kg	Kilogramm, kg		das	B1	kilogram	килограмм
 warm	warm		adj	A2	warm	теплый
 Integration	die Integration, -en		die	B1	integration	интеграция
@@ -1287,18 +1287,18 @@ Figur	die Figur, -en		die	B1	figure	фигура
 Freude	die Freude, -n		die	B1	joy	радость
 offiziell	offiziell		adj	B1	official	официальный
 außen	außen		adj	B1	outside	внешний
-Kreis	der Kreis, -e		der	B1	circle, district	круг. ; район. ; округ
+Kreis	der Kreis, -e		der	B1	circle, district	круг; район; округ
 nicken, nickt, nickte, hat genickt	nicken, nickt, nickte, hat genickt		verb	B1	to nod	кивать
 digital	digital		adj	B1	digital	цифровой
 unbekannt	unbekannt		adj	B1	unknown	неизвестный
-Gericht	das Gericht, -e		das	A2	court, dish	суд. ; блюдо
+Gericht	das Gericht, -e		das	A2	court, dish	суд; блюдо
 schätzen, schätzt, schätzte, hat geschätzt	schätzen, schätzt, schätzte, hat geschätzt		verb	B1	to estimate, value	оценивать
 organisieren, organisiert, organisierte, hat organisiert	organisieren, organisiert, organisierte, hat organisiert		verb	A2	to organize	организовывать
 Aspekt	der Aspekt, -e		der	B1	aspect	аспект
 verzichten, verzichtet, verzichtete, hat verzichtet	verzichten, verzichtet, verzichtete, hat verzichtet		verb	B1	to do without	отказываться
 bemerken, bemerkt, bemerkte, hat bemerkt	bemerken, bemerkt, bemerkte, hat bemerkt		verb	B1	to notice	замечать
 Kaffee	der Kaffee, -s		der	A1	coffee	кофе
-Leid	das Leid		das, adv	B1	sorrow, grief; (be) tired (of)	страдание. ; сытый
+Leid	das Leid		das, adv	B1	sorrow, grief; (be) tired (of)	страдание; сытый
 still	still		adj	B1	still, quiet	тихий
 leiten, leitet, leitete, hat geleitet	leiten, leitet, leitete, hat geleitet		verb	B1	to lead	руководить
 Vertreter	der Vertreter, -		der	B1	representative	представитель
@@ -1315,7 +1315,7 @@ enden, endet, endete, hat geendet	enden, endet, endete, hat geendet		verb	A1	to 
 vielmehr	vielmehr		adv	B1	rather	скорее
 konzentrieren, konzentriert, konzentrierte, hat konzentriert	konzentrieren, konzentriert, konzentrierte, hat konzentriert		verb	B1	to concentrate	концентрироваться
 landen, landet, landete, ist gelandet	landen, landet, landete, ist gelandet		verb	B1	to land	приземляться
-See	der See, -n		der, die	A1	lake; sea	озеро. ; море
+See	der See, -n		der, die	A1	lake; sea	озеро; море
 Tourist	der Tourist, -en		der	A2	tourist	турист
 Konzentration	die Konzentration, -en		die	B1	concentration	концентрация
 verbieten, verbietet, verbot, hat verboten	verbieten, verbietet, verbot, hat verboten		verb	A2	to forbid, prohibit	запрещать
@@ -1353,7 +1353,7 @@ Abgeordnete	die Abgeordnete		der, die	B1	member of parliament, congress	депу
 verstärken, verstärkt, verstärkte, hat verstärkt	verstärken, verstärkt, verstärkte, hat verstärkt		verb	B1	to strengthen, reinforce	усиливать
 ausschließen, schließt aus, schloss aus, hat ausgeschlossen	ausschließen, schließt aus, schloss aus, hat ausgeschlossen		verb	B1	to exclude, rule out	исключать
 sinnvoll	sinnvoll		adj	B1	sensible, meaningful	осмысленный
-Bezug	der Bezug, -̈e		der	B1	reference, cover	отношение. ; чехол. ; получение
+Bezug	der Bezug, -̈e		der	B1	reference, cover	отношение; чехол; получение
 Dienstag	der Dienstag, -e		der	B1	Tuesday	вторник
 Stand	der Stand, -̈e		der	B1	stand, stage	киоск
 retten, rettet, rettete, hat gerettet	retten, rettet, rettete, hat gerettet		verb	B1	to save, rescue	спасать
@@ -1376,7 +1376,7 @@ begründen, begründet, begründete, hat begründet	begründen, begründet, begr
 streng	streng		adj	A2	strict	строгий
 Ecke	die Ecke, -n		die	A1	corner	угол
 Lauf	der Lauf, -̈e		der	B1	course, run, race	бег
-Artikel	der Artikel, -		der	A2	article	статья. ; предмет. ; артикль
+Artikel	der Artikel, -		der	A2	article	статья; предмет; артикль
 berühmt	berühmt		adj	A2	famous	знаменитый
 ersetzen, ersetzt, ersetzte, hat ersetzt	ersetzen, ersetzt, ersetzte, hat ersetzt		verb	B1	to replace, reimburse	заменять
 Wahrscheinlichkeit	die Wahrscheinlichkeit, -en		die	B1	probability	вероятность
@@ -1432,13 +1432,13 @@ aufweisen, weist auf, wies auf, hat aufgewiesen	aufweisen, weist auf, wies auf, 
 springen, springt, sprang, ist gesprungen	springen, springt, sprang, ist gesprungen		verb	B1	to jump	прыгать
 Hof	der Hof, -̈e		der	B1	courtyard, yard	двор
 Polizist	der Polizist, -en		der	B1	police officer, policeman	полицейский
-Übung	die Übung, -en		die	B1	exercise, practice	упражнение. ; практика. ; тренировка
+Übung	die Übung, -en		die	B1	exercise, practice	упражнение; практика; тренировка
 Widerstand	der Widerstand, -̈e		der	B1	resistance, opposition	сопротивление
-anziehen, zieht an, zog an, hat angezogen	anziehen, zieht an, zog an, hat angezogen		verb	B1	to attract, put on, dress	привлекать. ; одеваться. ; надевать
+anziehen, zieht an, zog an, hat angezogen	anziehen, zieht an, zog an, hat angezogen		verb	B1	to attract, put on, dress	привлекать; одеваться; надевать
 Experte	der Experte, -n		der	B1	expert	эксперт
 ohnehin	ohnehin		adv	B1	anyway	всё равно
 füllen, füllt, füllte, hat gefüllt	füllen, füllt, füllte, hat gefüllt		verb	B1	to fill	наполнять
-Gemeinde	die Gemeinde, -n		die	B1	community, municipality	муниципалитет. ; община. ; община
+Gemeinde	die Gemeinde, -n		die	B1	community, municipality	муниципалитет; община
 Pause	die Pause, -n		die	A1	pause, break	пауза
 scharf	scharf		adj	A2	sharp	острый
 schütteln, schüttelt, schüttelte, hat geschüttelt	schütteln, schüttelt, schüttelte, hat geschüttelt		verb	B1	to shake	трясти
@@ -1455,7 +1455,7 @@ veröffentlichen, veröffentlicht, veröffentlichte, hat veröffentlicht	veröff
 aufstellen, stellt auf, stellte auf, hat aufgestellt	aufstellen, stellt auf, stellte auf, hat aufgestellt		verb	B1	to put up, draw up	устанавливать
 abhängig	abhängig		adj	B1	dependent	зависимый
 Strecke	die Strecke, -n		die	B1	distance, route	маршрут
-Praxis	die Praxis, -en		die	A1	practice, doctor’s office	практика. ; врачебный кабинет. ; определенный артикль
+Praxis	die Praxis, -en		die	A1	practice, doctor’s office	практика; врачебный кабинет; определенный артикль
 ungefähr	ungefähr		adj	B1	approximately	приблизительный
 mitnehmen, nimmt mit, nahm mit, hat mitgenommen	mitnehmen, nimmt mit, nahm mit, hat mitgenommen		verb	A1	to take (along)	брать
 üblich	üblich		adj	B1	usual	обычный
@@ -1463,7 +1463,7 @@ mitnehmen, nimmt mit, nahm mit, hat mitgenommen	mitnehmen, nimmt mit, nahm mit, 
 Wissenschaft	die Wissenschaft, -en		die	B1	science	наука
 global	global		adj	B1	global	глобальный
 Nachmittag	der Nachmittag, -e		der	B1	afternoon	послеполуденное время
-Annahme	die Annahme, -n		die	B1	acceptance, assumption	предположение. ; принятие. ; получение
+Annahme	die Annahme, -n		die	B1	acceptance, assumption	предположение; принятие; получение
 Umgebung	die Umgebung, -en		die	B1	surroundings	окружение
 Öffentlichkeit	die Öffentlichkeit, -en		die	B1	public	общественность
 Spiegel	der Spiegel, -		der	B1	mirror	зеркало
@@ -1472,7 +1472,7 @@ besetzen, besetzt, besetzte, hat besetzt	besetzen, besetzt, besetzte, hat besetz
 Gegenteil	das Gegenteil, -e		das	A2	opposite	противоположность
 vorbei	vorbei		adv	A2	past, over	позади
 Fan	der Fan, -s		der	A2	fan, supporter	фанат
-Karte	die Karte, -n		die	A1	card, ticket, menu	билет. ; карта. ; меню
+Karte	die Karte, -n		die	A1	card, ticket, menu	билет; карта; меню
 arm	arm		adj	A1	poor	бедный
 Krise	die Krise, -n		die	B1	crisis	кризис
 Strategie	die Strategie, -n		die	B1	strategy	стратегия
@@ -1480,11 +1480,11 @@ Debatte	die Debatte, -n		die	B1	debate	дебаты
 davor	davor		pron	B1	before, in front of	перед этим
 Journalist	der Journalist, -en		der	B1	journalist	журналист
 kochen, kocht, kochte, hat gekocht	kochen, kocht, kochte, hat gekocht		verb	A1	to cook	готовить
-zurückgehen, geht zurück, ging zurück, ist zurückgegangen	zurückgehen, geht zurück, ging zurück, ist zurückgegangen		verb	B1	to go back, decrease	возвращаться. ; уменьшаться. ; отступать
+zurückgehen, geht zurück, ging zurück, ist zurückgegangen	zurückgehen, geht zurück, ging zurück, ist zurückgegangen		verb	B1	to go back, decrease	возвращаться; уменьшаться; отступать
 Schmerz	der Schmerz, -en		der	A2	pain, grief	боль
 erheblich	erheblich		adj	B1	considerable	значительный
 ausschließlich	ausschließlich		adj	B1	exclusive	исключительный
-griechisch	griechisch		adj, das	B1	Greek; Greek	греческий. ; греческий
+griechisch	griechisch		adj, das	B1	Greek; Greek	греческий
 naja	naja		part	B1	(oh) well	ну
 Runde	die Runde, -n		die	B1	round	раунд
 Angriff	der Angriff, -e		der	B1	attack	нападение
@@ -1514,7 +1514,7 @@ sodass	sodass		conj	B1	so that	так чтобы
 Tatsache	die Tatsache, -n		die	B1	fact	факт
 Alkohol	der Alkohol, -e		der	B1	alcohol	алкоголь
 informieren, informiert, informierte, hat informiert	informieren, informiert, informierte, hat informiert		verb	A2	to inform	информировать
-Norden, Nord-	Norden, Nord-		der	B1	north	север. ; север. ; север
+Norden, Nord-	Norden, Nord-		der	B1	north	север
 vermuten, vermutet, vermutete, hat vermutet	vermuten, vermutet, vermutete, hat vermutet		verb	B1	to assume, suspect	предполагать
 zufrieden	zufrieden		adj	A1	satisfied	довольный
 reißen, reißt, riss, hat gerissen	reißen, reißt, riss, hat gerissen		verb	B1	to tear	рваться
@@ -1522,14 +1522,14 @@ dahin	dahin		adv	B1	there	туда
 solange	solange		conj	B1	as long as	пока
 Wissenschaftler	der Wissenschaftler, -		der	B1	scholar, scientist	ученый
 Kommunikation	die Kommunikation, -en		die	B1	communication	коммуникация
-Steuer	das Steuer, -		die, das	B1	tax; steering wheel, helm	налог. ; руль
+Steuer	das Steuer, -		die, das	B1	tax; steering wheel, helm	налог; руль
 angeblich	angeblich		adj	B1	alleged	мнимый
 günstig	günstig		adj	A1	cheap, favorable, good	выгодный
 Dezember	der Dezember, -		der	B1	December	декабрь
 Flughafen	der Flughafen, -̈		der	A1	airport	аэропорт
 Krankenhaus	das Krankenhaus, -̈er		das	A2	hospital	больница
 wenden, wendet, wandte, hat gewandt	wenden, wendet, wandte, hat gewandt		verb	B1	to turn around	разворачивать
-türkisch	türkisch		adj, das	B1	Turkish; Turkish	турецкий. ; турецкий
+türkisch	türkisch		adj, das	B1	Turkish; Turkish	турецкий
 Gegner	der Gegner, -		der	B1	opponent, competitor, enemy	противник
 Leser	der Leser, -		der	B1	reader	читатель
 VWL	VWL (Volkswirtschaftslehre)		die	B1	economics	экономика
@@ -1538,7 +1538,7 @@ Kenntnis	die Kenntnis, -se		die	B1	knowledge	знание
 sichtbar	sichtbar		adj	B1	visible	видимый
 zulassen, lässt zu, ließ zu, hat zugelassen	zulassen, lässt zu, ließ zu, hat zugelassen		verb	B1	to allow, admit	допускать
 Mark	die Mark, -		die	B1	Deutschmark	марка
-vorsehen, sieht vor, sah vor, hat vorgesehen	vorsehen, sieht vor, sah vor, hat vorgesehen		verb	B1	to look around, plan, provide for	выглядывать. ; предусматривать. ; планировать
+vorsehen, sieht vor, sah vor, hat vorgesehen	vorsehen, sieht vor, sah vor, hat vorgesehen		verb	B1	to look around, plan, provide for	выглядывать; предусматривать; планировать
 Schwierigkeit	die Schwierigkeit, -en		die	B1	difficulty	трудность
 wahrnehmen, nimmt wahr, nahm wahr, hat wahrgenommen	wahrnehmen, nimmt wahr, nahm wahr, hat wahrgenommen		verb	B1	to perceive, detect	воспринимать
 hinweisen, weist hin, wies hin, hat hingewiesen	hinweisen, weist hin, wies hin, hat hingewiesen		verb	B1	to point to, refer to	указывать
@@ -1547,7 +1547,7 @@ Signal	das Signal, -e		das	B1	signal	сигнал
 kontrollieren, kontrolliert, kontrollierte, hat kontrolliert	kontrollieren, kontrolliert, kontrollierte, hat kontrolliert		verb	A2	to check, control	проверять
 sowieso	sowieso		adv	B1	anyway	всё равно
 Bauer	der Bauer, -n		der	B1	farmer	фермер
-Kurs	der Kurs, -e		der	A1	course, exchange rate	курс. ; курс. ; курс
+Kurs	der Kurs, -e		der	A1	course, exchange rate	курс
 einst	einst		adv	B1	once, at one time, one day	однажды
 Service	der Service, -s		der	A2	service	обслуживание
 sprachlich	sprachlich		adj	B1	linguistic	языковой
@@ -1581,17 +1581,17 @@ AfD	AfD (Alternative für Deutschland)		die	B1	AfD, Alternative für Deutschland
 Bakterie	die Bakterie, -n		die	B1	bacterium	бактерия
 tauchen, taucht, tauchte, ist getaucht	tauchen, taucht, tauchte, ist getaucht		verb	B1	to dive, dip	нырять
 Konsequenz	die Konsequenz, -en		die	B1	consequence	последствие
-Schuld	die Schuld, -en		die, adj	B1	guilt; guilty	вина. ; виноватый
+Schuld	die Schuld, -en		die, adj	B1	guilt; guilty	вина; виноватый
 Mehrheit	die Mehrheit, -en		die	B1	majority	большинство
 anhaben, hat an, hatte an, hat angehabt	anhaben, hat an, hatte an, hat angehabt		verb	B1	to wear, damage	носить
-Bestimmung	die Bestimmung, -en		die	B1	regulation, purpose, fate	положение. ; назначение. ; судьба
+Bestimmung	die Bestimmung, -en		die	B1	regulation, purpose, fate	положение; назначение; судьба
 vermeiden, vermeidet, vermied, hat vermieden	vermeiden, vermeidet, vermied, hat vermieden		verb	B1	to avoid	избегать
 ehrlich	ehrlich		adj	B1	honest	честный
 beachten, beachtet, beachtete, hat beachtet	beachten, beachtet, beachtete, hat beachtet		verb	B1	to pay attention, observe	соблюдать
 statistisch	statistisch		adj	B1	statistical	статистический
 Hals	der Hals, -̈e		der	A2	neck, throat	шея
 durchsetzen, setzt durch, setzte durch, hat durchgesetzt	durchsetzen, setzt durch, setzte durch, hat durchgesetzt		verb	B1	to carry through, enforce, implement	осуществлять
-italienisch	italienisch		adj, das	B1	Italian; Italian	итальянский. ; итальянский
+italienisch	italienisch		adj, das	B1	Italian; Italian	итальянский
 Scheiße	die Scheiße		die	B1	crap, shit	дерьмо
 Telefon	das Telefon, -e		das	A1	telephone	телефон
 Herbst	der Herbst, -e		der	B1	autumn	осень
@@ -1607,20 +1607,20 @@ ehren, ehrt, ehrte, hat geehrt	ehren, ehrt, ehrte, hat geehrt		verb	B1	to honor	
 Verwendung	die Verwendung, -en		die	B1	use	использование
 letztlich	letztlich		adv	B1	in the end	в конце концов
 Fläche	die Fläche, -n		die	B1	area, surface	площадь
-streichen, streicht, strich, hat gestrichen	streichen, streicht, strich, hat gestrichen		verb	B1	to paint, cancel	красить. ; вычеркивать. ; отменять
+streichen, streicht, strich, hat gestrichen	streichen, streicht, strich, hat gestrichen		verb	B1	to paint, cancel	красить; вычеркивать; отменять
 zitieren, zitiert, zitierte, hat zitiert	zitieren, zitiert, zitierte, hat zitiert		verb	B1	to quote	цитировать
 senken, senkt, senkte, hat gesenkt	senken, senkt, senkte, hat gesenkt		verb	B1	to sink, lower, decrease	снижать
 behalten, behält, behielt, hat behalten	behalten, behält, behielt, hat behalten		verb	B1	to keep	сохранять
 gestalten, gestaltet, gestaltete, hat gestaltet	gestalten, gestaltet, gestaltete, hat gestaltet		verb	B1	to shape, design	оформлять
 beweisen, beweist, bewies, hat bewiesen	beweisen, beweist, bewies, hat bewiesen		verb	B1	to prove	доказывать
 Umgang	der Umgang, -̈e		der	B1	dealings, contact	обращение
-überprüfen, überprüft, überprüfte, hat überprüft	überprüfen, überprüft, überprüfte, hat überprüft		verb	B1	to check	проверять. ; проверять. ; проверять
+überprüfen, überprüft, überprüfte, hat überprüft	überprüfen, überprüft, überprüfte, hat überprüft		verb	B1	to check	проверять
 Lehrstuhl	der Lehrstuhl, -̈e		der	B1	professorship, chair	кафедра
 schenken, schenkt, schenkte, hat geschenkt	schenken, schenkt, schenkte, hat geschenkt		verb	A2	to give (as a present)	дарить
 Vorschlag	der Vorschlag, -̈e		der	A2	suggestion, proposal	предложение
 anhalten, hält an, hielt an, hat angehalten	anhalten, hält an, hielt an, hat angehalten		verb	B1	to stop, last	останавливаться
 entfernt	entfernt		adj	B1	distant, away	удаленный
-Leiter	der Leiter, -		der, die	B1	leader; ladder	руководитель. ; лестница
+Leiter	der Leiter, -		der, die	B1	leader; ladder	руководитель; лестница
 Parlament	das Parlament, -e		das	B1	parliament	парламент
 stürzen, stürzt, stürzte, ist gestürzt	stürzen, stürzt, stürzte, ist gestürzt		verb	B1	to fall, stumble	падать
 Waffe	die Waffe, -n		die	B1	weapon	оружие
@@ -1643,7 +1643,7 @@ vorsichtig	vorsichtig		adj	A2	cautious, careful	осторожный
 anwenden, wendet an, wandte an, hat angewandt	anwenden, wendet an, wandte an, hat angewandt		verb	B1	to apply, employ	применять
 wild	wild		adj	B1	wild	дикий
 gesetzlich	gesetzlich		adj	B1	legal	законный
-Spitze	die Spitze, -n		die	B1	point, top, peak	острие. ; вершина. ; верхушка
+Spitze	die Spitze, -n		die	B1	point, top, peak	острие; вершина; верхушка
 Gerät	das Gerät, -e		das	A2	tool, piece of equipment, appliance	устройство
 Wille	der Wille, -n		der	B1	will	воля
 sicherlich	sicherlich		adv	B1	certainly	безусловно
@@ -1660,7 +1660,7 @@ Gelegenheit	die Gelegenheit, -en		die	B1	opportunity	возможность
 Mauer	die Mauer, -n		die	B1	wall	стена
 stattdessen	stattdessen		adv	B1	instead	вместо
 Stuhl	der Stuhl, -̈e		der	A2	chair	стул
-Ton	der Ton, -e		der	B1	sound, tone, clay	звук. ; глина. ; тон
+Ton	der Ton, -e		der	B1	sound, tone, clay	звук; глина; тон
 Büro	das Büro, -s		das	A2	office	офис
 Umwelt	die Umwelt, -en		die	B1	environment	окружающая среда
 rauchen, raucht, rauchte, hat geraucht	rauchen, raucht, rauchte, hat geraucht		verb	A1	to smoke	курить
@@ -1700,7 +1700,7 @@ Potenzial	das Potenzial, -e		das	B1	potential	потенциал
 Verlag	der Verlag, -e		der	B1	publishing company	издательство
 Ministerpräsident	der Ministerpräsident, -en		der	B1	governor, minister president	премьер-министр
 Vogel	der Vogel, -̈		der	A2	bird	птица
-beschränken, beschränkt, beschränkte, hat beschränkt	beschränken, beschränkt, beschränkte, hat beschränkt		verb	B1	to restrict	ограничивать. ; ограничивать. ; ограничивать
+beschränken, beschränkt, beschränkte, hat beschränkt	beschränken, beschränkt, beschränkte, hat beschränkt		verb	B1	to restrict	ограничивать
 Branche	die Branche, -n		die	B1	sector, line of business	отрасль
 Schauspieler	der Schauspieler, -		der	B1	actor	актёр
 vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen	vorschlagen, schlägt vor, schlug vor, hat vorgeschlagen		verb	B1	to suggest	предлагать
@@ -1709,7 +1709,7 @@ jährlich	jährlich		adj	B1	annual	ежегодный
 Botschaft	die Botschaft, -en		die	B1	message	сообщение
 Alltag	der Alltag, -e		der	B1	workday, daily routine, everyday life	повседневность
 Umsatz	der Umsatz, -̈e		der	B1	turnover, sales	оборот
-Verband	der Verband, -̈e		der	B1	association, bandage	повязка. ; ассоциация. ; союз
+Verband	der Verband, -̈e		der	B1	association, bandage	повязка; ассоциация; союз
 betreten	betreten		verb	B1	to enter, walk into/onto	входить
 Regelung	die Regelung, -en		die	B1	regulation, settlement	регулирование
 teilnehmen, nimmt teil, nahm teil, hat teilgenommen	teilnehmen, nimmt teil, nahm teil, hat teilgenommen		verb	A2	to take part	участвовать
@@ -1724,7 +1724,7 @@ fließen, fließt, floss, ist geflossen	fließen, fließt, floss, ist geflossen	
 gemäß	gemäß		prep	B1	according to	согласно
 Vorwurf	der Vorwurf, -̈e		der	B1	reproach, accusation	упрек
 erforderlich	erforderlich		adj	B1	required, necessary	необходимый
-Haltung	die Haltung, -en		die	B1	posture, attitude	осанка. ; отношение. ; содержание
+Haltung	die Haltung, -en		die	B1	posture, attitude	осанка; отношение; содержание
 Schriftsteller	der Schriftsteller, -		der	B1	writer	писатель
 Stimmung	die Stimmung, -en		die	B1	mood, atmosphere	настроение
 zufällig	zufällig		adj	B1	accidental, by chance	случайный
@@ -1735,7 +1735,7 @@ Lied	das Lied, -er		das	A1	song	песня
 Nation	die Nation, -en		die	B1	nation	нация
 Verhandlung	die Verhandlung, -en		die	B1	negotiation	переговоры
 Wein	der Wein, -e		der	A1	wine	вино
-Auflage	die Auflage, -n		die	B1	edition, condition, plating	издание. ; условие. ; тираж
+Auflage	die Auflage, -n		die	B1	edition, condition, plating	издание; условие; тираж
 billig	billig		adj	A1	cheap	дешевый
 dünn	dünn		adj	A2	thin	тонкий
 achten, achtet, achtete, hat geachtet	achten, achtet, achtete, hat geachtet		verb	B1	to respect, pay attention	обращать внимание
@@ -1746,7 +1746,7 @@ Spanien	Spanien		das	B1	Spain	Испания
 ab	ab		adv	A1	off, away	прочь
 Jude	der Jude, -n		der	B1	Jew	еврей
 Vorgang	der Vorgang, -̈e		der	B1	procedure, process	процесс
-ausgeben, gibt aus, gab aus, hat ausgegeben	ausgeben, gibt aus, gab aus, hat ausgegeben		verb	A2	to spend	тратить. ; тратить. ; тратить
+ausgeben, gibt aus, gab aus, hat ausgegeben	ausgeben, gibt aus, gab aus, hat ausgegeben		verb	A2	to spend	тратить
 Meister	der Meister, -		der	B1	master	мастер
 umdrehen, dreht um, drehte um, hat umgedreht	umdrehen, dreht um, drehte um, hat umgedreht		verb	B1	to turn over, turn around	поворачиваться
 weitgehend	weitgehend		adj	B1	extensive	значительный
@@ -1820,7 +1820,7 @@ Falle	die Falle, -n		die	B1	trap	ловушка
 verbreiten, verbreitet, verbreitete, hat verbreitet	verbreiten, verbreitet, verbreitete, hat verbreitet		verb	B1	to spread	распространять
 Auswirkung	die Auswirkung, -en		die	B1	effect	последствие
 einander	einander		adv	B1	each other	друг друга
-weshalb	weshalb		pron	B1	why	почему. ; почему. ; почему
+weshalb	weshalb		pron	B1	why	почему
 Unterricht	der Unterricht, -e		der	A1	instruction, classes	занятие
 Bedürfnis	das Bedürfnis, -se		das	B1	need	потребность
 Niveau	das Niveau, -s		das	B1	level, standard	уровень
@@ -1902,7 +1902,7 @@ Umsetzung	die Umsetzung, -en		die	B1	transfer, implementation	реализаци
 Engagement	das Engagement, -s		das	B1	commitment	приверженность
 erschrecken, erschreckt, erschreckte, hat erschreckt	erschrecken, erschreckt, erschreckte, hat erschreckt		verb	B1	to frighten, be startled	пугаться
 erwerben, erwirbt, erwarb, hat erworben	erwerben, erwirbt, erwarb, hat erworben		verb	B1	to acquire, purchase	приобретать
-Wesen	das Wesen, -		das	B1	being, creature, nature (of sth)	существо. ; сущность. ; характер
+Wesen	das Wesen, -		das	B1	being, creature, nature (of sth)	существо; сущность; характер
 parallel	parallel		adj	B1	parallel	параллельный
 hierbei	hierbei		adv	B1	while doing this, on this occasion	при этом
 Schloss	das Schloss, -̈er		das	A2	lock, castle	замок
@@ -1917,7 +1917,7 @@ anpassen, passt an, passte an, hat angepasst	anpassen, passt an, passte an, hat 
 automatisch	automatisch		adj	A1	automatic	автоматический
 Physik	die Physik		die	B1	physics	физика
 Erkrankung	die Erkrankung, -en		die	B1	illness, disease	заболевание
-spanisch	spanisch		adj, das	B1	Spanish; Spanish	испанский. ; испанский
+spanisch	spanisch		adj, das	B1	Spanish; Spanish	испанский
 Teilnehmer	der Teilnehmer, -		der	B1	participant	участник
 Veranstaltung	die Veranstaltung, -en		die	A2	event	мероприятие
 vorhaben, hat vor, hatte vor, hat vorgehabt	vorhaben, hat vor, hatte vor, hat vorgehabt		verb	B1	to have in mind, be planning, intend	планировать
@@ -1949,18 +1949,18 @@ wagen, wagt, wagte, hat gewagt	wagen, wagt, wagte, hat gewagt		verb	A2	to dare, 
 weiblich	weiblich		adj	A1	feminine, female	женский
 seitdem	seitdem		adv	B1	since then	с тех пор
 Treppe	die Treppe, -n		die	A1	stairs	лестница
-Decke	die Decke, -n		die	B1	ceiling, blanket	одеяло. ; потолок
+Decke	die Decke, -n		die	B1	ceiling, blanket	одеяло; потолок
 Einstellung	die Einstellung, -en		die	B1	attitude, employment	отношение
-heiraten, heiratet, heiratete, hat geheiratet	heiraten, heiratet, heiratete, hat geheiratet		verb	A1	to marry	жениться. ; жениться. ; жениться
+heiraten, heiratet, heiratete, hat geheiratet	heiraten, heiratet, heiratete, hat geheiratet		verb	A1	to marry	жениться
 mittels	mittels		prep	B1	by means of	посредством
 Unfall	der Unfall, -̈e		der	A2	accident	авария
 Bestandteil	der Bestandteil, -e		der	B1	component	компонент
 Regen	der Regen, -		der	A1	rain	дождь
 entschuldigen, entschuldigt, entschuldigte, hat entschuldigt	entschuldigen, entschuldigt, entschuldigte, hat entschuldigt		verb	A1	to excuse, apologize	извиняться
 Fisch	der Fisch, -e		der	A1	fish	рыба
-Medizin	die Medizin, -en		die	B1	medicine	медицина. ; лекарство. ; лекарство
+Medizin	die Medizin, -en		die	B1	medicine	медицина; лекарство
 Schicksal	das Schicksal, -e		das	B1	fate	судьба
-aufgehen, geht auf, ging auf, ist aufgegangen	aufgehen, geht auf, ging auf, ist aufgegangen		verb	B1	to rise, open	восходить. ; открываться. ; пониматься
+aufgehen, geht auf, ging auf, ist aufgegangen	aufgehen, geht auf, ging auf, ist aufgegangen		verb	B1	to rise, open	восходить; открываться; пониматься
 Video	das Video, -s		das	B1	video	видео
 zugehen, geht zu, ging zu, ist zugegangen	zugehen, geht zu, ging zu, ist zugegangen		verb	B1	to approach, close	подходить
 durchschnittlich	durchschnittlich		adj	B1	average	средний
@@ -1989,7 +1989,7 @@ Abhängigkeit	die Abhängigkeit, -en		die	B1	dependence	зависимость
 Einrichtung	die Einrichtung, -en		die	B1	institution, furnishings	обстановка
 vereinigen, vereinigt, vereinigte, hat vereinigt	vereinigen, vereinigt, vereinigte, hat vereinigt		verb	B1	to unite	объединяться
 vereinbaren, vereinbart, vereinbarte, hat vereinbart	vereinbaren, vereinbart, vereinbarte, hat vereinbart		verb	A2	to agree	договариваться
-verschieben, verschiebt, verschob, hat verschoben	verschieben, verschiebt, verschob, hat verschoben		verb	A2	to move, postpone	переносить. ; переносить. ; переносить
+verschieben, verschiebt, verschob, hat verschoben	verschieben, verschiebt, verschob, hat verschoben		verb	A2	to move, postpone	переносить
 bewirken, bewirkt, bewirkte, hat bewirkt	bewirken, bewirkt, bewirkte, hat bewirkt		verb	B1	to cause	вызывать
 Bundesland	das Bundesland, -̈er		das	B1	state, province	федеральная земля
 erleichtern, erleichtert, erleichterte, hat erleichtert	erleichtern, erleichtert, erleichterte, hat erleichtert		verb	B1	to relieve, make easier	облегчать
@@ -2036,7 +2036,7 @@ BRD	BRD (Bundesrepublik Deutschland)		die	B1	Federal Republic (of Germany)	Фе�
 Charakter	der Charakter, -e		der	B1	character	характер
 antreten, tritt an, trat an, hat angetreten	antreten, tritt an, trat an, hat angetreten		verb	B1	to take up, start	вступать
 Lehre	die Lehre, -n		die	B1	apprenticeship, lesson, doctrine	ученичество
-aufpassen, passt auf, passte auf, hat aufgepasst	aufpassen, passt auf, passte auf, hat aufgepasst		verb	A2	to pay attention, take care	осторожничать. ; информация отсутствует. ; информация отсутствует
+aufpassen, passt auf, passte auf, hat aufgepasst	aufpassen, passt auf, passte auf, hat aufgepasst		verb	A2	to pay attention, take care	осторожничать; информация отсутствует
 Verletzung	die Verletzung, -en		die	B1	injury	травма
 CSU	CSU (Christlich-Soziale Union)		die	B1	CSU	ХСС
 Direktor	der Direktor, -en		der	B1	director	директор
@@ -2070,7 +2070,7 @@ rennen, rennt, rannte, ist gerannt	rennen, rennt, rannte, ist gerannt		verb	B1	t
 herausfinden, findet heraus, fand heraus, hat herausgefunden	herausfinden, findet heraus, fand heraus, hat herausgefunden		verb	B1	to find out	выяснять
 nahezu	nahezu		adv	B1	nearly, almost	почти
 benennen, benennt, benannte, hat benannt	benennen, benennt, benannte, hat benannt		verb	B1	to name	называть
-Schrift	die Schrift, -en		die	B1	script, handwriting	почерк. ; письменность. ; сочинение
+Schrift	die Schrift, -en		die	B1	script, handwriting	почерк; письменность; сочинение
 Silbe	die Silbe, -n		die	B1	syllable	слог
 Anstieg	der Anstieg, -e		der	B1	rise, increase	рост
 Kurve	die Kurve, -n		die	B1	curve, turn	кривая
@@ -2110,7 +2110,7 @@ grundlegend	grundlegend		adj	B1	basic, fundamental	фундаментальны�
 Boot	das Boot, -e		das	B1	boat	лодка
 Dutzend	das Dutzend, -e		das	B1	dozen	дюжина
 zurückziehen, zieht zurück, zog zurück, hat zurückgezogen	zurückziehen, zieht zurück, zog zurück, hat zurückgezogen		verb	B1	to withdraw	уходить
-klopfen, klopft, klopfte, hat geklopft	klopfen, klopft, klopfte, hat geklopft		verb	B1	to knock, beat	стучать. ; стучать. ; стучать
+klopfen, klopft, klopfte, hat geklopft	klopfen, klopft, klopfte, hat geklopft		verb	B1	to knock, beat	стучать
 nachweisen, weist nach, wies nach, hat nachgewiesen	nachweisen, weist nach, wies nach, hat nachgewiesen		verb	B1	to prove	доказывать
 Wolke	die Wolke, -n		die	A2	cloud	облако
 aufmachen, macht auf, machte auf, hat aufgemacht	aufmachen, macht auf, machte auf, hat aufgemacht		verb	A2	to open	открывать
@@ -2133,15 +2133,15 @@ Verkehr	der Verkehr, -e		der	A2	traffic	транспорт
 aufhalten, hält auf, hielt auf, hat aufgehalten	aufhalten, hält auf, hielt auf, hat aufgehalten		verb	B1	to stop, hold up, delay	останавливать
 schneiden, schneidet, schnitt, hat geschnitten	schneiden, schneidet, schnitt, hat geschnitten		verb	A2	to cut	резать
 Kauf	der Kauf, -̈e		der	B1	purchase	покупка
-Öl	das Öl, -e		das	A2	oil	нефть. ; масло. ; масло
+Öl	das Öl, -e		das	A2	oil	нефть; масло
 Betrag	der Betrag, -̈e		der	B1	amount	сумма
-herauskommen, kommt heraus, kam heraus, ist herausgekommen	herauskommen, kommt heraus, kam heraus, ist herausgekommen (rauskommen)		verb	B1	to come out	выходить. ; отсутствует. ; отсутствует
+herauskommen, kommt heraus, kam heraus, ist herausgekommen	herauskommen, kommt heraus, kam heraus, ist herausgekommen (rauskommen)		verb	B1	to come out	выходить; отсутствует
 Fahrrad	das Fahrrad, -̈er		das	A1	bicycle	велосипед
 Koordination	die Koordination, -en		die	B1	coordination	координация
 Nutzung	die Nutzung, -en		die	B1	use	использование
 Park	der Park, -s		der	A2	park	парк
 resultieren, resultiert, resultierte, hat resultiert	resultieren, resultiert, resultierte, hat resultiert		verb	B1	to result	проистекать
-schmecken, schmeckt, schmeckte, hat geschmeckt	schmecken, schmeckt, schmeckte, hat geschmeckt		verb	A1	to taste	пробовать. ; пробовать. ; пробовать
+schmecken, schmeckt, schmeckte, hat geschmeckt	schmecken, schmeckt, schmeckte, hat geschmeckt		verb	A1	to taste	пробовать
 starren, starrt, starrte, hat gestarrt	starren, starrt, starrte, hat gestarrt		verb	B1	to stare	пялиться
 verpassen, verpasst, verpasste, hat verpasst	verpassen, verpasst, verpasste, hat verpasst		verb	A2	to miss	пропускать
 vorwerfen, wirft vor, warf vor, hat vorgeworfen	vorwerfen, wirft vor, warf vor, hat vorgeworfen		verb	B1	to accuse, reproach	обвинять
@@ -2157,7 +2157,7 @@ Nutzen	der Nutzen, -		der	B1	benefit, profit, use	польза
 Hose	die Hose, -n		die	A2	trousers, pants	брюки
 lügen, lügt, log, hat gelogen	lügen, lügt, log, hat gelogen		verb	A2	to (tell a) lie	лгать
 ansetzen, setzt an, setzte an, hat angesetzt	ansetzen, setzt an, setzte an, hat angesetzt		verb	B1	to position, estimate, fix	назначать
-arabisch	arabisch		adj, das	B1	Arabian, Arabic; Arabic	арабский. ; арабский
+arabisch	arabisch		adj, das	B1	Arabian, Arabic; Arabic	арабский
 mischen, mischt, mischte, hat gemischt	mischen, mischt, mischte, hat gemischt		verb	B1	to mix, blend	смешивать
 beruhen, beruht, beruhte, hat beruht	beruhen, beruht, beruhte, hat beruht		verb	B1	to be based	основываться
 Japan	Japan		das	B1	Japan	Япония
@@ -2169,14 +2169,14 @@ Metall	das Metall, -e		das	B1	metal	металл
 Netzwerk	das Netzwerk, -e		das	B1	network	сеть
 systematisch	systematisch		adj	B1	systematic	систематический
 Technologie	die Technologie, -n		die	B1	technology	технология
-Trennung	die Trennung, -en		die	B1	separation	расставание. ; разлука. ; разделение
+Trennung	die Trennung, -en		die	B1	separation	расставание; разлука; разделение
 E-Mail	die E-Mail, -s		die, das	A1	e-mail	электронная почта
 mitmachen, macht mit, machte mit, hat mitgemacht	mitmachen, macht mit, machte mit, hat mitgemacht		verb	A1	to join in, take part	участвовать
 Manager	der Manager, -		der	B1	manager	менеджер
 Oma	die Oma, -s		die	A1	grandma	бабушка
 Umfrage	die Umfrage, -n		die	B1	survey	опрос
 Operation	die Operation, -en		die	B1	operation, surgery	операция
-Probe	die Probe, -n		die	B1	sample, test, rehearsal	проба. ; репетиция. ; испытание
+Probe	die Probe, -n		die	B1	sample, test, rehearsal	проба; репетиция; испытание
 bedienen, bedient, bediente, hat bedient	bedienen, bedient, bediente, hat bedient		verb	B1	to serve, operate	обслуживать
 Mut	der Mut		der	B1	courage	смелость
 nachhaltig	nachhaltig		adj	B1	lasting, sustainable	устойчивый
@@ -2184,13 +2184,13 @@ zusehen, sieht zu, sah zu, hat zugesehen	zusehen, sieht zu, sah zu, hat zugesehe
 bevorzugen, bevorzugt, bevorzugte, hat bevorzugt	bevorzugen, bevorzugt, bevorzugte, hat bevorzugt		verb	B1	to prefer	предпочитать
 hierzu	hierzu		adv	B1	with it, concerning this	по этому поводу
 Fischer	der Fischer, -		der	B1	fisherman	рыбак
-Ruf	der Ruf, -e		der	B1	reputation, call	репутация. ; репутация. ; репутация
+Ruf	der Ruf, -e		der	B1	reputation, call	репутация
 Überlegung	die Überlegung, -en		die	B1	thought, thinking	размышление
 Begegnung	die Begegnung, -en		die	B1	encounter, meeting	встреча
 Schlag	der Schlag, -̈e		der	B1	blow	удар
 daraufhin	daraufhin		adv	B1	as a result	вследствие
 Handlung	die Handlung, -en		die	B1	action, plot	сюжет
-Marke	die Marke, -n		die	B1	brand, stamp	бренд. ; марка. ; марка
+Marke	die Marke, -n		die	B1	brand, stamp	бренд; марка
 angreifen, greift an, griff an, hat angegriffen	angreifen, greift an, griff an, hat angegriffen		verb	B1	to attack	атаковать
 finanzieren, finanziert, finanzierte, hat finanziert	finanzieren, finanziert, finanzierte, hat finanziert		verb	B1	to finance	финансировать
 freilich	freilich		adv	B1	of course	конечно
@@ -2218,7 +2218,7 @@ Drama	das Drama, -en		das	B1	drama	драма
 Konsum	der Konsum		der	B1	consumption	потребление
 Vorschrift	die Vorschrift, -en		die	B1	instruction, regulation	инструкция
 winzig	winzig		adj	B1	tiny	крошечный
-Flug	der Flug, -̈e		der	A2	flight	рейс. ; полет. ; перелет
+Flug	der Flug, -̈e		der	A2	flight	рейс; полет; перелет
 Holz	das Holz, -̈er		das	B1	wood	дерево
 künstlerisch	künstlerisch		adj	B1	artistic	художественный
 Förderung	die Förderung, -en		die	B1	support, promotion, funding	поддержка
@@ -2299,7 +2299,7 @@ Baby	das Baby, -s		das	A1	baby	младенец
 Sitzung	die Sitzung, -en		die	B1	meeting, session	заседание
 sportlich	sportlich		adj	A2	athletic	спортивный
 Wärme	die Wärme		die	B1	warmth, heat	теплота
-eventuell	eventuell		adj	B1	possible	возможный. ; определенный артикль. ; определенный артикль
+eventuell	eventuell		adj	B1	possible	возможный; определенный артикль
 Gemeinschaft	die Gemeinschaft, -en		die	B1	community	сообщество
 kennenlernen, lernt kennen, lernte kennen, hat kennengelernt	kennenlernen, lernt kennen, lernte kennen, hat kennengelernt		verb	A1	to meet, get to know	знакомиться
 Unternehmer	der Unternehmer, -		der	B1	entrepreneur, employer	предприниматель
@@ -2389,7 +2389,7 @@ Koffer	der Koffer, -		der	A1	suitcase	чемодан
 emotional	emotional		adj	B1	emotional	эмоциональный
 erstellen, erstellt, erstellte, hat erstellt	erstellen, erstellt, erstellte, hat erstellt		verb	B1	to build, draw up, produce	составлять
 fünfzig	fünfzig		num	B1	fifty	пятьдесят
-Kugel	die Kugel, -n		die	B1	ball, sphere, bullet	пуля. ; шар. ; сфера
+Kugel	die Kugel, -n		die	B1	ball, sphere, bullet	пуля; шар; сфера
 Rad	das Rad, -̈er		das	B1	wheel	колесо
 ausbauen, baut aus, baute aus, hat ausgebaut	ausbauen, baut aus, baute aus, hat ausgebaut		verb	B1	to extend, expand, enlarge	расширять
 anzeigen, zeigt an, zeigte an, hat angezeigt	anzeigen, zeigt an, zeigte an, hat angezeigt		verb	B1	to report, sue, indicate, show	показывать
@@ -2400,7 +2400,7 @@ aussteigen, steigt aus, stieg aus, ist ausgestiegen	aussteigen, steigt aus, stie
 Chromosom	das Chromosom, -en		das	B1	chromosome	хромосома
 vergleichbar	vergleichbar		adj	B1	comparable	сравнимый
 anhören, hört an, hörte an, hat angehört	anhören, hört an, hörte an, hat angehört		verb	B1	to listen to	выслушивать
-Tonne	die Tonne, -n		die	B1	ton, barrel, bin	тонна. ; бочка. ; бак
+Tonne	die Tonne, -n		die	B1	ton, barrel, bin	тонна; бочка; бак
 verleihen, verleiht, verlieh, hat verliehen	verleihen, verleiht, verlieh, hat verliehen		verb	B1	to lend, award	одалживать
 Arbeiter	der Arbeiter, -		der	B1	worker	рабочий
 Bord	das Bord, -e		der	B1	board	борт
@@ -2408,7 +2408,7 @@ entspannen, entspannt, entspannte, hat entspannt	entspannen, entspannt, entspann
 kürzlich	kürzlich		adv	B1	recently	недавно
 beurteilen, beurteilt, beurteilte, hat beurteilt	beurteilen, beurteilt, beurteilte, hat beurteilt		verb	B1	to assess, judge	оценивать
 raten, rät, riet, hat geraten	raten, rät, riet, hat geraten		verb	A2	to advise, guess	угадывать
-Schnitt	der Schnitt, -e		der	B1	cut	фасон. ; определенный артикль. ; определенный артикль
+Schnitt	der Schnitt, -e		der	B1	cut	фасон; определенный артикль
 wertvoll	wertvoll		adj	B1	valuable	ценный
 Erzähler	der Erzähler, -		der	B1	storyteller, narrator	рассказчик
 Gold	das Gold		das	B1	gold	золото
@@ -2427,8 +2427,8 @@ hinzufügen, fügt hinzu, fügte hinzu, hat hinzugefügt	hinzufügen, fügt hinz
 indirekt	indirekt		adj	B1	indirect	косвенный
 Zeitraum	der Zeitraum, -̈e		der	B1	period of time	период
 aufkommen, kommt auf, kam auf, ist aufgekommen	aufkommen, kommt auf, kam auf, ist aufgekommen		verb	B1	to come up, arise, pay for	возникать
-Plus	das Plus, -		das, adv, conj	B1	plus; plus; plus	преимущество. ; плюс. ; плюс
-Schwingung	die Schwingung, -en		die	B1	vibration	вибрация. ; колебание. ; осцилляция
+Plus	das Plus, -		das, adv, conj	B1	plus; plus; plus	преимущество; плюс
+Schwingung	die Schwingung, -en		die	B1	vibration	вибрация; колебание; осцилляция
 Vektor	der Vektor, -en		der	B1	vector	вектор
 Sauerstoff	der Sauerstoff		der	B1	oxygen	кислород
 Äußerung	die Äußerung, -en		die	B1	comment	высказывание
@@ -2441,9 +2441,9 @@ einheimisch	einheimisch		adj	B1	native	местный
 Winkel	der Winkel, -		der	B1	angle, corner	угол
 sauer	sauer		adj	A2	sour, angry	сердитый
 vermissen, vermisst, vermisste, hat vermisst	vermissen, vermisst, vermisste, hat vermisst		verb	B1	to miss	скучать
-Geschlecht	das Geschlecht, -er		das	B1	sex, gender	пол. ; род. ; поколение
+Geschlecht	das Geschlecht, -er		das	B1	sex, gender	пол; род; поколение
 attraktiv	attraktiv		adj	B1	attractive	привлекательный
-Aussicht	die Aussicht, -en		die	B1	prospect, view	вид. ; перспектива. ; шанс
+Aussicht	die Aussicht, -en		die	B1	prospect, view	вид; перспектива; шанс
 Betriebswirtschaftslehre	die Betriebswirtschaftslehre		die	B1	business administration	экономика предприятия
 Held	der Held, -en		der	B1	hero	герой
 sechzig	sechzig		num	B1	sixty	шестьдесят
@@ -2503,12 +2503,12 @@ vergeben	vergeben		verb	B2+	to award, allocate, give away	присуждать
 Weber	der Weber, -		der	B2+	weaver	ткач
 effektiv	effektiv		adj	B2+	effective	эффективный
 Eingang	der Eingang, -̈e		der	A1	entrance	вход
-Erbe	das Erbe		das, der	B2+	heritage; heir	наследие. ; наследник
+Erbe	das Erbe		das, der	B2+	heritage; heir	наследие; наследник
 islamisch	islamisch		adj	B2+	Islamic	исламский
 zustimmen, stimmt zu, stimmte zu, hat zugestimmt	zustimmen, stimmt zu, stimmte zu, hat zugestimmt		verb	B1	to agree, consent	соглашаться
 radikal	radikal		adj	B2+	radical	радикальный
 Ausbau	der Ausbau, -ten		der	B2+	expansion, consolidation	расширение
-Kanal	der Kanal, -̈e		der	B1	canal, channel	канал. ; канал. ; канал
+Kanal	der Kanal, -̈e		der	B1	canal, channel	канал
 registrieren, registriert, registrierte, hat registriert	registrieren, registriert, registrierte, hat registriert		verb	B2+	to register	регистрировать
 verhandeln, verhandelt, verhandelte, hat verhandelt	verhandeln, verhandelt, verhandelte, hat verhandelt		verb	B2+	to negotiate	вести переговоры
 Wandel	der Wandel, -		der	B2+	change	изменение
@@ -2547,7 +2547,7 @@ wozu	wozu		pron	B2+	what for, to what	зачем
 schlicht	schlicht		adj	B2+	simple, plain	простой
 angemessen	angemessen		adj	B2+	appropriate	уместный
 Arbeitsmarkt	der Arbeitsmarkt, -̈e		der	B2+	labor market	рынок труда
-Pass	der Pass, -̈e		der	A1	pass, passport	паспорт. ; перевал. ; пропуск
+Pass	der Pass, -̈e		der	A1	pass, passport	паспорт; перевал; пропуск
 Bedarf	der Bedarf, -e		der	B1	need, demand	потребность
 ernsthaft	ernsthaft		adj	B2+	serious	серьезный
 werben, wirbt, warb, hat geworben	werben, wirbt, warb, hat geworben		verb	B2+	to advertise	рекламировать
@@ -2555,7 +2555,7 @@ errichten, errichtet, errichtete, hat errichtet	errichten, errichtet, errichtete
 Kredit	der Kredit, -e		der	A2	loan, credit	кредит
 Wohnzimmer	das Wohnzimmer, -		das	A2	living room	гостиная
 Kompetenz	die Kompetenz, -en		die	B2+	competence, authority	компетентность
-Leitung	die Leitung, -en		die	B1	management, leadership	руководство. ; определенный артикль. ; определенный артикль
+Leitung	die Leitung, -en		die	B1	management, leadership	руководство; определенный артикль
 strahlen, strahlt, strahlte, hat gestrahlt	strahlen, strahlt, strahlte, hat gestrahlt		verb	B2+	to shine	сиять
 Zucker	der Zucker, -		der	A2	sugar	сахар
 Austausch	der Austausch, -e		der	B2+	exchange	обмен
@@ -2564,7 +2564,7 @@ Station	die Station, -en		die	B1	station, stop, stopover	остановка
 Kaiser	der Kaiser, -		der	B2+	emperor	император
 sperren, sperrt, sperrte, hat gesperrt	sperren, sperrt, sperrte, hat gesperrt		verb	B2+	to cut off, block, close	перекрывать
 Sportler	der Sportler, -		der	B1	athlete	спортсмен
-Differenz	die Differenz, -en		die	B2+	difference	разница. ; разность. ; различие
+Differenz	die Differenz, -en		die	B2+	difference	разница; разность; различие
 Fakt	der Fakt, -en		der	B2+	fact	факт
 Herstellung	die Herstellung, -en		die	B2+	production	производство
 Individuum	das Individuum, -en		das	B2+	individual	индивид
@@ -2583,14 +2583,14 @@ auszeichnen, zeichnet aus, zeichnete aus, hat ausgezeichnet	auszeichnen, zeichne
 Bar	Bar		die	A1	bar	бар
 Betrachtung	die Betrachtung, -en		die	B2+	contemplation, examination	рассмотрение
 Kommission	die Kommission, -en		die	B2+	commission, committee	комиссия
-Star	der Star, -e		der	A2	star, starling	звезда. ; скворец
+Star	der Star, -e		der	A2	star, starling	звезда; скворец
 wütend	wütend		adj	B1	furious	яростный
 christlich	christlich		adj	B2+	Christian	христианский
-Hamburger	der Hamburger, -		adj, der	A2	Hamburg; hamburger	гамбургский. ; гамбургер
+Hamburger	der Hamburger, -		adj, der	A2	Hamburg; hamburger	гамбургский; гамбургер
 Leiche	die Leiche, -n		die	B2+	corpse	труп
 nochmals	nochmals		adv	B1	again	ещё
 wehren, wehrt, wehrte, hat gewehrt	wehren (sich), wehrt, wehrte, hat gewehrt		verb	B2+	to defend oneself	защищаться
-Abbau	der Abbau, -e		der	B2+	reduction, decline, mining	добыча. ; снижение. ; демонтаж
+Abbau	der Abbau, -e		der	B2+	reduction, decline, mining	добыча; снижение; демонтаж
 Staatsanwaltschaft	die Staatsanwaltschaft, -en		die	B2+	prosecution	прокуратура
 Freizeit	die Freizeit, -en		die	A1	spare time	досуг
 Geschenk	das Geschenk, -e		das	A1	gift, present	подарок
@@ -2642,12 +2642,12 @@ Tour	die Tour, -en		die	A2	tour, trip	тур
 Überblick	der Überblick, -e		der	B2+	view, overview	обзор
 Geschäftsführer	der Geschäftsführer, -		der	B2+	manager	директор
 Griff	der Griff, -e		der	B2+	handle, grip, grasp	рукоятка
-küssen, küsst, küsste, hat geküsst	küssen, küsst, küsste, hat geküsst		verb	B1	to kiss	целовать. ; нет значения. ; нет значения
+küssen, küsst, küsste, hat geküsst	küssen, küsst, küsste, hat geküsst		verb	B1	to kiss	целовать; нет значения
 Liter	der Liter, -		der	B2+	liter	литр
 Subjekt	das Subjekt, -e		das	B2+	subject	подлежащее
 Außenminister	der Außenminister, -		der	B2+	foreign minister	министр иностранных дел
 Faser	die Faser, -n		die	B2+	fiber	волокно
-Schatz	der Schatz, -̈e		der	B2+	treasure, sweetheart	сокровище. ; дорогуша. ; дорогуша
+Schatz	der Schatz, -̈e		der	B2+	treasure, sweetheart	сокровище; дорогуша
 sekundär	sekundär		adj	B2+	secondary	второстепенный
 Zentralbank	die Zentralbank, -en		die	B2+	central bank	центробанк
 Alte	die Alte		der, die, das	B2+	old person/thing	старик
@@ -2672,7 +2672,7 @@ Atem	der Atem		der	B2+	breath	дыхание
 Distanz	die Distanz, -en		die	B1	distance	дистанция
 Händler	der Händler, -		der	B1	trader, dealer, retailer	торговец
 hassen, hasst, hasste, hat gehasst	hassen, hasst, hasste, hat gehasst		verb	B1	to hate	ненавидеть
-Muster	das Muster, -		das	B2+	pattern, model	узор. ; образец. ; модель
+Muster	das Muster, -		das	B2+	pattern, model	узор; образец; модель
 ausführlich	ausführlich		adj	B2+	detailed	подробный
 bedenken, bedenkt, bedachte, hat bedacht	bedenken, bedenkt, bedachte, hat bedacht		verb	B2+	to consider	учитывать
 Terror	der Terror		der	B2+	terror	террор
@@ -2696,7 +2696,7 @@ Brasilien	Brasilien		das	B2+	Brazil	Бразилия
 ergreifen, ergreift, ergriff, hat ergriffen	ergreifen, ergreift, ergriff, hat ergriffen		verb	B2+	to take, seize, grip, capture	использовать
 Grundgesetz	das Grundgesetz, -e		das	B2+	basic law	конституция
 Herkunft	die Herkunft, -̈e		die	B1	origin	происхождение
-hinausgehen, geht hinaus, ging hinaus, ist hinausgegangen	hinausgehen, geht hinaus, ging hinaus, ist hinausgegangen		verb	B2+	to go out, exceed	превышать. ; выходить. ; выходить
+hinausgehen, geht hinaus, ging hinaus, ist hinausgegangen	hinausgehen, geht hinaus, ging hinaus, ist hinausgegangen		verb	B2+	to go out, exceed	превышать; выходить
 Katastrophe	die Katastrophe, -n		die	B1	catastrophe	катастрофа
 lehnen, lehnt, lehnte, hat gelehnt	lehnen, lehnt, lehnte, hat gelehnt		verb	B2+	to lean	прислоняться
 beraten, berät, beriet, hat beraten	beraten, berät, beriet, hat beraten		verb	A2	to advise, discuss	консультировать
@@ -2721,7 +2721,7 @@ Strahlung	die Strahlung, -en		die	B2+	radiation	излучение
 Virus	das Virus, -en		das	B1	virus	вирус
 Kontinent	der Kontinent, -e		der	B2+	continent	континент
 Milligramm	das Milligramm, -		das	B2+	milligram	миллиграмм
-schwedisch	schwedisch		adj, das	B2+	Swedish; Swedish	шведский. ; шведский
+schwedisch	schwedisch		adj, das	B2+	Swedish; Swedish	шведский
 sexuell	sexuell		adj	B2+	sexual	сексуальный
 hierher	hierher		adv	B1	here	сюда
 ironisch	ironisch		adj	B2+	ironic	ироничный
@@ -2741,7 +2741,7 @@ Adresse	die Adresse, -n		die	A1	address	адрес
 Akzent	der Akzent, -e		der	B2+	accent	акцент
 verlängern, verlängert, verlängerte, hat verlängert	verlängern, verlängert, verlängerte, hat verlängert		verb	B1	to lengthen, extend	продлевать
 Nahrung	die Nahrung, -en		die	B2+	nourishment, food	пища
-niederländisch	niederländisch		adj, das	B2+	Dutch; Dutch	нидерландский. ; нидерландский
+niederländisch	niederländisch		adj, das	B2+	Dutch; Dutch	нидерландский
 Planet	der Planet, -en		der	B2+	planet	планета
 Stress	der Stress, -e		der	A2	stress	стресс
 vermeintlich	vermeintlich		adj	B2+	supposed	мнимый
@@ -2761,7 +2761,7 @@ magnetisch	magnetisch		adj	B2+	magnetic	магнитный
 versehen, versieht, versah, hat versehen	versehen, versieht, versah, hat versehen		verb	B2+	to perform, provide	снабжать
 Beteiligung	die Beteiligung, -en		die	B2+	participation	участие
 Frühjahr	das Frühjahr, -e		das	B2+	spring	весна
-Hut	der Hut, -̈e		der, die	B1	hat; guard, alert	шляпа. ; настороженность
+Hut	der Hut, -̈e		der, die	B1	hat; guard, alert	шляпа; настороженность
 Medium	das Medium, -en		das	B2+	medium	средство массовой информации
 Verpflichtung	die Verpflichtung, -en		die	B2+	commitment, obligation	обязательство
 Abteilung	die Abteilung, -en		die	B1	department	отдел
@@ -2809,14 +2809,14 @@ Infrastruktur	die Infrastruktur, -en		die	B2+	infrastructure	инфрастру�
 Konkurrent	der Konkurrent, -en		der	B2+	competitor	конкурент
 Party	die Party, -s		die	A1	party	вечеринка
 Wellenlänge	die Wellenlänge, -n		die	B2+	wavelength	длина волны
-Anhänger	der Anhänger, -		der	B2+	pendant, supporter, trailer	кулон. ; сторонник. ; прицеп
+Anhänger	der Anhänger, -		der	B2+	pendant, supporter, trailer	кулон; сторонник; прицеп
 betrieblich	betrieblich		adj	B2+	operational	производственный
 Finanzierung	die Finanzierung, -en		die	B2+	financing	финансирование
 Inflation	die Inflation, -en		die	B2+	inflation	инфляция
 murmeln, murmelt, murmelte, hat gemurmelt	murmeln, murmelt, murmelte, hat gemurmelt		verb	B2+	to mumble, mutter	бормотать
 Plattform	die Plattform, -en		die	B2+	platform	платформа
 dominieren, dominiert, dominierte, hat dominiert	dominieren, dominiert, dominierte, hat dominiert		verb	B2+	to dominate	доминировать
-einräumen, räumt ein, räumte ein, hat eingeräumt	einräumen, räumt ein, räumte ein, hat eingeräumt		verb	B2+	to put away, admit, concede	укладывать. ; признавать. ; предоставлять
+einräumen, räumt ein, räumte ein, hat eingeräumt	einräumen, räumt ein, räumte ein, hat eingeräumt		verb	B2+	to put away, admit, concede	укладывать; признавать; предоставлять
 herausstellen, stellt heraus, stellte heraus, hat herausgestellt	herausstellen (sich), stellt heraus, stellte heraus, hat herausgestellt		verb	B2+	to emphasize, turn out	выясняться
 Kleidung	die Kleidung, -en		die	A1	clothes	одежда
 vereinen, vereint, vereinte, hat vereint	vereinen, vereint, vereinte, hat vereint		verb	B2+	to unite	объединять
@@ -2838,7 +2838,7 @@ Tibet	Tibet		das	B2+	Tibet	Тибет
 Webseite	die Webseite, -n		die	A2	website	вебсайт
 widersprechen, widerspricht, widersprach, hat widersprochen	widersprechen, widerspricht, widersprach, hat widersprochen		verb	B1	to contradict	возражать
 Besitzer	der Besitzer, -		der	B2+	owner	владелец
-japanisch	japanisch		adj, das	B2+	Japanese; Japanese	японский. ; японский
+japanisch	japanisch		adj, das	B2+	Japanese; Japanese	японский
 ärgern, ärgert, ärgerte, hat geärgert	ärgern, ärgert, ärgerte, hat geärgert		verb	A2	to annoy	раздражать
 Persönlichkeit	die Persönlichkeit, -en		die	B2+	personality, celebrity	личность
 Truppe	die Truppe, -n		die	B2+	troops, unit	компания
@@ -2854,13 +2854,13 @@ Kasse	die Kasse, -n		die	A1	cash register, checkout	касса
 Schulden	Schulden		die (pl)	B1	debt	долг
 Hinblick	der Hinblick		der	B2+	view	отношение
 Last	die Last, -en		die	B2+	load, burden	бремя
-Zuhause	das Zuhause		das, adv	B1	home; at home	дом. ; дома
+Zuhause	das Zuhause		das, adv	B1	home; at home	дом; дома
 einheitlich	einheitlich		adj	B1	uniform, standardized	единый
 fünfzehn	fünfzehn		num	B2+	fifteen	пятнадцать
 überschreiten, überschreitet, überschritt, hat überschritten	überschreiten, überschreitet, überschritt, hat überschritten		verb	B2+	to exceed	превышать
 Version	die Version, -en		die	B2+	version	версия
 Zunge	die Zunge, -n		die	B2+	tongue	язык
-dänisch	dänisch		adj, das	B2+	Danish; Danish	датский. ; датский
+dänisch	dänisch		adj, das	B2+	Danish; Danish	датский
 Einladung	die Einladung, -en		die	A1	invitation	приглашение
 Vielzahl	die Vielzahl		die	B2+	multitude	множество
 Arbeitgeber	der Arbeitgeber, -		der	B2+	employer	работодатель
@@ -2907,7 +2907,7 @@ Buchstabe	der Buchstabe, -n		der	A1	letter	буква
 verdanken, verdankt, verdankte, hat verdankt	verdanken, verdankt, verdankte, hat verdankt		verb	B2+	to owe, have sb to thank for sth	быть обязанным
 vierzig	vierzig		num	B2+	forty	сорок
 Vordergrund	der Vordergrund, -̈e		der	B2+	foreground	передний план
-Reiz	der Reiz, -e		der	B2+	stimulus, appeal	раздражитель. ; очарование. ; привлекательность
+Reiz	der Reiz, -e		der	B2+	stimulus, appeal	раздражитель; очарование; привлекательность
 verständlich	verständlich		adj	B1	comprehensible	понятный
 Wahlkampf	der Wahlkampf, -̈e		der	B2+	election campaign	избирательная кампания
 flüssig	flüssig		adj	B2+	liquid	жидкий
@@ -2917,7 +2917,7 @@ entnehmen, entnimmt, entnahm, hat entnommen	entnehmen, entnimmt, entnahm, hat en
 räumen, räumt, räumte, hat geräumt	räumen, räumt, räumte, hat geräumt		verb	B2+	to clear	освобождать
 konsequent	konsequent		adj	B2+	consistent	последовательный
 bekämpfen, bekämpft, bekämpfte, hat bekämpft	bekämpfen, bekämpft, bekämpfte, hat bekämpft		verb	B2+	to fight, combat	бороться
-Gehalt	der Gehalt, -e		das, der	A2	salary; meaning, contents	зарплата. ; содержание
+Gehalt	der Gehalt, -e		das, der	A2	salary; meaning, contents	зарплата; содержание
 indes	indes		adv	B2+	meanwhile	тем временем
 Motto	das Motto, -s		das	B2+	motto	девиз
 Philosophie	die Philosophie, -n		die	B2+	philosophy	философия
@@ -2956,7 +2956,7 @@ Achtung	die Achtung		die	A1	respect	уважение
 ausgleichen, gleicht aus, glich aus, hat ausgeglichen	ausgleichen, gleicht aus, glich aus, hat ausgeglichen		verb	B2+	to even out, reconcile	выравнивать
 Pilot	der Pilot, -en		der	B2+	pilot	пилот
 Vereinbarung	die Vereinbarung, -en		die	B2+	agreement	соглашение
-aufbrechen, bricht auf, brach auf, hat aufgebrochen	aufbrechen, bricht auf, brach auf, hat aufgebrochen		verb	B2+	to leave, take off, break open	отправляться. ; взламывать. ; раскалываться
+aufbrechen, bricht auf, brach auf, hat aufgebrochen	aufbrechen, bricht auf, brach auf, hat aufgebrochen		verb	B2+	to leave, take off, break open	отправляться; взламывать; раскалываться
 Labor	das Labor, -e		das	B2+	laboratory	лаборатория
 voraussetzen, setzt voraus, setzte voraus, hat vorausgesetzt	voraussetzen, setzt voraus, setzte voraus, hat vorausgesetzt		verb	B2+	to presuppose, take for granted	предполагать
 divers	divers		adj	B2+	diverse, various	различный
@@ -2992,14 +2992,14 @@ abwarten, wartet ab, wartete ab, hat abgewartet	abwarten, wartet ab, wartete ab,
 bitter	bitter		adj	A1	bitter	горький
 permanent	permanent		adj	B2+	permanent	постоянный
 Abkommen	das Abkommen, -		das	B2+	agreement	соглашение
-Abstimmung	die Abstimmung, -en		die	B2+	vote, coordination	голосование. ; согласование. ; координация
+Abstimmung	die Abstimmung, -en		die	B2+	vote, coordination	голосование; согласование; координация
 Geschmack	der Geschmack, -̈e		der	B1	taste	вкус
-nachfolgen, folgt nach, folgte nach, ist nachgefolgt	nachfolgen, folgt nach, folgte nach, ist nachgefolgt		verb, adj	B2+	to follow, succeed; following, subsequently	сменять. ; следующий
+nachfolgen, folgt nach, folgte nach, ist nachgefolgt	nachfolgen, folgt nach, folgte nach, ist nachgefolgt		verb, adj	B2+	to follow, succeed; following, subsequently	сменять; следующий
 neigen, neigt, neigte, hat geneigt	neigen, neigt, neigte, hat geneigt		verb	B2+	to bend, lean	наклоняться
 Rente	die Rente, -n		die	B1	pension, retirement	пенсия
 Taxi	das Taxi, -s		das	A1	taxi	такси
 vorhin	vorhin		adv	B1	a short time ago	недавно
-Zusammenfassung	die Zusammenfassung, -en		die	B2+	summary	резюме. ; резюме. ; резюме
+Zusammenfassung	die Zusammenfassung, -en		die	B2+	summary	резюме
 Disziplin	die Disziplin, -en		die	B2+	discipline	дисциплина
 Aufstieg	der Aufstieg, -e		der	B2+	climb, rise	подъем
 keinerlei	keinerlei		pron	B2+	no . . . at all	никакой
@@ -3009,10 +3009,10 @@ Semester	das Semester, -		das	B1	semester	семестр
 Gastgeber	der Gastgeber, -		der	B2+	host	хозяин
 hinein	hinein		adv	B2+	in, into	внутрь
 kinetisch	kinetisch		adj	B2+	kinetic	кинетический
-Skript	das Skript, -e		das	B2+	script, lecture notes	сценарий. ; конспект. ; скрипт
+Skript	das Skript, -e		das	B2+	script, lecture notes	сценарий; конспект; скрипт
 vertreiben, vertreibt, vertrieb, hat vertrieben	vertreiben, vertreibt, vertrieb, hat vertrieben		verb	B2+	to drive out, sell	пропагандировать
 zugänglich	zugänglich		adj	B1	accessible	доступный
-zurzeit	zurzeit		adv	A1	at the moment	сейчас. ; в настоящее время. ; в данное время
+zurzeit	zurzeit		adv	A1	at the moment	сейчас; в настоящее время; в данное время
 versterben, verstirbt, verstarb, ist verstorben	versterben, verstirbt, verstarb, ist verstorben		verb	B2+	to pass away	умирать
 zurückhalten, hält zurück, hielt zurück, hat zurückgehalten	zurückhalten, hält zurück, hielt zurück, hat zurückgehalten		verb	B2+	to hold back, restrain	сдерживать
 Abweichung	die Abweichung, -en		die	B2+	difference, deviation, tolerance	отклонение
@@ -3041,7 +3041,7 @@ mündlich	mündlich		adj	B1	oral	устный
 neugierig	neugierig		adj	B1	curious	любопытный
 jagen, jagt, jagte, hat gejagt	jagen, jagt, jagte, hat gejagt		verb	B2+	to hunt	охотиться
 Schwäche	die Schwäche, -n		die	B2+	weakness	слабость
-Minus	das Minus, -se		das	B2+	minus, deficit	минус. ; минус. ; минус
+Minus	das Minus, -se		das	B2+	minus, deficit	минус
 Eisen	das Eisen, -		das	B2+	iron	железо
 Iran	Iran		der	B2+	Iran	Иран
 Besonderheit	die Besonderheit, -en		die	B2+	idiosyncracy, (special) feature, unique characteristic	особенность
@@ -3057,28 +3057,28 @@ virtuell	virtuell		adj	B1	virtual	виртуальный
 Vorname	der Vorname, -n		der	A1	first name	имя
 Zeitschrift	die Zeitschrift, -en		die	A2	magazine, journal	журнал
 absetzen, setzt ab, setzte ab, hat abgesetzt	absetzen, setzt ab, setzte ab, hat abgesetzt		verb	B2+	to drop off, dismiss	высаживать
-anführen, führt an, führte an, hat angeführt	anführen, führt an, führte an, hat angeführt		verb	B2+	to lead, command, quote	возглавлять. ; возглавлять. ; возглавлять
+anführen, führt an, führte an, hat angeführt	anführen, führt an, führte an, hat angeführt		verb	B2+	to lead, command, quote	возглавлять
 bestreiten, bestreitet, bestritt, hat bestritten	bestreiten, bestreitet, bestritt, hat bestritten		verb	B2+	to dispute	оспаривать
 These	die These, -n		die	B2+	thesis	тезис
 begehen, begeht, beging, hat begangen	begehen, begeht, beging, hat begangen		verb	B2+	to commit, make, celebrate	совершать
 Besitz	der Besitz, -e		der	B2+	property, possession	имущество
 etliche	etliche		pron	B2+	quite a few	несколько
 Gläubiger	der Gläubiger, -		der	B2+	creditor, believer	кредитор
-mitunter	mitunter		adv	B2+	from time to time	иногда. ; нет значения. ; нет значения
+mitunter	mitunter		adv	B2+	from time to time	иногда; нет значения
 rutschen, rutscht, rutschte, ist gerutscht	rutschen, rutscht, rutschte, ist gerutscht		verb	B2+	to slide	скользить
 unzählig	unzählig		adj	B2+	countless	несметный
 Zeug	das Zeug, -e		das	B1	stuff	вещь
 Anfrage	die Anfrage, -n		die	B2+	inquiry, request	запрос
 auswirken, wirkt aus, wirkte aus, hat ausgewirkt	auswirken (sich), wirkt aus, wirkte aus, hat ausgewirkt		verb	B2+	to have an effect	сказываться
 effizient	effizient		adj	B2+	efficient	эффективный
-erarbeiten, erarbeitet, erarbeitete, hat erarbeitet	erarbeiten, erarbeitet, erarbeitete, hat erarbeitet		verb	B2+	to work for/out	разрабатывать. ; разрабатывать. ; разрабатывать
+erarbeiten, erarbeitet, erarbeitete, hat erarbeitet	erarbeiten, erarbeitet, erarbeitete, hat erarbeitet		verb	B2+	to work for/out	разрабатывать
 Platte	die Platte, -n		die	B2+	disk, record, plate	блюдо
 siehe	siehe		adv	B2+	see	см.
 verheiratet	verheiratet		adj	A1	married	женатый
-vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen	vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen		verb, adj	B2+	to pass by; temporary	проходить. ; временный
+vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen	vorübergehen, geht vorüber, ging vorüber, ist vorübergegangen		verb, adj	B2+	to pass by; temporary	проходить; временный
 angucken, guckt an, guckte an, hat angeguckt	angucken, guckt an, guckte an, hat angeguckt (ankucken)		verb	B2+	to look	смотреть
 diskret	diskret		adj	B2+	discreet, confidential	конфиденциальный
-erstaunen, erstaunt, erstaunte, ist erstaunt	erstaunen, erstaunt, erstaunte, ist erstaunt		verb	B2+	to astonish	удивлять. ; удивлять. ; удивлять
+erstaunen, erstaunt, erstaunte, ist erstaunt	erstaunen, erstaunt, erstaunte, ist erstaunt		verb	B2+	to astonish	удивлять
 Gymnasium	das Gymnasium, -en		das	B2+	secondary school	гимназия
 isolieren, isoliert, isolierte, hat isoliert	isolieren, isoliert, isolierte, hat isoliert		verb	B2+	to isolate, insulate	изолировать
 Mörder	der Mörder, -		der	B2+	murderer	убийца
@@ -3196,11 +3196,11 @@ Einschränkung	die Einschränkung, -en		die	B2+	restriction	ограничени
 erteilen, erteilt, erteilte, hat erteilt	erteilen, erteilt, erteilte, hat erteilt		verb	B2+	to give	давать
 hervorgehen, geht hervor, ging hervor, ist hervorgegangen	hervorgehen, geht hervor, ging hervor, ist hervorgegangen		verb	B2+	to come from, follow	следовать
 ignorieren, ignoriert, ignorierte, hat ignoriert	ignorieren, ignoriert, ignorierte, hat ignoriert		verb	B2+	to ignore	игнорировать
-Stamm	der Stamm, -̈e		der	B2+	trunk, stem, tribe	ствол. ; племя. ; основа
+Stamm	der Stamm, -̈e		der	B2+	trunk, stem, tribe	ствол; племя; основа
 pressen, presst, presste, hat gepresst	pressen, presst, presste, hat gepresst		verb	B2+	to press	прессовать
 radioaktiv	radioaktiv		adj	B2+	radioactive	радиоактивный
 unsicher	unsicher		adj	B2+	uncertain	неуверенный
-wiedersehen, sieht wieder, sah wieder, hat wiedergesehen	wiedersehen, sieht wieder, sah wieder, hat wiedergesehen		verb, das	A1	to see again; reunion	видеться. ; встреча
+wiedersehen, sieht wieder, sah wieder, hat wiedergesehen	wiedersehen, sieht wieder, sah wieder, hat wiedergesehen		verb, das	A1	to see again; reunion	видеться; встреча
 Datum	das Datum, -en		das	A1	date	дата
 Kellner	der Kellner, -		der	B1	waiter, waitress	официант
 Kiste	die Kiste, -n		die	B1	box, crate	ящик
@@ -3208,7 +3208,7 @@ unterbringen, bringt unter, brachte unter, hat untergebracht	unterbringen, bring
 vermögen, vermag, vermochte, hat vermocht	vermögen, vermag, vermochte, hat vermocht		verb	B2+	to be capable	мочь
 fröhlich	fröhlich		adj	B1	cheerful	веселый
 Grab	das Grab, -̈er		das	B2+	grave	могила
-motivieren, motiviert, motivierte, hat motiviert	motivieren, motiviert, motivierte, hat motiviert		verb	B2+	to motivate	мотивировать. ; мотивировать. ; мотивировать
+motivieren, motiviert, motivierte, hat motiviert	motivieren, motiviert, motivierte, hat motiviert		verb	B2+	to motivate	мотивировать
 quantitativ	quantitativ		adj	B2+	quantitative	количественный
 spalten, spaltet, spaltete, hat gespalten	spalten, spaltet, spaltete, hat gespalten		verb	B2+	to split	раскалываться
 Vorhaben	das Vorhaben, -		das	B1	plan, project	замысел
@@ -3235,7 +3235,7 @@ abschneiden, schneidet ab, schnitt ab, hat abgeschnitten	abschneiden, schneidet 
 anscheinend	anscheinend		adj	B2+	apparent	по-видимому
 Demonstration	die Demonstration, -en		die	B2+	demonstration	демонстрация
 Linse	die Linse, -n		die	B2+	lens, lentil	линза
-polnisch	polnisch		adj, das	B2+	Polish; Polish	польский. ; польский
+polnisch	polnisch		adj, das	B2+	Polish; Polish	польский
 Posten	der Posten, -		der	B2+	post, position	должность
 zuschauen, schaut zu, schaute zu, hat zugeschaut	zuschauen, schaut zu, schaute zu, hat zugeschaut		verb	B1	to watch	наблюдать
 abhalten, hält ab, hielt ab, hat abgehalten	abhalten, hält ab, hielt ab, hat abgehalten		verb	B2+	to keep from	удерживать
@@ -3252,14 +3252,14 @@ Faust	die Faust, -̈e		die	B2+	fist	кулак
 flüchten, flüchtet, flüchtete, ist geflüchtet	flüchten, flüchtet, flüchtete, ist geflüchtet		verb	B2+	to flee	бежать
 lagern, lagert, lagerte, hat gelagert	lagern, lagert, lagerte, hat gelagert		verb	B2+	to store, camp	хранить
 übertreiben, übertreibt, übertrieb, hat übertrieben	übertreiben, übertreibt, übertrieb, hat übertrieben		verb	B1	to exaggerate	преувеличивать
-Veröffentlichung	die Veröffentlichung, -en		die	B2+	publication	публикация. ; пусто. ; пусто
+Veröffentlichung	die Veröffentlichung, -en		die	B2+	publication	публикация; пусто
 Bescheid	der Bescheid, -e		der	A2	information, reply	ответ
 versagen, versagt, versagte, hat versagt	versagen, versagt, versagte, hat versagt		verb	B2+	to fail	провалиться
 Innenminister	der Innenminister, -		der	B2+	Minister of the Interior	министр внутренних дел
 klinisch	klinisch		adj	B2+	clinical	клинический
 wiegen, wiegt, wog, hat gewogen	wiegen, wiegt, wog, hat gewogen		verb	B1	to weigh	весить
 Eingriff	der Eingriff, -e		der	B2+	intervention, interference	вмешательство
-indisch	indisch		adj, das	B2+	Indian; Indian	индийский. ; хинди
+indisch	indisch		adj, das	B2+	Indian; Indian	индийский; хинди
 Psychologie	die Psychologie, -n		die	B2+	psychology	психология
 Digitalisierung	die Digitalisierung, -en		die	B2+	digitalization	цифровизация
 Einsicht	die Einsicht, -en		die	B2+	view, insight	ознакомление
@@ -3289,7 +3289,7 @@ Jacke	die Jacke, -n		die	A1	jacket	куртка
 Präferenz	die Präferenz, -en		die	B2+	preference	предпочтение
 übereinstimmen, stimmt überein, stimmte überein, hat übereingestimmt	übereinstimmen, stimmt überein, stimmte überein, hat übereingestimmt		verb	B2+	to accord, correspond, agree	соответствовать
 Unterscheidung	die Unterscheidung, -en		die	B2+	differentiation, distinction	различие
-Dichtung	die Dichtung, -en		die	B2+	seal, literature, poetry	уплотнение. ; литература. ; поэзия
+Dichtung	die Dichtung, -en		die	B2+	seal, literature, poetry	уплотнение; литература; поэзия
 einhalten, hält ein, hielt ein, hat eingehalten	einhalten, hält ein, hielt ein, hat eingehalten		verb	B2+	to observe	соблюдать
 Sachverhalt	der Sachverhalt, -e		der	B2+	facts	обстоятельство
 sorgfältig	sorgfältig		adj	B2+	careful	тщательный
@@ -3305,7 +3305,7 @@ Gerechtigkeit	die Gerechtigkeit, -en		die	B2+	justice	справедливост
 abstellen, stellt ab, stellte ab, hat abgestellt	abstellen, stellt ab, stellte ab, hat abgestellt		verb	B2+	to turn off, shut down, park, put	ставить
 Droge	die Droge, -n		die	B1	drug	наркотик
 fett	fett		adj	A2	fat, greasy, rich	толстый
-verbrauchen, verbraucht, verbrauchte, hat verbraucht	verbrauchen, verbraucht, verbrauchte, hat verbraucht		verb	B1	to use, consume	потреблять. ; потреблять. ; потреблять
+verbrauchen, verbraucht, verbrauchte, hat verbraucht	verbrauchen, verbraucht, verbrauchte, hat verbraucht		verb	B1	to use, consume	потреблять
 ausweisen, weist aus, wies aus, hat ausgewiesen	ausweisen, weist aus, wies aus, hat ausgewiesen		verb	B2+	to identify, expel	выдворять
 biegen, biegt, bog, hat gebogen	biegen, biegt, bog, hat gebogen		verb	B2+	to bend, turn	поворачивать
 Notwendigkeit	die Notwendigkeit, -en		die	B2+	necessity	необходимость
@@ -3381,7 +3381,7 @@ Herrschaft	die Herrschaft, -en		die	B2+	power, reign	власть
 infolge	infolge		prep	B2+	as a result of	вследствие
 nützlich	nützlich		adj	A2	useful	полезный
 oberhalb	oberhalb		prep	B2+	above	над
-Schein	der Schein, -e		der	B1	light, appearance, certificate	свет. ; вид. ; свидетельство
+Schein	der Schein, -e		der	B1	light, appearance, certificate	свет; вид; свидетельство
 übersehen, übersieht, übersah, hat übersehen	übersehen, übersieht, übersah, hat übersehen		verb	B2+	to overlook	просматривать
 Bedrohung	die Bedrohung, -en		die	B2+	threat	угроза
 Bereitschaft	die Bereitschaft, -en		die	B2+	willingness	готовность
@@ -3407,7 +3407,7 @@ zustehen, steht zu, stand zu, hat zugestanden	zustehen, steht zu, stand zu, hat 
 auffällig	auffällig		adj	B2+	conspicuous	броский
 ausbrechen, bricht aus, brach aus, hat ausgebrochen	ausbrechen, bricht aus, brach aus, hat ausgebrochen		verb	B2+	to break out, erupt	сбегать
 CD	die CD, -s		die	A1	CD	компакт-диск
-Durchführung	die Durchführung, -en		die	B2+	carrying out	проведение. ; определенный артикль. ; определенный артикль
+Durchführung	die Durchführung, -en		die	B2+	carrying out	проведение; определенный артикль
 Humor	der Humor, -e		der	B1	humor	юмор
 psychologisch	psychologisch		adj	B2+	psychological	психологический
 treu	treu		adj	B1	faithful	верный
@@ -3431,8 +3431,8 @@ Landesregierung	die Landesregierung, -en		die	B2+	state government	правит�
 aggressiv	aggressiv		adj	B2+	aggressive	агрессивный
 definitiv	definitiv		adj	B2+	definite, definitive	окончательный
 locken, lockt, lockte, hat gelockt	locken, lockt, lockte, hat gelockt		verb	B2+	to lure, tempt	привлекать
-löschen, löscht, löschte, hat gelöscht	löschen, löscht, löschte, hat gelöscht		verb	B1	to put out, delete	тушить. ; удалять. ; удалять
-Mahlzeit	die Mahlzeit, -en		die	B1	meal	еда. ; нет. ; нет
+löschen, löscht, löschte, hat gelöscht	löschen, löscht, löschte, hat gelöscht		verb	B1	to put out, delete	тушить; удалять
+Mahlzeit	die Mahlzeit, -en		die	B1	meal	еда; нет
 samt	samt		prep	B2+	together with, along with	вместе
 vollziehen, vollzieht, vollzog, hat vollzogen	vollziehen, vollzieht, vollzog, hat vollzogen		verb	B2+	to carry out, administer, take place	происходить
 Wiederholung	die Wiederholung, -en		die	B1	repetition	повторение
@@ -3444,11 +3444,11 @@ verzeichnen, verzeichnet, verzeichnete, hat verzeichnet	verzeichnen, verzeichnet
 Vorsicht	die Vorsicht		die	A1	caution	осторожность
 Auskunft	die Auskunft, -̈e		die	A1	information	справка
 Bezirk	der Bezirk, -e		der	B2+	district	район
-Bogen	der Bogen, -		der	A1	bow, arc, sheet	дуга. ; дуга. ; дуга
+Bogen	der Bogen, -		der	A1	bow, arc, sheet	дуга
 Entdeckung	die Entdeckung, -en		die	B2+	discovery	открытие
 Ferien	Ferien		die (pl)	A2	school break, vacation	каникулы
 General	der General, -e		der	B2+	general	генерал
-Messe	die Messe, -n		die	A2	(trade) fair, mass	выставка. ; месса. ; ярмарка
+Messe	die Messe, -n		die	A2	(trade) fair, mass	выставка; месса; ярмарка
 scheiden, scheidet, schied, hat geschieden	scheiden, scheidet, schied, hat geschieden		verb	B2+	to separate, divorce	разводиться
 schlucken, schluckt, schluckte, hat geschluckt	schlucken, schluckt, schluckte, hat geschluckt		verb	B2+	to swallow	глотать
 südlich	südlich		adj	B2+	southern	южный
@@ -3457,7 +3457,7 @@ anordnen, ordnet an, ordnete an, hat angeordnet	anordnen, ordnet an, ordnete an,
 beibringen, bringt bei, brachte bei, hat beigebracht	beibringen, bringt bei, brachte bei, hat beigebracht		verb	B2+	to teach	обучать
 bevorstehen, steht bevor, stand bevor, hat bevorgestanden	bevorstehen, steht bevor, stand bevor, hat bevorgestanden		verb	B2+	to lie ahead, be imminent	предстоять
 Chemiker	der Chemiker, -		der	B2+	chemist	химик
-Erscheinung	die Erscheinung, -en		die	B2+	phenomenon, appearance	внешность. ; явление. ; призрак
+Erscheinung	die Erscheinung, -en		die	B2+	phenomenon, appearance	внешность; явление; призрак
 herunter	herunter		adv	B2+	down	вниз
 hinterher	hinterher		adv	B1	after, afterwards	потом
 kostenlos	kostenlos		adj	A2	free (of charge)	бесплатный
@@ -3466,7 +3466,7 @@ Unabhängigkeit	die Unabhängigkeit, -en		die	B2+	independence	независи�
 Vene	die Vene, -n		die	B2+	vein	вена
 Bestand	der Bestand, -̈e		der	B2+	continuation, stock, supply	запас
 einzigartig	einzigartig		adj	B2+	unique	уникальный
-Kohle	die Kohle, -n		die	B2+	coal	уголь. ; деньги. ; деньги
+Kohle	die Kohle, -n		die	B2+	coal	уголь; деньги
 reell	reell		adj	B2+	real	реальный
 reiten, reitet, ritt, ist geritten	reiten, reitet, ritt, ist geritten		verb	A2	to ride	ездить верхом
 Smartphone	das Smartphone, -s		das	B2+	smartphone	смартфон
@@ -3517,7 +3517,7 @@ Wüste	die Wüste, -n		die	B2+	desert	пустыня
 berufen, beruft, berief, hat berufen	berufen, beruft, berief, hat berufen		verb	B2+	to appoint	назначать
 eingreifen, greift ein, griff ein, hat eingegriffen	eingreifen, greift ein, griff ein, hat eingegriffen		verb	B2+	to intervene	вмешиваться
 Tasse	die Tasse, -n		die	A2	cup	чашка
-unterstellen, unterstellt, unterstellte, hat unterstellt	unterstellen, unterstellt, unterstellte, hat unterstellt		verb	B2+	to put in charge, imply, store	подчинять. ; подчинять. ; подчинять
+unterstellen, unterstellt, unterstellte, hat unterstellt	unterstellen, unterstellt, unterstellte, hat unterstellt		verb	B2+	to put in charge, imply, store	подчинять
 vorbeigehen, geht vorbei, ging vorbei, ist vorbeigegangen	vorbeigehen, geht vorbei, ging vorbei, ist vorbeigegangen		verb	B2+	to go past, pass	проходить
 Flamme	die Flamme, -n		die	B2+	flame	пламя
 Frühling	der Frühling, -e		der	B2+	spring	весна
@@ -3549,7 +3549,7 @@ heulen, heult, heulte, hat geheult	heulen, heult, heulte, hat geheult		verb	B2+	
 zurücktreten, tritt zurück, trat zurück, ist zurückgetreten	zurücktreten, tritt zurück, trat zurück, ist zurückgetreten		verb	B2+	to step back, resign	уходить
 demnächst	demnächst		adv	B2+	shortly	вскоре
 einschlagen, schlägt ein, schlug ein, hat eingeschlagen	einschlagen, schlägt ein, schlug ein, hat eingeschlagen		verb	B2+	to hammer in, smash, take	разбивать
-Rock	der Rock, -̈e		der	A2	skirt, rock music	юбка. ; рок
+Rock	der Rock, -̈e		der	A2	skirt, rock music	юбка; рок
 Übernahme	die Übernahme, -n		die	B2+	takeover	поглощение
 akademisch	akademisch		adj	B2+	academic	академический
 aufwendig	aufwendig		adj	B2+	extravagant, costly	дорогостоящий
@@ -3581,7 +3581,7 @@ Steigerung	die Steigerung, -en		die	B2+	increase	увеличение
 Vorfall	der Vorfall, -̈e		der	B2+	incident	инцидент
 Vorfeld	das Vorfeld, -er		das	B2+	advance	заранее
 Ankunft	die Ankunft, -̈e		die	A1	arrival	прибытие
-Auflösung	die Auflösung, -en		die	B2+	dissolving, dissolution, breaking up	роспуск. ; роспуск. ; роспуск
+Auflösung	die Auflösung, -en		die	B2+	dissolving, dissolution, breaking up	роспуск
 ausweichen, weicht aus, wich aus, ist ausgewichen	ausweichen, weicht aus, wich aus, ist ausgewichen		verb	B2+	to make way, evade, avoid	избегать
 Paket	das Paket, -e		das	A2	parcel, package	посылка
 putzen, putzt, putzte, hat geputzt	putzen, putzt, putzte, hat geputzt		verb	A2	to clean	чистить
@@ -3599,7 +3599,7 @@ gegenüberstehen, steht gegenüber, stand gegenüber, hat gegenübergestanden	ge
 operativ	operativ		adj	B2+	operative	оперативный
 Proband	der Proband, -en		der	B2+	subject, test person	испытуемый
 Qualifikation	die Qualifikation, -en		die	B1	qualification	квалификация
-Schlange	die Schlange, -n		die	B2+	snake, line	очередь. ; змея. ; змея
+Schlange	die Schlange, -n		die	B2+	snake, line	очередь; змея
 schräg	schräg		adj	B2+	diagonal, at an angle	косой
 verehrt	verehrt		adj	B2+	venerated, honored	уважаемый
 wieviel	wieviel		pron	B2+	how much	сколько
@@ -3618,10 +3618,10 @@ Architektur	die Architektur, -en		die	B2+	architecture	архитектура
 Biologie	die Biologie		die	B1	biology	биология
 einmalig	einmalig		adj	B2+	unique, fantastic	уникальный
 irgend	irgend		adv	B1	some	какой-то
-Kreislauf	der Kreislauf, -̈e		der	B2+	circulation	кровообращение. ; цикл. ; круговорот
+Kreislauf	der Kreislauf, -̈e		der	B2+	circulation	кровообращение; цикл; круговорот
 Lösungsmittel	das Lösungsmittel, -		das	B2+	solvent	растворитель
 PC	der PC, -s		der	B2+	computer	компьютер
-Protokoll	das Protokoll, -e		das	B2+	minutes, record	протокол. ; протокол. ; протокол
+Protokoll	das Protokoll, -e		das	B2+	minutes, record	протокол
 unsichtbar	unsichtbar		adj	B2+	invisible	невидимый
 verdrängen, verdrängt, verdrängte, hat verdrängt	verdrängen, verdrängt, verdrängte, hat verdrängt		verb	B2+	to drive out, suppress	вытеснять
 vernichten, vernichtet, vernichtete, hat vernichtet	vernichten, vernichtet, vernichtete, hat vernichtet		verb	B2+	to destroy	уничтожать
@@ -3634,7 +3634,7 @@ Justiz	die Justiz		die	B2+	judiciary	правосудие
 zusammenkommen, kommt zusammen, kam zusammen, ist zusammengekommen	zusammenkommen, kommt zusammen, kam zusammen, ist zusammengekommen		verb	B2+	to meet, come together	собираться
 Abenteuer	das Abenteuer, -		das	B1	adventure	приключение
 erforschen, erforscht, erforschte, hat erforscht	erforschen, erforscht, erforschte, hat erforscht		verb	B2+	to explore, investigate	исследовать
-Flügel	der Flügel, -		der	B2+	wing	крыло. ; рояль. ; крыло
+Flügel	der Flügel, -		der	B2+	wing	крыло; рояль
 Teppich	der Teppich, -e		der	B1	carpet	ковёр
 touristisch	touristisch		adj	B2+	touristic	туристический
 werten, wertet, wertete, hat gewertet	werten, wertet, wertete, hat gewertet		verb	B2+	to rate, judge	оценивать
@@ -3643,7 +3643,7 @@ Hang	der Hang, -̈e		der	B2+	slope, inclination	склон
 Ägypten	Ägypten		das	B2+	Egypt	Египет
 Applaus	der Applaus, -e		der	B2+	applause	аплодисменты
 Ausprägung	die Ausprägung, -en		die	B2+	shaping, markedness	формирование
-Block	der Block, -̈e		der	B2+	block	квартал. ; блок. ; блокнот
+Block	der Block, -̈e		der	B2+	block	квартал; блок; блокнот
 rauschen, rauscht, rauschte, hat gerauscht	rauschen, rauscht, rauschte, hat gerauscht		verb	B2+	to rustle, roar, rush	шуметь
 tauschen, tauscht, tauschte, hat getauscht	tauschen, tauscht, tauschte, hat getauscht		verb	B1	to exchange, change, swap, switch	меняться
 zusammenleben, lebt zusammen, lebte zusammen, hat zusammengelebt	zusammenleben, lebt zusammen, lebte zusammen, hat zusammengelebt		verb	B2+	to live together	сожительствовать
@@ -3668,7 +3668,7 @@ wischen, wischt, wischte, hat gewischt	wischen, wischt, wischte, hat gewischt		v
 Beurteilung	die Beurteilung, -en		die	B2+	judgment	оценка
 erbringen, erbringt, erbrachte, hat erbracht	erbringen, erbringt, erbrachte, hat erbracht		verb	B2+	to raise, produce, show	выявлять
 folglich	folglich		adv	B2+	consequently	следовательно
-Hörer	der Hörer, -		der	B1	listener, receiver	слушатель. ; трубка. ; приемник
+Hörer	der Hörer, -		der	B1	listener, receiver	слушатель; трубка; приемник
 Prinz	der Prinz, -en		der	B2+	prince	принц
 Radius	der Radius, -en		der	B2+	radius	радиус
 Schaf	das Schaf, -e		das	B2+	sheep	овца
@@ -3701,7 +3701,7 @@ städtisch	städtisch		adj	B1	municipal, urban	городской
 wandeln, wandelt, wandelte, ist gewandelt	wandeln, wandelt, wandelte, ist gewandelt		verb	B2+	to change, convert	меняться
 harmlos	harmlos		adj	B2+	harmless	безобидный
 reichlich	reichlich		adj	B2+	plenty, generous	обильный
-ringen, ringt, rang, hat gerungen	ringen, ringt, rang, hat gerungen		verb	B2+	to wrestle, struggle	бороться. ; нет значения. ; нет значения
+ringen, ringt, rang, hat gerungen	ringen, ringt, rang, hat gerungen		verb	B2+	to wrestle, struggle	бороться; нет значения
 spektakulär	spektakulär		adj	B2+	spectacular	зрелищный
 stabilisieren, stabilisiert, stabilisierte, hat stabilisiert	stabilisieren, stabilisiert, stabilisierte, hat stabilisiert		verb	B2+	to stabilize	стабилизировать
 Strich	der Strich, -e		der	B2+	stroke, line	черта
@@ -3747,20 +3747,20 @@ Reporter	der Reporter, -		der	B1	reporter	репортер
 Schluck	der Schluck, -e		der	B2+	sip	глоток
 Schock	der Schock, -e		der	B2+	shock	шок
 aufschreiben, schreibt auf, schrieb auf, hat aufgeschrieben	aufschreiben, schreibt auf, schrieb auf, hat aufgeschrieben		verb	B1	to write down	записывать
-reizen, reizt, reizte, hat gereizt	reizen, reizt, reizte, hat gereizt		verb	B2+	to annoy, provoke, tempt	раздражать. ; раздражать. ; раздражать
+reizen, reizt, reizte, hat gereizt	reizen, reizt, reizte, hat gereizt		verb	B2+	to annoy, provoke, tempt	раздражать
 Attribut	das Attribut, -e		das	B2+	adjunct, attribute	атрибут
 aufreißen, reißt auf, riss auf, hat aufgerissen	aufreißen, reißt auf, riss auf, hat aufgerissen		verb	B2+	to tear open	разрывать
 Diagnose	die Diagnose, -n		die	B2+	diagnosis	диагноз
 hinzukommen, kommt hinzu, kam hinzu, ist hinzugekommen	hinzukommen, kommt hinzu, kam hinzu, ist hinzugekommen		verb	B2+	to be added, join	присоединяться
 prinzipiell	prinzipiell		adj	B2+	in principle	принципиально
 reflektieren, reflektiert, reflektierte, hat reflektiert	reflektieren, reflektiert, reflektierte, hat reflektiert		verb	B2+	to reflect	отражать
-Unterlage	die Unterlage, -n		die, die (pl)	B2+	base, pad, document; documents	документ. ; документ
+Unterlage	die Unterlage, -n		die, die (pl)	B2+	base, pad, document; documents	документ
 vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt	vernachlässigen, vernachlässigt, vernachlässigte, hat vernachlässigt		verb	B2+	to neglect	пренебрегать
 versinken, versinkt, versank, ist versunken	versinken, versinkt, versank, ist versunken		verb	B2+	to sink	тонуть
 erhitzen, erhitzt, erhitzte, hat erhitzt	erhitzen, erhitzt, erhitzte, hat erhitzt		verb	B2+	to heat (up)	нагревать
 Ersatz	der Ersatz, -̈e		der	B2+	replacement, compensation	замена
 EU-Kommission	die EU-Kommission		die	B2+	European Commission	Еврокомиссия
-hessisch	hessisch		adj, das	B2+	Hessian; Hessian	гессенский. ; гессенский
+hessisch	hessisch		adj, das	B2+	Hessian; Hessian	гессенский
 passiv	passiv		adj	B1	passive	пассивный
 Rauch	der Rauch, -e		der	B2+	smoke, fume	дым
 stinken, stinkt, stank, hat gestunken	stinken, stinkt, stank, hat gestunken		verb	B1	to stink	вонять
@@ -3780,7 +3780,7 @@ Feuerwehr	die Feuerwehr, -en		die	B1	fire brigade	пожарная охрана
 fixieren, fixiert, fixierte, hat fixiert	fixieren, fixiert, fixierte, hat fixiert		verb	B2+	to fixate on sb/sth	фиксироваться
 Gemälde	das Gemälde, -		das	B2+	painting	картина
 Heim	das Heim, -e		das	B1	home, institution	приют
-heranziehen, zieht heran, zog heran, hat herangezogen	heranziehen, zieht heran, zog heran, hat herangezogen		verb	B2+	to consult, draw near	привлекать. ; привлекать. ; привлекать
+heranziehen, zieht heran, zog heran, hat herangezogen	heranziehen, zieht heran, zog heran, hat herangezogen		verb	B2+	to consult, draw near	привлекать
 Image	das Image, -s		das	B2+	image	имидж
 Koch	der Koch, -̈e		der	B1	cook	повар
 Stadtteil	der Stadtteil, -e		der	B2+	district	район
@@ -3853,7 +3853,7 @@ Fabrik	die Fabrik, -en		die	B1	factory	фабрика
 mutig	mutig		adj	B1	courageous	смелый
 Stolz	der Stolz		der	B1	pride	гордость
 sympathisch	sympathisch		adj	A2	sympathetic	симпатичный
-Tafel	die Tafel, -n		die	A2	board, table	доска. ; доска. ; доска
+Tafel	die Tafel, -n		die	A2	board, table	доска
 Transformation	die Transformation, -en		die	B2+	transformation	трансформация
 Uniform	die Uniform, -en		die	B1	uniform	форма
 weigern, weigert, weigerte, hat geweigert	weigern (sich), weigert, weigerte, hat geweigert		verb	B2+	to refuse	отказываться
@@ -3897,7 +3897,7 @@ Substrat	das Substrat, -e		das	B2+	substrate	субстрат
 erlangen, erlangt, erlangte, hat erlangt	erlangen, erlangt, erlangte, hat erlangt		verb	B2+	to obtain, secure	получать
 zumachen, macht zu, machte zu, hat zugemacht	zumachen, macht zu, machte zu, hat zugemacht		verb	A2	to close, shut down	закрывать
 ausstellen, stellt aus, stellte aus, hat ausgestellt	ausstellen, stellt aus, stellte aus, hat ausgestellt		verb	B1	to display, issue, make out	выдавать
-Becken	das Becken, -		das	B2+	pool, pelvis	бассейн. ; таз. ; таз
+Becken	das Becken, -		das	B2+	pool, pelvis	бассейн; таз
 kreuzen, kreuzt, kreuzte, hat gekreuzt	kreuzen, kreuzt, kreuzte, hat gekreuzt		verb	B2+	to cross	пересекаться
 zart	zart		adj	B2+	tender	нежный
 Zwang	der Zwang, -̈e		der	B2+	force, pressure, compulsion	принуждение
@@ -3918,7 +3918,7 @@ gestehen, gesteht, gestand, hat gestanden	gestehen, gesteht, gestand, hat gestan
 Kerze	die Kerze, -n		die	B1	candle	свеча
 Konferenz	die Konferenz, -en		die	B1	conference	конференция
 ländlich	ländlich		adj	B2+	rural	сельский
-Stadium	das Stadium, -en		das	B2+	stage, phase	стадия. ; стадия. ; стадия
+Stadium	das Stadium, -en		das	B2+	stage, phase	стадия
 Unrecht	das Unrecht		das	B2+	injustice, wrong	несправедливость
 Versicherung	die Versicherung, -en		die	B1	insurance, assurance	страхование
 Wurst	die Wurst, -̈e		die	A2	sausage	колбаса
@@ -4000,7 +4000,7 @@ servieren, serviert, servierte, hat serviert	servieren, serviert, servierte, hat
 Sessel	der Sessel, -		der	B1	armchair	кресло
 Strahl	der Strahl, -en		der	B2+	ray, beam	луч
 Anwesenheit	die Anwesenheit		die	B2+	presence	присутствие
-Bube	der Bube, -n		der	B2+	boy	мальчик. ; валет. ; негодяй
+Bube	der Bube, -n		der	B2+	boy	мальчик; валет; негодяй
 Geldpolitik	die Geldpolitik, -en		die	B2+	financial policy	денежно-кредитная политика
 gewissermaßen	gewissermaßen		adv	B2+	so to speak, as it were	в некотором роде
 Ingenieur	der Ingenieur, -e		der	B1	engineer	инженер
@@ -4018,9 +4018,9 @@ Baustelle	die Baustelle, -n		die	A2	building site, construction site	строй�
 Index	der Index, -izes		der	B2+	index	указатель
 Kasten	der Kasten, -̈		der	B1	box, crate	ящик
 Kölner	Kölner		adj	B2+	Cologne	кёльнский
-Pariser	der Pariser, -		der	B2+	Parisian, condom	парижанин. ; презерватив
+Pariser	der Pariser, -		der	B2+	Parisian, condom	парижанин; презерватив
 schimpfen, schimpft, schimpfte, hat geschimpft	schimpfen, schimpft, schimpfte, hat geschimpft		verb	A2	to scold, rant	ругать
-Sicherung	die Sicherung, -en		die	B2+	protection, fuse	обеспечение. ; предохранитель. ; защита
+Sicherung	die Sicherung, -en		die	B2+	protection, fuse	обеспечение; предохранитель; защита
 Steigung	die Steigung, -en		die	B2+	ascent, slope	крутизна
 wegnehmen, nimmt weg, nahm weg, hat weggenommen	wegnehmen, nimmt weg, nahm weg, hat weggenommen		verb	B2+	to take away	отнимать
 worum	worum		pron	B1	what about	о чем
@@ -4040,11 +4040,11 @@ Bündnis	das Bündnis, -se		das	B2+	alliance	союз
 flüchtig	flüchtig		adj	B2+	fugitive, cursory, fleeting	беглый
 Geographie	die Geographie, -n		die	B2+	geography	география
 Lebewesen	das Lebewesen, -		das	B2+	living being	существо
-Ozean	der Ozean, -e		der	B1	ocean	океан. ; океан. ; океан
+Ozean	der Ozean, -e		der	B1	ocean	океан
 Pakistan	Pakistan		das	B2+	Pakistan	Пакистан
 Rheinland-Pfalz	Rheinland-Pfalz		das	B2+	Rhineland-Palatinate	Рейнланд-Пфальц
 Sektor	der Sektor, -en		der	B2+	sector	сектор
-umsonst	umsonst		adv	B1	for free, in vain	бесплатно. ; напрасно. ; напрасно
+umsonst	umsonst		adv	B1	for free, in vain	бесплатно; напрасно
 verdächtig	verdächtig		adj	B1	suspicious	подозрительный
 zuverlässig	zuverlässig		adj	B1	reliable	надежный
 abheben, hebt ab, hob ab, hat abgehoben	abheben, hebt ab, hob ab, hat abgehoben		verb	B1	to take off, withdraw	взлетать
@@ -4162,7 +4162,7 @@ Löwe	der Löwe, -n		der	B2+	lion	лев
 Operator	der Operator, -en		der	B2+	operator	оператор
 Partnerschaft	die Partnerschaft, -en		die	B2+	partnership	партнерство
 Pfund	das Pfund, -e		das	B2+	pound	фунт
-Unterhaltung	die Unterhaltung, -en		die	B1	entertainment, conversation	развлечение. ; беседа. ; разговор
+Unterhaltung	die Unterhaltung, -en		die	B1	entertainment, conversation	развлечение; беседа; разговор
 zerfallen, zerfällt, zerfiel, ist zerfallen	zerfallen, zerfällt, zerfiel, ist zerfallen		verb	B2+	to fall apart, disintegrate, decay, decline	распадаться
 zustande	zustande		adv	B2+	(come/bring) about	результат
 ablösen, löst ab, löste ab, hat abgelöst	ablösen, löst ab, löste ab, hat abgelöst		verb	B2+	to take over, remove, peel away	сменять
@@ -4202,7 +4202,7 @@ Schlacht	die Schlacht, -en		die	B2+	battle	битва
 sinnlos	sinnlos		adj	B1	meaningless	бессмысленный
 streben, strebt, strebte, hat gestrebt	streben, strebt, strebte, hat gestrebt		verb	B2+	to strive	стремиться
 Algorithmus	der Algorithmus, -en		der	B2+	algorithm	алгоритм
-beleuchten, beleuchtet, beleuchtete, hat beleuchtet	beleuchten, beleuchtet, beleuchtete, hat beleuchtet		verb	B2+	to light, illuminate, examine	освещать. ; освещать. ; освещать
+beleuchten, beleuchtet, beleuchtete, hat beleuchtet	beleuchten, beleuchtet, beleuchtete, hat beleuchtet		verb	B2+	to light, illuminate, examine	освещать
 drucken, druckt, druckte, hat gedruckt	drucken, druckt, druckte, hat gedruckt		verb	A1	to print	печатать
 erreichbar	erreichbar		adj	B2+	within reach, reachable	доступный
 erschweren, erschwert, erschwerte, hat erschwert	erschweren, erschwert, erschwerte, hat erschwert		verb	B2+	to complicate, make more difficult	затруднять
@@ -4245,7 +4245,7 @@ Erhebung	die Erhebung, -en		die	B2+	survey, elicitation, levying	сбор
 herausragen, ragt heraus, ragte heraus, hat herausgeragt	herausragen, ragt heraus, ragte heraus, hat herausgeragt		verb	B2+	to stand out	выделяться
 inszenieren, inszeniert, inszenierte, hat inszeniert	inszenieren, inszeniert, inszenierte, hat inszeniert		verb	B2+	to stage	инсценировать
 klatschen, klatscht, klatschte, hat geklatscht	klatschen, klatscht, klatschte, hat geklatscht		verb	B2+	to clap	хлопать
-Magazin	das Magazin, -e		das	B1	magazine, storehouse	журнал. ; склад. ; склад
+Magazin	das Magazin, -e		das	B1	magazine, storehouse	журнал; склад
 Zuhörer	der Zuhörer, -		der	B1	listener, audience (pl)	слушатель
 beschweren, beschwert, beschwerte, hat beschwert	beschweren, beschwert, beschwerte, hat beschwert		verb	A2	to weight, complain	жаловаться
 entgegenkommen, kommt entgegen, kam entgegen, ist entgegengekommen	entgegenkommen, kommt entgegen, kam entgegen, ist entgegengekommen		verb	B1	to meet, accommodate	идти навстречу
@@ -4350,12 +4350,12 @@ vorziehen, zieht vor, zog vor, hat vorgezogen	vorziehen, zieht vor, zog vor, hat
 Bande	die Bande, -n		die	B2+	gang, mob, clique	банда
 behindert	behindert		adj	B2+	handicapped	инвалид
 Bemühung	die Bemühung, -en		die	B2+	effort	усилие
-Besetzung	die Besetzung, -en		die	B2+	occupation, cast, line-up	состав. ; оккупация. ; занятость
+Besetzung	die Besetzung, -en		die	B2+	occupation, cast, line-up	состав; оккупация; занятость
 Bündel	das Bündel, -		das	B2+	bundle, bunch	сверток
 dämpfen, dämpft, dämpfte, hat gedämpft	dämpfen, dämpft, dämpfte, hat gedämpft		verb	B2+	to dampen, dim	приглушать
 FPÖ	FPÖ (Freiheitliche Partei Österreichs)		die	B2+	FPÖ	Австрийская партия свободы
 Gift	das Gift, -e		das	B1	poison	яд
-Knopf	der Knopf, -̈e		der	B1	button	пуговица. ; кнопка. ; кнопка
+Knopf	der Knopf, -̈e		der	B1	button	пуговица; кнопка
 Lebensjahr	das Lebensjahr, -e		das	B2+	year (of one’s life)	год
 News	die News		die	B2+	news	новость
 Profil	das Profil, -e		das	B2+	profile	профиль
@@ -4378,13 +4378,13 @@ streicheln, streichelt, streichelte, hat gestreichelt	streicheln, streichelt, st
 überlegen	überlegen		adj	B1	superior	превосходящий
 ausfüllen, füllt aus, füllte aus, hat ausgefüllt	ausfüllen, füllt aus, füllte aus, hat ausgefüllt		verb	A1	to fill out	заполнять
 Betreuung	die Betreuung, -en		die	B1	care	уход
-eintreffen, trifft ein, traf ein, ist eingetroffen	eintreffen, trifft ein, traf ein, ist eingetroffen		verb	B2+	to arrive, come true, happen	прибывать. ; прибывать. ; прибывать
+eintreffen, trifft ein, traf ein, ist eingetroffen	eintreffen, trifft ein, traf ein, ist eingetroffen		verb	B2+	to arrive, come true, happen	прибывать
 Kuchen	der Kuchen, -		der	A1	cake	пирог
 Nachwuchs	der Nachwuchs		der	B1	offspring, new generation	потомство
 plädieren, plädiert, plädierte, hat plädiert	plädieren, plädiert, plädierte, hat plädiert		verb	B2+	to plead, make one’s case	выступать
 trösten, tröstet, tröstete, hat getröstet	trösten, tröstet, tröstete, hat getröstet		verb	B2+	to comfort	утешать
 Ungleichheit	die Ungleichheit, -en		die	B2+	inequality, dissimilarity	неравенство
-Verteidiger	der Verteidiger, -		der	B2+	defender, defense counsel	адвокат. ; защитник. ; защитник
+Verteidiger	der Verteidiger, -		der	B2+	defender, defense counsel	адвокат; защитник
 Center	das Center, -		das	B2+	center	центр
 Halt	der Halt, -e		der	B2+	stop, hold	остановка
 Handwerk	das Handwerk, -e		das	B2+	craft, trade	ремесло
@@ -4439,7 +4439,7 @@ kommunikativ	kommunikativ		adj	B2+	communicative	коммуникабельны�
 Kongress	der Kongress, -e		der	B2+	congress, convention	конгресс
 letzterer, letztere, letzteres	letzterer, letztere, letzteres		adj	B2+	latter	последний
 nebeneinander	nebeneinander		adv	B2+	side by side, next to each other	рядом
-Passage	die Passage, -n		die	B2+	passage	отрывок. ; пассаж. ; проход
+Passage	die Passage, -n		die	B2+	passage	отрывок; пассаж; проход
 strömen, strömt, strömte, ist geströmt	strömen, strömt, strömte, ist geströmt		verb	B2+	to flow	течь
 zeitgenössisch	zeitgenössisch		adj	B2+	contemporary	современный
 zerbrechen, zerbricht, zerbrach, hat zerbrochen	zerbrechen, zerbricht, zerbrach, hat zerbrochen		verb	B2+	to break, shatter	разбиваться
@@ -4508,7 +4508,7 @@ Müll	der Müll		der	A2	waste, garbage, rubbish, trash	мусор
 rational	rational		adj	B2+	rational	рациональный
 Vergnügen	das Vergnügen, -		das	B1	pleasure	удовольствие
 fließend	fließend		adj	B1	fluent, fluid, flowing	струящийся
-konsumieren, konsumiert, konsumierte, hat konsumiert	konsumieren, konsumiert, konsumierte, hat konsumiert		verb	B1	to consume	потреблять. ; нет. ; нет
+konsumieren, konsumiert, konsumierte, hat konsumiert	konsumieren, konsumiert, konsumierte, hat konsumiert		verb	B1	to consume	потреблять; нет
 naturwissenschaftlich	naturwissenschaftlich		adj	B2+	scientific	естественнонаучный
 Ökonomie	die Ökonomie, -n		die	B2+	economics	экономика
 Festival	das Festival, -s		das	A2	festival	фестиваль
@@ -4620,7 +4620,7 @@ willen	willen		prep	B2+	for the sake of	ради
 Atomkern	der Atomkern, -e		der	B2+	(atomic) nucleus	атомное ядро
 ausgesprochen	ausgesprochen		adj	B2+	pronounced, expressed, exceptional	чрезвычайный
 ausrufen, ruft aus, rief aus, hat ausgerufen	ausrufen, ruft aus, rief aus, hat ausgerufen		verb	B2+	to page, call out	вызывать
-bewaffnen, bewaffnet, bewaffnete, hat bewaffnet	bewaffnen, bewaffnet, bewaffnete, hat bewaffnet		verb	B2+	to arm	вооружать. ; вооруженный. ; вооруженный
+bewaffnen, bewaffnet, bewaffnete, hat bewaffnet	bewaffnen, bewaffnet, bewaffnete, hat bewaffnet		verb	B2+	to arm	вооружать; вооруженный
 Enkel	der Enkel, -		der	B1	grandson	внук
 Legende	die Legende, -n		die	B2+	legend	легенда
 Pflege	die Pflege		die	B2+	care	уход
@@ -4663,7 +4663,7 @@ parlamentarisch	parlamentarisch		adj	B2+	parliamentary	парламентски�
 semantisch	semantisch		adj	B2+	semantic	семантический
 überwältigen, überwältigt, überwältigte, hat überwältigt	überwältigen, überwältigt, überwältigte, hat überwältigt		verb	B2+	to overwhelm	овладевать
 ähneln, ähnelt, ähnelte, hat geähnelt	ähneln, ähnelt, ähnelte, hat geähnelt		verb	B2+	to be similar, resemble	походить
-Beleg	der Beleg, -e		der	B1	proof, evidence, receipt	чек. ; доказательство. ; подтверждение
+Beleg	der Beleg, -e		der	B1	proof, evidence, receipt	чек; доказательство; подтверждение
 Blase	die Blase, -n		die	B2+	blister, bladder, bubble	пузырь
 Energiewirtschaft	die Energiewirtschaft		die	B2+	energy industry	энергетика
 Halbfinale	das Halbfinale, -		das	B2+	semi-final	полуфинал
@@ -4945,7 +4945,7 @@ nachgeben, gibt nach, gab nach, hat nachgegeben	nachgeben, gibt nach, gab nach, 
 Tatort	der Tatort, -e		der	B2+	crime scene	место преступления
 tragisch	tragisch		adj	B2+	tragic	трагический
 Attentat	das Attentat, -e		das	B2+	assassination	покушение
-Ausschnitt	der Ausschnitt, -e		der	B2+	section, extract, excerpt, neckline	вырез. ; фрагмент. ; отрывок
+Ausschnitt	der Ausschnitt, -e		der	B2+	section, extract, excerpt, neckline	вырез; фрагмент; отрывок
 jüngst	jüngst		adv	B2+	recent	недавний
 Kopie	die Kopie, -n		die	B1	copy	копия
 Population	die Population, -en		die	B2+	population	популяция
@@ -4977,7 +4977,7 @@ Delegierte	die Delegierte		der, die	B2+	delegate	делегат
 entgegen	entgegen		prep	B2+	contrary to	вопреки
 Grundeinkommen	das Grundeinkommen		das	B2+	basic income	безусловный доход
 Nachhinein	Nachhinein		das	B2+	retrospect	ретроспектива
-Neigung	die Neigung, -en		die	B2+	tendency, propensity, slope, incline	склонность. ; наклон. ; наклонность
+Neigung	die Neigung, -en		die	B2+	tendency, propensity, slope, incline	склонность; наклон; наклонность
 Obst	das Obst		das	A1	fruit	фрукты
 Ofen	der Ofen, -Ö		der	B2+	oven, furnace	печь
 offenbaren, offenbart, offenbarte, hat offenbart	offenbaren, offenbart, offenbarte, hat offenbart		verb	B2+	to reveal	открывать

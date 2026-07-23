@@ -3,7 +3,7 @@
 ZID: 20260723233029
 Description: Populates/updates the Russian column in Goethe German 5000 TSV files 
              using multi-definition Russian fields from the CSV file (Definition 1-3 Russian),
-             joining multiple definitions with '. ; '.
+             joining multiple definitions with '; '.
 """
 
 import csv
@@ -20,11 +20,14 @@ def get_col(row, idx):
 
 def format_russian_definitions(defs):
     filtered = []
+    seen = set()
     for d in defs:
         d_clean = d.strip()
         if d_clean and d_clean not in ("None", "-", "--", "n/a", "null", "не определено", "?"):
-            filtered.append(d_clean)
-    return ". ; ".join(filtered)
+            if d_clean not in seen:
+                seen.add(d_clean)
+                filtered.append(d_clean)
+    return "; ".join(filtered)
 
 def main():
     if not os.path.exists(input_csv):
@@ -70,7 +73,6 @@ def main():
             continue
 
         header_tsv = lines[0]
-        # Ensure header has Russian column
         if "Russian" not in header_tsv:
             header_tsv.append("Russian")
         ru_col_idx = header_tsv.index("Russian")

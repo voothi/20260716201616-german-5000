@@ -63,8 +63,9 @@ class TestGermanScripts(unittest.TestCase):
 
     def test_format_russian_definitions_m3(self):
         fmt_fn = self.m3.format_russian_definitions
-        self.assertEqual(fmt_fn(["вечер", "вечером"]), "вечер. ; вечером")
-        self.assertEqual(fmt_fn(["определенный артикль", "тот", "который"]), "определенный артикль. ; тот. ; который")
+        self.assertEqual(fmt_fn(["вечер", "вечером"]), "вечер; вечером")
+        self.assertEqual(fmt_fn(["определенный артикль", "тот", "который"]), "определенный артикль; тот; который")
+        self.assertEqual(fmt_fn(["быть", "быть"]), "быть")
         self.assertEqual(fmt_fn(["но", "", "None"]), "но")
         self.assertEqual(fmt_fn(["-", "не определено"]), "")
 
