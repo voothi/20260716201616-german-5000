@@ -47,54 +47,19 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         margin: 0;
         padding: 0;
     }}
-    .header {{
-        margin-bottom: 3mm;
-    }}
+    .header {{ margin-bottom: 3mm; }}
     .title {{
-        color: #195b98;
-        font-size: 26pt;
-        font-weight: normal;
-        margin: 0 0 8px 0;
-        letter-spacing: -0.5px;
-        font-family: "DejaVu Serif", "Liberation Serif", Georgia, serif;
+        color: #195b98; font-size: 26pt; font-weight: normal; margin: 0 0 8px 0; letter-spacing: -0.5px; font-family: "DejaVu Serif", "Liberation Serif", Georgia, serif;
     }}
-    .subtitle {{
-        color: #555;
-        font-size: 9pt;
-        font-style: italic;
-        margin: 0 0 10px 0;
-    }}
-    .divider {{
-        border-top: 1.5px solid #000;
-        margin-bottom: 12px;
-    }}
-    .content {{
-        column-count: 3;
-        column-gap: 20px;
-    }}
-    .entry {{
-        margin-bottom: 1.5px;
-        page-break-inside: avoid;
-        text-indent: -10px;
-        padding-left: 10px;
-    }}
-    .word {{
-        color: #000;
-        font-weight: bold;
-    }}
-    .pos {{
-        color: #555;
-        font-style: italic;
-        margin-left: 3px;
-    }}
-    .level {{
-        color: #777;
-        margin-left: 3px;
-    }}
-    .trans {{
-        color: #195b98;
-        margin-left: 3px;
-    }}
+    .subtitle {{ color: #555; font-size: 9pt; font-style: italic; margin: 0 0 10px 0; }}
+    .divider {{ border-top: 1.5px solid #000; margin-bottom: 12px; }}
+    .content {{ column-count: 3; column-gap: 20px; }}
+    .entry {{ margin-bottom: 1.5px; page-break-inside: avoid; text-indent: -10px; padding-left: 10px; }}
+    .word {{ color: #000; font-weight: bold; }}
+    .pos {{ color: #555; font-style: italic; margin-left: 3px; }}
+    .level {{ color: #777; margin-left: 3px; }}
+    .trans-en {{ color: #195b98; margin-left: 3px; }} /* Blue for English */
+    .trans-ru {{ color: #b22222; margin-left: 3px; }} /* Brick Red/Brown for Russian */
 </style>
 </head>
 <body>
@@ -125,16 +90,16 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         
         entry_html = f'<span class="word">{word_safe}</span> <span class="pos">{pos_safe}</span> <span class="level">{lvl_safe}</span>'
         
-        # Append translations: English then Russian
+        # Append translations: English (Blue) then Russian (Brick Brown)
         if has_english:
             trans_en = str(row['English']) if pd.notna(row['English']) else ""
             if trans_en:
-                entry_html += f' <span class="trans">{html.escape(trans_en)}</span>'
+                entry_html += f' <span class="trans-en">{html.escape(trans_en)}</span>'
 
         if has_russian:
             trans_ru = str(row['Russian']) if pd.notna(row['Russian']) else ""
             if trans_ru:
-                entry_html += f' <span class="trans">{html.escape(trans_ru)}</span>'
+                entry_html += f' <span class="trans-ru">{html.escape(trans_ru)}</span>'
         
         html_content += f'        <div class="entry">{entry_html}</div>\n'
         count += 1
