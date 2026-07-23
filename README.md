@@ -47,26 +47,23 @@ U:\voothi\20260716201616-german-5000\
 ├── tests/
 ├── .gitattributes
 ├── .gitignore
-├── 20260716200932-goethe-german-5000-ru.de.html      # Alphabetical HTML (with Russian)
-├── 20260716200932-goethe-german-5000-ru.de.pdf       # Alphabetical PDF (with Russian)
-├── 20260716200932-goethe-german-5000-ru.de.tsv       # Alphabetical TSV (with Russian)
-├── 20260716200932-goethe-german-5000.de.csv          # Original source CSV
-├── 20260716200932-goethe-german-5000.de.html         # Alphabetical HTML
-├── 20260716200932-goethe-german-5000.de.pdf          # Alphabetical PDF
-├── 20260716200932-goethe-german-5000.de.tsv          # Alphabetical TSV
-├── 20260716201616-german-5000.code-workspace         # VS Code Workspace Configuration
-├── 20260716202200-goethe-german-5000-freq-ru.de.html # Frequency-ordered HTML (with Russian)
-├── 20260716202200-goethe-german-5000-freq-ru.de.pdf  # Frequency-ordered PDF (with Russian)
-├── 20260716202200-goethe-german-5000-freq-ru.de.tsv  # Frequency-ordered TSV (with Russian)
-├── 20260716202200-goethe-german-5000-freq.de.csv     # Original source CSV (Frequency)
-├── 20260716202200-goethe-german-5000-freq.de.html    # Frequency-ordered HTML
-├── 20260716202200-goethe-german-5000-freq.de.pdf     # Frequency-ordered PDF
-├── 20260716202200-goethe-german-5000-freq.de.tsv     # Frequency-ordered TSV
+├── 20260716200932-goethe-german-5000-en-ru.de.html      # Alphabetical HTML (with English & Russian)
+├── 20260716200932-goethe-german-5000-en.de.html         # Alphabetical HTML (with English)
+├── 20260716200932-goethe-german-5000-ru.de.html         # Alphabetical HTML (with Russian)
+├── 20260716200932-goethe-german-5000-ru.de.tsv          # Alphabetical TSV (with Russian)
+├── 20260716200932-goethe-german-5000.de.html            # Alphabetical HTML (without translations)
+├── 20260716200932-goethe-german-5000.de.tsv             # Alphabetical TSV
+├── 20260716201616-german-5000.code-workspace            # VS Code Workspace Configuration
+├── 20260716202200-goethe-german-5000-freq-en-ru.de.html # Frequency-ordered HTML (with English & Russian)
+├── 20260716202200-goethe-german-5000-freq-en.de.html    # Frequency-ordered HTML (with English)
+├── 20260716202200-goethe-german-5000-freq-ru.de.html    # Frequency-ordered HTML (with Russian)
+├── 20260716202200-goethe-german-5000-freq-ru.de.tsv     # Frequency-ordered TSV (with Russian)
+├── 20260716202200-goethe-german-5000-freq.de.html       # Frequency-ordered HTML (without translations)
+├── 20260716202200-goethe-german-5000-freq.de.tsv        # Frequency-ordered TSV
+├── 20260723231408-english-deutsch.csv                   # English-German CSV translation source
 ├── German 5000 Frequency Words Audio + Conjugations + Goethe V2 - AnkiWeb.url
 ├── LICENSE
-├── README.md
-├── update_names.py
-└── update_trees.py
+└── README.md
 ```
 
 [Return to Top](#german-5000-wordlist-curation--caching-pipeline)
