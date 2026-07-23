@@ -4,7 +4,7 @@ import html
 import argparse
 import sys
 
-def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
+def generate_html(input_tsv, output_html, doc_title, doc_subtitle, langs):
     try:
         df = pd.read_csv(input_tsv, sep='\t')
         print(f"Shape of dataset '{input_tsv}':", df.shape)
@@ -12,9 +12,26 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         print(f"Error reading file: {e}")
         sys.exit(1)
 
+    # Parse the target languages from the arguments
+    target_langs = [l.strip().lower() for l in langs.split(',')]
+
     # Auto-detect if the English and Russian translation columns exist
     has_english = 'English' in df.columns
     has_russian = 'Russian' in df.columns
+
+    # Dynamic CSS based on selected languages
+    if 'en' in target_langs and 'ru' in target_langs:
+        css_trans = """
+    .trans-en { color: #195b98; margin-left: 3px; } /* Blue for English */
+    .trans-ru { color: #b22222; margin-left: 3px; } /* Brick Brown for Russian */"""
+    elif 'ru' in target_langs:
+        css_trans = """
+    .trans-ru { color: #195b98; margin-left: 3px; } /* Blue for Russian (standalone) */"""
+    elif 'en' in target_langs:
+        css_trans = """
+    .trans-en { color: #195b98; margin-left: 3px; } /* Blue for English (standalone) */"""
+    else:
+        css_trans = ""
 
     html_content = f"""<!DOCTYPE html>
 <html>
@@ -57,9 +74,7 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
     .entry {{ margin-bottom: 1.5px; page-break-inside: avoid; text-indent: -10px; padding-left: 10px; }}
     .word {{ color: #000; font-weight: bold; }}
     .pos {{ color: #555; font-style: italic; margin-left: 3px; }}
-    .level {{ color: #777; margin-left: 3px; }}
-    .trans-en {{ color: #195b98; margin-left: 3px; }} /* Blue for English */
-    .trans-ru {{ color: #b22222; margin-left: 3px; }} /* Brick Red/Brown for Russian */
+    .level {{ color: #777; margin-left: 3px; }}{css_trans}
 </style>
 </head>
 <body>
@@ -90,15 +105,15 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle):
         
         entry_html = f'<span class="word">{word_safe}</span> <span class="pos">{pos_safe}</span> <span class="level">{lvl_safe}</span>'
         
-        # Append translations: English (Blue) then Russian (Brick Brown)
-        if has_english:
+        # Append translations based on selected languages
+        if has_english and 'en' in target_langs:
             trans_en = str(row['English']) if pd.notna(row['English']) else ""
-            if trans_en:
+            if trans_en and trans_en != 'nan':
                 entry_html += f' <span class="trans-en">{html.escape(trans_en)}</span>'
 
-        if has_russian:
+        if has_russian and 'ru' in target_langs:
             trans_ru = str(row['Russian']) if pd.notna(row['Russian']) else ""
-            if trans_ru:
+            if trans_ru and trans_ru != 'nan':
                 entry_html += f' <span class="trans-ru">{html.escape(trans_ru)}</span>'
         
         html_content += f'        <div class="entry">{entry_html}</div>\n'
@@ -122,6 +137,7 @@ if __name__ == "__main__":
     parser.add_argument("--subtitle", 
                         default="The Goethe German 5000 is a core word list for learners of German, organized alphabetically, from A1 to C1 level.",
                         help="Subtitle of the document")
+    parser.add_argument("--langs", default="en,ru", help="Comma-separated list of translations to include (e.g., 'ru' or 'en,ru'). Default: 'en,ru'")
     
     args = parser.parse_args()
-    generate_html(args.input_tsv, args.output_html, args.title, args.subtitle)
+    generate_html(args.input_tsv, args.output_html, args.title, args.subtitle, args.langs)
