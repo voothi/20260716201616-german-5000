@@ -21,6 +21,7 @@ class TestGermanScripts(unittest.TestCase):
         # Dynamically import modules with numeric prefixes from scripts folder
         cls.m1 = importlib.import_module("1_convert_german_csv_to_tsv")
         cls.m2 = importlib.import_module("2_convert_german_by_frequency")
+        cls.m3 = importlib.import_module("3_add_russian_definitions")
 
     def test_clean_german_lemma_m1(self):
         clean_fn = self.m1.clean_german_lemma
@@ -59,6 +60,13 @@ class TestGermanScripts(unittest.TestCase):
         self.assertLess(sort_key_fn({"word": "Ägypten"}), sort_key_fn({"word": "ah"}))
         # "Agentur" (agentur) should sort before "Ägypten" (agypten)
         self.assertLess(sort_key_fn({"word": "Agentur"}), sort_key_fn({"word": "Ägypten"}))
+
+    def test_format_russian_definitions_m3(self):
+        fmt_fn = self.m3.format_russian_definitions
+        self.assertEqual(fmt_fn(["вечер", "вечером"]), "вечер. ; вечером")
+        self.assertEqual(fmt_fn(["определенный артикль", "тот", "который"]), "определенный артикль. ; тот. ; который")
+        self.assertEqual(fmt_fn(["но", "", "None"]), "но")
+        self.assertEqual(fmt_fn(["-", "не определено"]), "")
 
 if __name__ == "__main__":
     unittest.main()
