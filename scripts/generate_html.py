@@ -5,7 +5,7 @@ import argparse
 import sys
 import os
 
-def generate_html(input_tsv, output_html, doc_title="Goethe German 5000", doc_subtitle=None, langs="en,ru"):
+def generate_html(input_tsv, output_html, doc_title="Goethe German 5000", doc_subtitle=None, langs="en,ru", encoding="utf-8", newline="\n"):
     try:
         df = pd.read_csv(input_tsv, sep='\t')
         print(f"Shape of dataset '{input_tsv}':", df.shape)
@@ -130,12 +130,15 @@ def generate_html(input_tsv, output_html, doc_title="Goethe German 5000", doc_su
 </html>
 """
 
-    with open(output_html, "w", encoding="utf-8") as f:
+    # Normalize line endings to LF before writing
+    html_content = html_content.replace("\r\n", "\n").replace("\r", "\n")
+
+    with open(output_html, "w", encoding=encoding, newline=newline) as f:
         f.write(html_content)
 
     print(f"HTML generated successfully with {count} entries -> {output_html}")
 
-def generate_all_html_files(base_dir=None):
+def generate_all_html_files(base_dir=None, encoding="utf-8", newline="\n"):
     if base_dir is None:
         base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
         
@@ -159,7 +162,7 @@ def generate_all_html_files(base_dir=None):
 
     for input_tsv, output_html, langs in tasks:
         if os.path.exists(input_tsv):
-            generate_html(input_tsv, output_html, langs=langs)
+            generate_html(input_tsv, output_html, langs=langs, encoding=encoding, newline=newline)
         else:
             print(f"Warning: Input TSV not found: {input_tsv}")
 
@@ -170,12 +173,14 @@ if __name__ == "__main__":
     parser.add_argument("--title", default="Goethe German 5000", help="Title of the document")
     parser.add_argument("--subtitle", default=None, help="Subtitle of the document")
     parser.add_argument("--langs", default="en,ru", help="Comma-separated list of translations to include (e.g., 'ru' or 'en,ru'). Default: 'en,ru'")
+    parser.add_argument("--encoding", default="utf-8", help="File output encoding (default: utf-8 without BOM)")
+    parser.add_argument("--newline", default="\n", help="Line ending character (default: '\\n' / LF)")
     parser.add_argument("--all", action="store_true", help="Generate all 8 HTML files in project root")
     
     args = parser.parse_args()
     if args.all or (not args.input_tsv and not args.output_html):
-        generate_all_html_files()
+        generate_all_html_files(encoding=args.encoding, newline=args.newline)
     elif args.input_tsv and args.output_html:
-        generate_html(args.input_tsv, args.output_html, args.title, args.subtitle, args.langs)
+        generate_html(args.input_tsv, args.output_html, args.title, args.subtitle, args.langs, encoding=args.encoding, newline=args.newline)
     else:
         parser.print_help()
