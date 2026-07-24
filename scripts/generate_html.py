@@ -3,8 +3,9 @@ import pandas as pd
 import html
 import argparse
 import sys
+import os
 
-def generate_html(input_tsv, output_html, doc_title, doc_subtitle, langs):
+def generate_html(input_tsv, output_html, doc_title="Goethe German 5000", doc_subtitle=None, langs="en,ru"):
     try:
         df = pd.read_csv(input_tsv, sep='\t')
         print(f"Shape of dataset '{input_tsv}':", df.shape)
@@ -12,8 +13,13 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle, langs):
         print(f"Error reading file: {e}")
         sys.exit(1)
 
+    if not doc_subtitle:
+        is_freq = "freq" in os.path.basename(input_tsv).lower() or "freq" in os.path.basename(output_html).lower()
+        order_str = "organized by frequency" if is_freq else "organized alphabetically"
+        doc_subtitle = f"The Goethe German 5000 is a core word list for learners of German, {order_str}, from A1 to C1 level."
+
     # Parse the target languages from the arguments
-    target_langs = [l.strip().lower() for l in langs.split(',')]
+    target_langs = [l.strip().lower() for l in langs.split(',') if l.strip()]
 
     # Auto-detect if the English and Russian translation columns exist
     has_english = 'English' in df.columns
@@ -129,15 +135,47 @@ def generate_html(input_tsv, output_html, doc_title, doc_subtitle, langs):
 
     print(f"HTML generated successfully with {count} entries -> {output_html}")
 
+def generate_all_html_files(base_dir=None):
+    if base_dir is None:
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        
+    alpha_tsv_base = os.path.join(base_dir, "20260716200932-goethe-german-5000.de.tsv")
+    alpha_tsv_ru = os.path.join(base_dir, "20260716200932-goethe-german-5000-ru.de.tsv")
+    freq_tsv_base = os.path.join(base_dir, "20260716202200-goethe-german-5000-freq.de.tsv")
+    freq_tsv_ru = os.path.join(base_dir, "20260716202200-goethe-german-5000-freq-ru.de.tsv")
+
+    tasks = [
+        # Alphabetical
+        (alpha_tsv_base, os.path.join(base_dir, "20260716200932-goethe-german-5000.de.html"), ""),
+        (alpha_tsv_base, os.path.join(base_dir, "20260716200932-goethe-german-5000-en.de.html"), "en"),
+        (alpha_tsv_ru, os.path.join(base_dir, "20260716200932-goethe-german-5000-ru.de.html"), "ru"),
+        (alpha_tsv_ru, os.path.join(base_dir, "20260716200932-goethe-german-5000-en-ru.de.html"), "en,ru"),
+        # Frequency
+        (freq_tsv_base, os.path.join(base_dir, "20260716202200-goethe-german-5000-freq.de.html"), ""),
+        (freq_tsv_base, os.path.join(base_dir, "20260716202200-goethe-german-5000-freq-en.de.html"), "en"),
+        (freq_tsv_ru, os.path.join(base_dir, "20260716202200-goethe-german-5000-freq-ru.de.html"), "ru"),
+        (freq_tsv_ru, os.path.join(base_dir, "20260716202200-goethe-german-5000-freq-en-ru.de.html"), "en,ru"),
+    ]
+
+    for input_tsv, output_html, langs in tasks:
+        if os.path.exists(input_tsv):
+            generate_html(input_tsv, output_html, langs=langs)
+        else:
+            print(f"Warning: Input TSV not found: {input_tsv}")
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate Goethe HTML dictionary from TSV.")
-    parser.add_argument("input_tsv", help="Input TSV file path")
-    parser.add_argument("output_html", help="Output HTML file path")
+    parser.add_argument("input_tsv", nargs="?", default=None, help="Input TSV file path")
+    parser.add_argument("output_html", nargs="?", default=None, help="Output HTML file path")
     parser.add_argument("--title", default="Goethe German 5000", help="Title of the document")
-    parser.add_argument("--subtitle", 
-                        default="The Goethe German 5000 is a core word list for learners of German, organized alphabetically, from A1 to C1 level.",
-                        help="Subtitle of the document")
+    parser.add_argument("--subtitle", default=None, help="Subtitle of the document")
     parser.add_argument("--langs", default="en,ru", help="Comma-separated list of translations to include (e.g., 'ru' or 'en,ru'). Default: 'en,ru'")
+    parser.add_argument("--all", action="store_true", help="Generate all 8 HTML files in project root")
     
     args = parser.parse_args()
-    generate_html(args.input_tsv, args.output_html, args.title, args.subtitle, args.langs)
+    if args.all or (not args.input_tsv and not args.output_html):
+        generate_all_html_files()
+    elif args.input_tsv and args.output_html:
+        generate_html(args.input_tsv, args.output_html, args.title, args.subtitle, args.langs)
+    else:
+        parser.print_help()
